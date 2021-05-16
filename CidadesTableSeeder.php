@@ -110,167 +110,167 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 97, 'estado_id' => 6, 'cidade_nome' => 'Alcântaras', 'cidade_uf' => 'CE'],
             ['cidade_id' => 98, 'estado_id' => 15, 'cidade_nome' => 'Alcantil', 'cidade_uf' => 'PB'],
             ['cidade_id' => 99, 'estado_id' => 12, 'cidade_nome' => 'Alcinópolis', 'cidade_uf' => 'MS'],
-            ['cidade_id' => 100', '5', 'Alcobaça', 'BA');
-            INSERT INTO `cidades` VALUES ('101', '10', 'Aldeias Altas', 'MA');
-            INSERT INTO `cidades` VALUES ('102', '21', 'Alecrim', 'RS');
-            INSERT INTO `cidades` VALUES ('103', '8', 'Alegre', 'ES');
-            INSERT INTO `cidades` VALUES ('104', '21', 'Alegrete', 'RS');
-            INSERT INTO `cidades` VALUES ('105', '18', 'Alegrete do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('106', '21', 'Alegria', 'RS');
-            INSERT INTO `cidades` VALUES ('107', '13', 'Além Paraíba', 'MG');
-            INSERT INTO `cidades` VALUES ('108', '14', 'Alenquer', 'PA');
-            INSERT INTO `cidades` VALUES ('109', '20', 'Alexandria', 'RN');
-            INSERT INTO `cidades` VALUES ('110', '9', 'Alexânia', 'GO');
-            INSERT INTO `cidades` VALUES ('111', '13', 'Alfenas', 'MG');
-            INSERT INTO `cidades` VALUES ('112', '8', 'Alfredo Chaves', 'ES');
-            INSERT INTO `cidades` VALUES ('113', '25', 'Alfredo Marcondes', 'SP');
-            INSERT INTO `cidades` VALUES ('114', '13', 'Alfredo Vasconcelos', 'MG');
-            INSERT INTO `cidades` VALUES ('115', '24', 'Alfredo Wagner', 'SC');
-            INSERT INTO `cidades` VALUES ('116', '15', 'Algodão de Jandaíra', 'PB');
-            INSERT INTO `cidades` VALUES ('117', '15', 'Alhandra', 'PB');
-            INSERT INTO `cidades` VALUES ('118', '17', 'Aliança', 'PE');
-            INSERT INTO `cidades` VALUES ('119', '27', 'Aliança do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('120', '5', 'Almadina', 'BA');
-            INSERT INTO `cidades` VALUES ('121', '27', 'Almas', 'TO');
-            INSERT INTO `cidades` VALUES ('122', '14', 'Almeirim', 'PA');
-            INSERT INTO `cidades` VALUES ('123', '13', 'Almenara', 'MG');
-            INSERT INTO `cidades` VALUES ('124', '20', 'Almino Afonso', 'RN');
-            INSERT INTO `cidades` VALUES ('125', '16', 'Almirante Tamandaré', 'PR');
-            INSERT INTO `cidades` VALUES ('126', '21', 'Almirante Tamandaré do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('127', '9', 'Aloândia', 'GO');
-            INSERT INTO `cidades` VALUES ('128', '13', 'Alpercata', 'MG');
-            INSERT INTO `cidades` VALUES ('129', '21', 'Alpestre', 'RS');
-            INSERT INTO `cidades` VALUES ('130', '13', 'Alpinópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('131', '11', 'Alta Floresta', 'MT');
-            INSERT INTO `cidades` VALUES ('132', '22', 'Alta Floresta D\'Oeste', 'RO');
-            INSERT INTO `cidades` VALUES ('133', '25', 'Altair', 'SP');
-            INSERT INTO `cidades` VALUES ('134', '14', 'Altamira', 'PA');
-            INSERT INTO `cidades` VALUES ('135', '10', 'Altamira do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('136', '16', 'Altamira do Paraná', 'PR');
-            INSERT INTO `cidades` VALUES ('137', '6', 'Altaneira', 'CE');
-            INSERT INTO `cidades` VALUES ('138', '13', 'Alterosa', 'MG');
-            INSERT INTO `cidades` VALUES ('139', '17', 'Altinho', 'PE');
-            INSERT INTO `cidades` VALUES ('140', '25', 'Altinópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('141', '23', 'Alto Alegre', 'RR');
-            INSERT INTO `cidades` VALUES ('142', '21', 'Alto Alegre', 'RS');
-            INSERT INTO `cidades` VALUES ('143', '25', 'Alto Alegre', 'SP');
-            INSERT INTO `cidades` VALUES ('144', '10', 'Alto Alegre do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('145', '10', 'Alto Alegre do Pindaré', 'MA');
-            INSERT INTO `cidades` VALUES ('146', '22', 'Alto Alegre dos Parecis', 'RO');
-            INSERT INTO `cidades` VALUES ('147', '11', 'Alto Araguaia', 'MT');
-            INSERT INTO `cidades` VALUES ('148', '24', 'Alto Bela Vista', 'SC');
-            INSERT INTO `cidades` VALUES ('149', '11', 'Alto Boa Vista', 'MT');
-            INSERT INTO `cidades` VALUES ('150', '13', 'Alto Caparaó', 'MG');
-            INSERT INTO `cidades` VALUES ('151', '20', 'Alto do Rodrigues', 'RN');
-            INSERT INTO `cidades` VALUES ('152', '21', 'Alto Feliz', 'RS');
-            INSERT INTO `cidades` VALUES ('153', '11', 'Alto Garças', 'MT');
-            INSERT INTO `cidades` VALUES ('154', '9', 'Alto Horizonte', 'GO');
-            INSERT INTO `cidades` VALUES ('155', '13', 'Alto Jequitibá', 'MG');
-            INSERT INTO `cidades` VALUES ('156', '18', 'Alto Longá', 'PI');
-            INSERT INTO `cidades` VALUES ('157', '11', 'Alto Paraguai', 'MT');
-            INSERT INTO `cidades` VALUES ('158', '16', 'Alto Paraíso', 'PR');
-            INSERT INTO `cidades` VALUES ('159', '22', 'Alto Paraíso', 'RO');
-            INSERT INTO `cidades` VALUES ('160', '9', 'Alto Paraíso de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('161', '16', 'Alto Paraná', 'PR');
-            INSERT INTO `cidades` VALUES ('162', '10', 'Alto Parnaíba', 'MA');
-            INSERT INTO `cidades` VALUES ('163', '16', 'Alto Piquiri', 'PR');
-            INSERT INTO `cidades` VALUES ('164', '13', 'Alto Rio Doce', 'MG');
-            INSERT INTO `cidades` VALUES ('165', '8', 'Alto Rio Novo', 'ES');
-            INSERT INTO `cidades` VALUES ('166', '6', 'Alto Santo', 'CE');
-            INSERT INTO `cidades` VALUES ('167', '11', 'Alto Taquari', 'MT');
-            INSERT INTO `cidades` VALUES ('168', '16', 'Altônia', 'PR');
-            INSERT INTO `cidades` VALUES ('169', '18', 'Altos', 'PI');
-            INSERT INTO `cidades` VALUES ('170', '25', 'Alumínio', 'SP');
-            INSERT INTO `cidades` VALUES ('171', '4', 'Alvarães', 'AM');
-            INSERT INTO `cidades` VALUES ('172', '13', 'Alvarenga', 'MG');
-            INSERT INTO `cidades` VALUES ('173', '25', 'Álvares Florence', 'SP');
-            INSERT INTO `cidades` VALUES ('174', '25', 'Álvares Machado', 'SP');
-            INSERT INTO `cidades` VALUES ('175', '25', 'Álvaro de Carvalho', 'SP');
-            INSERT INTO `cidades` VALUES ('176', '25', 'Alvinlândia', 'SP');
-            INSERT INTO `cidades` VALUES ('177', '13', 'Alvinópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('178', '21', 'Alvorada', 'RS');
-            INSERT INTO `cidades` VALUES ('179', '27', 'Alvorada', 'TO');
-            INSERT INTO `cidades` VALUES ('180', '13', 'Alvorada de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('181', '18', 'Alvorada do Gurguéia', 'PI');
-            INSERT INTO `cidades` VALUES ('182', '9', 'Alvorada do Norte', 'GO');
-            INSERT INTO `cidades` VALUES ('183', '16', 'Alvorada do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('184', '22', 'Alvorada D\'Oeste', 'RO');
-            INSERT INTO `cidades` VALUES ('185', '23', 'Amajari', 'RR');
-            INSERT INTO `cidades` VALUES ('186', '12', 'Amambai', 'MS');
-            INSERT INTO `cidades` VALUES ('187', '3', 'Amapá', 'AP');
-            INSERT INTO `cidades` VALUES ('188', '10', 'Amapá do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('189', '16', 'Amaporã', 'PR');
-            INSERT INTO `cidades` VALUES ('190', '17', 'Amaraji', 'PE');
-            INSERT INTO `cidades` VALUES ('191', '21', 'Amaral Ferrador', 'RS');
-            INSERT INTO `cidades` VALUES ('192', '9', 'Amaralina', 'GO');
-            INSERT INTO `cidades` VALUES ('193', '18', 'Amarante', 'PI');
-            INSERT INTO `cidades` VALUES ('194', '10', 'Amarante do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('195', '5', 'Amargosa', 'BA');
-            INSERT INTO `cidades` VALUES ('196', '4', 'Amaturá', 'AM');
-            INSERT INTO `cidades` VALUES ('197', '5', 'Amélia Rodrigues', 'BA');
-            INSERT INTO `cidades` VALUES ('198', '5', 'América Dourada', 'BA');
-            INSERT INTO `cidades` VALUES ('199', '25', 'Americana', 'SP');
-            INSERT INTO `cidades` VALUES ('200', '9', 'Americano do Brasil', 'GO');
-            INSERT INTO `cidades` VALUES ('201', '25', 'Américo Brasiliense', 'SP');
-            INSERT INTO `cidades` VALUES ('202', '25', 'Américo de Campos', 'SP');
-            INSERT INTO `cidades` VALUES ('203', '21', 'Ametista do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('204', '6', 'Amontada', 'CE');
-            INSERT INTO `cidades` VALUES ('205', '9', 'Amorinópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('206', '15', 'Amparo', 'PB');
-            INSERT INTO `cidades` VALUES ('207', '25', 'Amparo', 'SP');
-            INSERT INTO `cidades` VALUES ('208', '26', 'Amparo de São Francisco', 'SE');
-            INSERT INTO `cidades` VALUES ('209', '13', 'Amparo do Serra', 'MG');
-            INSERT INTO `cidades` VALUES ('210', '16', 'Ampére', 'PR');
-            INSERT INTO `cidades` VALUES ('211', '2', 'Anadia', 'AL');
-            INSERT INTO `cidades` VALUES ('212', '5', 'Anagé', 'BA');
-            INSERT INTO `cidades` VALUES ('213', '16', 'Anahy', 'PR');
-            INSERT INTO `cidades` VALUES ('214', '14', 'Anajás', 'PA');
-            INSERT INTO `cidades` VALUES ('215', '10', 'Anajatuba', 'MA');
-            INSERT INTO `cidades` VALUES ('216', '25', 'Analândia', 'SP');
-            INSERT INTO `cidades` VALUES ('217', '4', 'Anamã', 'AM');
-            INSERT INTO `cidades` VALUES ('218', '27', 'Ananás', 'TO');
-            INSERT INTO `cidades` VALUES ('219', '14', 'Ananindeua', 'PA');
-            INSERT INTO `cidades` VALUES ('220', '9', 'Anápolis', 'GO');
-            INSERT INTO `cidades` VALUES ('221', '14', 'Anapu', 'PA');
-            INSERT INTO `cidades` VALUES ('222', '10', 'Anapurus', 'MA');
-            INSERT INTO `cidades` VALUES ('223', '12', 'Anastácio', 'MS');
-            INSERT INTO `cidades` VALUES ('224', '12', 'Anaurilândia', 'MS');
-            INSERT INTO `cidades` VALUES ('225', '8', 'Anchieta', 'ES');
-            INSERT INTO `cidades` VALUES ('226', '24', 'Anchieta', 'SC');
-            INSERT INTO `cidades` VALUES ('227', '5', 'Andaraí', 'BA');
-            INSERT INTO `cidades` VALUES ('228', '16', 'Andirá', 'PR');
-            INSERT INTO `cidades` VALUES ('229', '5', 'Andorinha', 'BA');
-            INSERT INTO `cidades` VALUES ('230', '13', 'Andradas', 'MG');
-            INSERT INTO `cidades` VALUES ('231', '25', 'Andradina', 'SP');
-            INSERT INTO `cidades` VALUES ('232', '21', 'André da Rocha', 'RS');
-            INSERT INTO `cidades` VALUES ('233', '13', 'Andrelândia', 'MG');
-            INSERT INTO `cidades` VALUES ('234', '25', 'Angatuba', 'SP');
-            INSERT INTO `cidades` VALUES ('235', '13', 'Angelândia', 'MG');
-            INSERT INTO `cidades` VALUES ('236', '12', 'Angélica', 'MS');
-            INSERT INTO `cidades` VALUES ('237', '17', 'Angelim', 'PE');
-            INSERT INTO `cidades` VALUES ('238', '24', 'Angelina', 'SC');
-            INSERT INTO `cidades` VALUES ('239', '5', 'Angical', 'BA');
-            INSERT INTO `cidades` VALUES ('240', '18', 'Angical do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('241', '27', 'Angico', 'TO');
-            INSERT INTO `cidades` VALUES ('242', '20', 'Angicos', 'RN');
-            INSERT INTO `cidades` VALUES ('243', '19', 'Angra dos Reis', 'RJ');
-            INSERT INTO `cidades` VALUES ('244', '5', 'Anguera', 'BA');
-            INSERT INTO `cidades` VALUES ('245', '16', 'Ângulo', 'PR');
-            INSERT INTO `cidades` VALUES ('246', '9', 'Anhanguera', 'GO');
-            INSERT INTO `cidades` VALUES ('247', '25', 'Anhembi', 'SP');
-            INSERT INTO `cidades` VALUES ('248', '25', 'Anhumas', 'SP');
-            INSERT INTO `cidades` VALUES ('249', '9', 'Anicuns', 'GO');
-            INSERT INTO `cidades` VALUES ('250', '18', 'Anísio de Abreu', 'PI');
-            INSERT INTO `cidades` VALUES ('251', '24', 'Anita Garibaldi', 'SC');
-            INSERT INTO `cidades` VALUES ('252', '24', 'Anitápolis', 'SC');
-            INSERT INTO `cidades` VALUES ('253', '4', 'Anori', 'AM');
-            INSERT INTO `cidades` VALUES ('254', '21', 'Anta Gorda', 'RS');
-            INSERT INTO `cidades` VALUES ('255', '5', 'Antas', 'BA');
-            INSERT INTO `cidades` VALUES ('256', '16', 'Antonina', 'PR');
-            INSERT INTO `cidades` VALUES ('257', '6', 'Antonina do Norte', 'CE');
-            INSERT INTO `cidades` VALUES ('258', '18', 'Antônio Almeida', 'PI');
-            INSERT INTO `cidades` VALUES ('259', '5', 'Antônio Cardoso', 'BA');
-            INSERT INTO `cidades` VALUES ('260', '13', 'Antônio Carlos', 'MG');
+            ['cidade_id' => 100, 'estado_id' => 5, 'cidade_nome' => 'Alcobaça', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 101, 'estado_id' => 10, 'cidade_nome' => 'Aldeias Altas', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 102, 'estado_id' => 21, 'cidade_nome' => 'Alecrim', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 103, 'estado_id' => 8, 'cidade_nome' => 'Alegre', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 104, 'estado_id' => 21, 'cidade_nome' => 'Alegrete', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 105, 'estado_id' => 18, 'cidade_nome' => 'Alegrete do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 106, 'estado_id' => 21, 'cidade_nome' => 'Alegria', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 107, 'estado_id' => 13, 'cidade_nome' => 'Além Paraíba', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 108, 'estado_id' => 14, 'cidade_nome' => 'Alenquer', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 109, 'estado_id' => 20, 'cidade_nome' => 'Alexandria', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 110, 'estado_id' => 9, 'cidade_nome' => 'Alexânia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 111, 'estado_id' => 13, 'cidade_nome' => 'Alfenas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 112, 'estado_id' => 8, 'cidade_nome' => 'Alfredo Chaves', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 113, 'estado_id' => 25, 'cidade_nome' => 'Alfredo Marcondes', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 114, 'estado_id' => 13, 'cidade_nome' => 'Alfredo Vasconcelos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 115, 'estado_id' => 24, 'cidade_nome' => 'Alfredo Wagner', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 116, 'estado_id' => 15, 'cidade_nome' => 'Algodão de Jandaíra', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 117, 'estado_id' => 15, 'cidade_nome' => 'Alhandra', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 118, 'estado_id' => 17, 'cidade_nome' => 'Aliança', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 119, 'estado_id' => 27, 'cidade_nome' => 'Aliança do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 120, 'estado_id' => 5, 'cidade_nome' => 'Almadina', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 121, 'estado_id' => 27, 'cidade_nome' => 'Almas', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 122, 'estado_id' => 14, 'cidade_nome' => 'Almeirim', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 123, 'estado_id' => 13, 'cidade_nome' => 'Almenara', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 124, 'estado_id' => 20, 'cidade_nome' => 'Almino Afonso', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 125, 'estado_id' => 16, 'cidade_nome' => 'Almirante Tamandaré', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 126, 'estado_id' => 21, 'cidade_nome' => 'Almirante Tamandaré do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 127, 'estado_id' => 9, 'cidade_nome' => 'Aloândia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 128, 'estado_id' => 13, 'cidade_nome' => 'Alpercata', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 129, 'estado_id' => 21, 'cidade_nome' => 'Alpestre', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 130, 'estado_id' => 13, 'cidade_nome' => 'Alpinópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 131, 'estado_id' => 11, 'cidade_nome' => 'Alta Floresta', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 132, 'estado_id' => 22, 'cidade_nome' => 'Alta Floresta D\'Oeste', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 133, 'estado_id' => 25, 'cidade_nome' => 'Altair', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 134, 'estado_id' => 14, 'cidade_nome' => 'Altamira', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 135, 'estado_id' => 10, 'cidade_nome' => 'Altamira do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 136, 'estado_id' => 16, 'cidade_nome' => 'Altamira do Paraná', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 137, 'estado_id' => 6, 'cidade_nome' => 'Altaneira', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 138, 'estado_id' => 13, 'cidade_nome' => 'Alterosa', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 139, 'estado_id' => 17, 'cidade_nome' => 'Altinho', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 140, 'estado_id' => 25, 'cidade_nome' => 'Altinópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 141, 'estado_id' => 23, 'cidade_nome' => 'Alto Alegre', 'cidade_uf' => 'RR'],
+            ['cidade_id' => 142, 'estado_id' => 21, 'cidade_nome' => 'Alto Alegre', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 143, 'estado_id' => 25, 'cidade_nome' => 'Alto Alegre', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 144, 'estado_id' => 10, 'cidade_nome' => 'Alto Alegre do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 145, 'estado_id' => 10, 'cidade_nome' => 'Alto Alegre do Pindaré', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 146, 'estado_id' => 22, 'cidade_nome' => 'Alto Alegre dos Parecis', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 147, 'estado_id' => 11, 'cidade_nome' => 'Alto Araguaia', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 148, 'estado_id' => 24, 'cidade_nome' => 'Alto Bela Vista', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 149, 'estado_id' => 11, 'cidade_nome' => 'Alto Boa Vista', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 150, 'estado_id' => 13, 'cidade_nome' => 'Alto Caparaó', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 151, 'estado_id' => 20, 'cidade_nome' => 'Alto do Rodrigues', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 152, 'estado_id' => 21, 'cidade_nome' => 'Alto Feliz', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 153, 'estado_id' => 11, 'cidade_nome' => 'Alto Garças', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 154, 'estado_id' => 9, 'cidade_nome' => 'Alto Horizonte', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 155, 'estado_id' => 13, 'cidade_nome' => 'Alto Jequitibá', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 156, 'estado_id' => 18, 'cidade_nome' => 'Alto Longá', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 157, 'estado_id' => 11, 'cidade_nome' => 'Alto Paraguai', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 158, 'estado_id' => 16, 'cidade_nome' => 'Alto Paraíso', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 159, 'estado_id' => 22, 'cidade_nome' => 'Alto Paraíso', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 160, 'estado_id' => 9, 'cidade_nome' => 'Alto Paraíso de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 161, 'estado_id' => 16, 'cidade_nome' => 'Alto Paraná', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 162, 'estado_id' => 10, 'cidade_nome' => 'Alto Parnaíba', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 163, 'estado_id' => 16, 'cidade_nome' => 'Alto Piquiri', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 164, 'estado_id' => 13, 'cidade_nome' => 'Alto Rio Doce', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 165, 'estado_id' => 8, 'cidade_nome' => 'Alto Rio Novo', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 166, 'estado_id' => 6, 'cidade_nome' => 'Alto Santo', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 167, 'estado_id' => 11, 'cidade_nome' => 'Alto Taquari', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 168, 'estado_id' => 16, 'cidade_nome' => 'Altônia', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 169, 'estado_id' => 18, 'cidade_nome' => 'Altos', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 170, 'estado_id' => 25, 'cidade_nome' => 'Alumínio', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 171, 'estado_id' => 4, 'cidade_nome' => 'Alvarães', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 172, 'estado_id' => 13, 'cidade_nome' => 'Alvarenga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 173, 'estado_id' => 25, 'cidade_nome' => 'Álvares Florence', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 174, 'estado_id' => 25, 'cidade_nome' => 'Álvares Machado', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 175, 'estado_id' => 25, 'cidade_nome' => 'Álvaro de Carvalho', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 176, 'estado_id' => 25, 'cidade_nome' => 'Alvinlândia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 177, 'estado_id' => 13, 'cidade_nome' => 'Alvinópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 178, 'estado_id' => 21, 'cidade_nome' => 'Alvorada', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 179, 'estado_id' => 27, 'cidade_nome' => 'Alvorada', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 180, 'estado_id' => 13, 'cidade_nome' => 'Alvorada de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 181, 'estado_id' => 18, 'cidade_nome' => 'Alvorada do Gurguéia', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 182, 'estado_id' => 9, 'cidade_nome' => 'Alvorada do Norte', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 183, 'estado_id' => 16, 'cidade_nome' => 'Alvorada do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 184, 'estado_id' => 22, 'cidade_nome' => 'Alvorada D\'Oeste', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 185, 'estado_id' => 23, 'cidade_nome' => 'Amajari', 'cidade_uf' => 'RR'],
+            ['cidade_id' => 186, 'estado_id' => 12, 'cidade_nome' => 'Amambai', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 187, 'estado_id' => 3, 'cidade_nome' => 'Amapá', 'cidade_uf' => 'AP'],
+            ['cidade_id' => 188, 'estado_id' => 10, 'cidade_nome' => 'Amapá do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 189, 'estado_id' => 16, 'cidade_nome' => 'Amaporã', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 190, 'estado_id' => 17, 'cidade_nome' => 'Amaraji', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 191, 'estado_id' => 21, 'cidade_nome' => 'Amaral Ferrador', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 192, 'estado_id' => 9, 'cidade_nome' => 'Amaralina', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 193, 'estado_id' => 18, 'cidade_nome' => 'Amarante', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 194, 'estado_id' => 10, 'cidade_nome' => 'Amarante do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 195, 'estado_id' => 5, 'cidade_nome' => 'Amargosa', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 196, 'estado_id' => 4, 'cidade_nome' => 'Amaturá', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 197, 'estado_id' => 5, 'cidade_nome' => 'Amélia Rodrigues', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 198, 'estado_id' => 5, 'cidade_nome' => 'América Dourada', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 199, 'estado_id' => 25, 'cidade_nome' => 'Americana', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 200, 'estado_id' => 9, 'cidade_nome' => 'Americano do Brasil', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 201, 'estado_id' => 25, 'cidade_nome' => 'Américo Brasiliense', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 202, 'estado_id' => 25, 'cidade_nome' => 'Américo de Campos', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 203, 'estado_id' => 21, 'cidade_nome' => 'Ametista do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 204, 'estado_id' => 6, 'cidade_nome' => 'Amontada', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 205, 'estado_id' => 9, 'cidade_nome' => 'Amorinópolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 206, 'estado_id' => 15, 'cidade_nome' => 'Amparo', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 207, 'estado_id' => 25, 'cidade_nome' => 'Amparo', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 208, 'estado_id' => 26, 'cidade_nome' => 'Amparo de São Francisco', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 209, 'estado_id' => 13, 'cidade_nome' => 'Amparo do Serra', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 210, 'estado_id' => 16, 'cidade_nome' => 'Ampére', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 211, 'estado_id' => 2, 'cidade_nome' => 'Anadia', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 212, 'estado_id' => 5, 'cidade_nome' => 'Anagé', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 213, 'estado_id' => 16, 'cidade_nome' => 'Anahy', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 214, 'estado_id' => 14, 'cidade_nome' => 'Anajás', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 215, 'estado_id' => 10, 'cidade_nome' => 'Anajatuba', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 216, 'estado_id' => 25, 'cidade_nome' => 'Analândia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 217, 'estado_id' => 4, 'cidade_nome' => 'Anamã', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 218, 'estado_id' => 27, 'cidade_nome' => 'Ananás', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 219, 'estado_id' => 14, 'cidade_nome' => 'Ananindeua', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 220, 'estado_id' => 9, 'cidade_nome' => 'Anápolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 221, 'estado_id' => 14, 'cidade_nome' => 'Anapu', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 222, 'estado_id' => 10, 'cidade_nome' => 'Anapurus', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 223, 'estado_id' => 12, 'cidade_nome' => 'Anastácio', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 224, 'estado_id' => 12, 'cidade_nome' => 'Anaurilândia', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 225, 'estado_id' => 8, 'cidade_nome' => 'Anchieta', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 226, 'estado_id' => 24, 'cidade_nome' => 'Anchieta', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 227, 'estado_id' => 5, 'cidade_nome' => 'Andaraí', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 228, 'estado_id' => 16, 'cidade_nome' => 'Andirá', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 229, 'estado_id' => 5, 'cidade_nome' => 'Andorinha', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 230, 'estado_id' => 13, 'cidade_nome' => 'Andradas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 231, 'estado_id' => 25, 'cidade_nome' => 'Andradina', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 232, 'estado_id' => 21, 'cidade_nome' => 'André da Rocha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 233, 'estado_id' => 13, 'cidade_nome' => 'Andrelândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 234, 'estado_id' => 25, 'cidade_nome' => 'Angatuba', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 235, 'estado_id' => 13, 'cidade_nome' => 'Angelândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 236, 'estado_id' => 12, 'cidade_nome' => 'Angélica', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 237, 'estado_id' => 17, 'cidade_nome' => 'Angelim', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 238, 'estado_id' => 24, 'cidade_nome' => 'Angelina', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 239, 'estado_id' => 5, 'cidade_nome' => 'Angical', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 240, 'estado_id' => 18, 'cidade_nome' => 'Angical do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 241, 'estado_id' => 27, 'cidade_nome' => 'Angico', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 242, 'estado_id' => 20, 'cidade_nome' => 'Angicos', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 243, 'estado_id' => 19, 'cidade_nome' => 'Angra dos Reis', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 244, 'estado_id' => 5, 'cidade_nome' => 'Anguera', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 245, 'estado_id' => 16, 'cidade_nome' => 'Ângulo', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 246, 'estado_id' => 9, 'cidade_nome' => 'Anhanguera', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 247, 'estado_id' => 25, 'cidade_nome' => 'Anhembi', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 248, 'estado_id' => 25, 'cidade_nome' => 'Anhumas', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 249, 'estado_id' => 9, 'cidade_nome' => 'Anicuns', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 250, 'estado_id' => 18, 'cidade_nome' => 'Anísio de Abreu', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 251, 'estado_id' => 24, 'cidade_nome' => 'Anita Garibaldi', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 252, 'estado_id' => 24, 'cidade_nome' => 'Anitápolis', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 253, 'estado_id' => 4, 'cidade_nome' => 'Anori', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 254, 'estado_id' => 21, 'cidade_nome' => 'Anta Gorda', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 255, 'estado_id' => 5, 'cidade_nome' => 'Antas', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 256, 'estado_id' => 16, 'cidade_nome' => 'Antonina', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 257, 'estado_id' => 6, 'cidade_nome' => 'Antonina do Norte', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 258, 'estado_id' => 18, 'cidade_nome' => 'Antônio Almeida', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 259, 'estado_id' => 5, 'cidade_nome' => 'Antônio Cardoso', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 260, 'estado_id' => 13, 'cidade_nome' => 'Antônio Carlos', 'cidade_uf' => 'MG'],
             INSERT INTO `cidades` VALUES ('261', '24', 'Antônio Carlos', 'SC');
             INSERT INTO `cidades` VALUES ('262', '13', 'Antônio Dias', 'MG');
             INSERT INTO `cidades` VALUES ('263', '5', 'Antônio Gonçalves', 'BA');

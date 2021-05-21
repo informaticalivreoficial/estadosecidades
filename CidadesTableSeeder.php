@@ -271,97 +271,97 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 258, 'estado_id' => 18, 'cidade_nome' => 'Antônio Almeida', 'cidade_uf' => 'PI'],
             ['cidade_id' => 259, 'estado_id' => 5, 'cidade_nome' => 'Antônio Cardoso', 'cidade_uf' => 'BA'],
             ['cidade_id' => 260, 'estado_id' => 13, 'cidade_nome' => 'Antônio Carlos', 'cidade_uf' => 'MG'],
-            INSERT INTO `cidades` VALUES ('261', '24', 'Antônio Carlos', 'SC');
-            INSERT INTO `cidades` VALUES ('262', '13', 'Antônio Dias', 'MG');
-            INSERT INTO `cidades` VALUES ('263', '5', 'Antônio Gonçalves', 'BA');
-            INSERT INTO `cidades` VALUES ('264', '12', 'Antônio João', 'MS');
-            INSERT INTO `cidades` VALUES ('265', '20', 'Antônio Martins', 'RN');
-            INSERT INTO `cidades` VALUES ('266', '16', 'Antônio Olinto', 'PR');
-            INSERT INTO `cidades` VALUES ('267', '21', 'Antônio Prado', 'RS');
-            INSERT INTO `cidades` VALUES ('268', '13', 'Antônio Prado de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('269', '15', 'Aparecida', 'PB');
-            INSERT INTO `cidades` VALUES ('270', '25', 'Aparecida', 'SP');
-            INSERT INTO `cidades` VALUES ('271', '9', 'Aparecida de Goiânia', 'GO');
-            INSERT INTO `cidades` VALUES ('272', '9', 'Aparecida do Rio Doce', 'GO');
-            INSERT INTO `cidades` VALUES ('273', '27', 'Aparecida do Rio Negro', 'TO');
-            INSERT INTO `cidades` VALUES ('274', '12', 'Aparecida do Taboado', 'MS');
-            INSERT INTO `cidades` VALUES ('275', '25', 'Aparecida d\'Oeste', 'SP');
-            INSERT INTO `cidades` VALUES ('276', '19', 'Aperibé', 'RJ');
-            INSERT INTO `cidades` VALUES ('277', '8', 'Apiacá', 'ES');
-            INSERT INTO `cidades` VALUES ('278', '11', 'Apiacás', 'MT');
-            INSERT INTO `cidades` VALUES ('279', '25', 'Apiaí', 'SP');
-            INSERT INTO `cidades` VALUES ('280', '10', 'Apicum-Açu', 'MA');
-            INSERT INTO `cidades` VALUES ('281', '24', 'Apiúna', 'SC');
-            INSERT INTO `cidades` VALUES ('282', '20', 'Apodi', 'RN');
-            INSERT INTO `cidades` VALUES ('283', '5', 'Aporá', 'BA');
-            INSERT INTO `cidades` VALUES ('284', '9', 'Aporé', 'GO');
-            INSERT INTO `cidades` VALUES ('285', '5', 'Apuarema', 'BA');
-            INSERT INTO `cidades` VALUES ('286', '16', 'Apucarana', 'PR');
-            INSERT INTO `cidades` VALUES ('287', '4', 'Apuí', 'AM');
-            INSERT INTO `cidades` VALUES ('288', '6', 'Apuiarés', 'CE');
-            INSERT INTO `cidades` VALUES ('289', '26', 'Aquidabã', 'SE');
-            INSERT INTO `cidades` VALUES ('290', '12', 'Aquidauana', 'MS');
-            INSERT INTO `cidades` VALUES ('291', '6', 'Aquiraz', 'CE');
-            INSERT INTO `cidades` VALUES ('292', '24', 'Arabutã', 'SC');
-            INSERT INTO `cidades` VALUES ('293', '15', 'Araçagi', 'PB');
-            INSERT INTO `cidades` VALUES ('294', '13', 'Araçaí', 'MG');
-            INSERT INTO `cidades` VALUES ('295', '26', 'Aracaju', 'SE');
-            INSERT INTO `cidades` VALUES ('296', '25', 'Araçariguama', 'SP');
-            INSERT INTO `cidades` VALUES ('297', '5', 'Araças', 'BA');
-            INSERT INTO `cidades` VALUES ('298', '6', 'Aracati', 'CE');
-            INSERT INTO `cidades` VALUES ('299', '5', 'Aracatu', 'BA');
-            INSERT INTO `cidades` VALUES ('300', '25', 'Araçatuba', 'SP');
-            INSERT INTO `cidades` VALUES ('301', '5', 'Araci', 'BA');
-            INSERT INTO `cidades` VALUES ('302', '13', 'Aracitaba', 'MG');
-            INSERT INTO `cidades` VALUES ('303', '6', 'Aracoiaba', 'CE');
-            INSERT INTO `cidades` VALUES ('304', '17', 'Araçoiaba', 'PE');
-            INSERT INTO `cidades` VALUES ('305', '25', 'Araçoiaba da Serra', 'SP');
-            INSERT INTO `cidades` VALUES ('306', '8', 'Aracruz', 'ES');
-            INSERT INTO `cidades` VALUES ('307', '9', 'Araçu', 'GO');
-            INSERT INTO `cidades` VALUES ('308', '13', 'Araçuaí', 'MG');
-            INSERT INTO `cidades` VALUES ('309', '9', 'Aragarças', 'GO');
-            INSERT INTO `cidades` VALUES ('310', '9', 'Aragoiânia', 'GO');
-            INSERT INTO `cidades` VALUES ('311', '27', 'Aragominas', 'TO');
-            INSERT INTO `cidades` VALUES ('312', '27', 'Araguacema', 'TO');
-            INSERT INTO `cidades` VALUES ('313', '27', 'Araguaçu', 'TO');
-            INSERT INTO `cidades` VALUES ('314', '11', 'Araguaiana', 'MT');
-            INSERT INTO `cidades` VALUES ('315', '27', 'Araguaína', 'TO');
-            INSERT INTO `cidades` VALUES ('316', '11', 'Araguainha', 'MT');
-            INSERT INTO `cidades` VALUES ('317', '10', 'Araguanã', 'MA');
-            INSERT INTO `cidades` VALUES ('318', '27', 'Araguanã', 'TO');
-            INSERT INTO `cidades` VALUES ('319', '9', 'Araguapaz', 'GO');
-            INSERT INTO `cidades` VALUES ('320', '13', 'Araguari', 'MG');
-            INSERT INTO `cidades` VALUES ('321', '27', 'Araguatins', 'TO');
-            INSERT INTO `cidades` VALUES ('322', '10', 'Araioses', 'MA');
-            INSERT INTO `cidades` VALUES ('323', '12', 'Aral Moreira', 'MS');
-            INSERT INTO `cidades` VALUES ('324', '5', 'Aramari', 'BA');
-            INSERT INTO `cidades` VALUES ('325', '21', 'Arambaré', 'RS');
-            INSERT INTO `cidades` VALUES ('326', '10', 'Arame', 'MA');
-            INSERT INTO `cidades` VALUES ('327', '25', 'Aramina', 'SP');
-            INSERT INTO `cidades` VALUES ('328', '25', 'Arandu', 'SP');
-            INSERT INTO `cidades` VALUES ('329', '13', 'Arantina', 'MG');
-            INSERT INTO `cidades` VALUES ('330', '25', 'Arapeí', 'SP');
-            INSERT INTO `cidades` VALUES ('331', '2', 'Arapiraca', 'AL');
-            INSERT INTO `cidades` VALUES ('332', '27', 'Arapoema', 'TO');
-            INSERT INTO `cidades` VALUES ('333', '13', 'Araponga', 'MG');
-            INSERT INTO `cidades` VALUES ('334', '16', 'Arapongas', 'PR');
-            INSERT INTO `cidades` VALUES ('335', '13', 'Araporã', 'MG');
-            INSERT INTO `cidades` VALUES ('336', '16', 'Arapoti', 'PR');
-            INSERT INTO `cidades` VALUES ('337', '13', 'Arapuá', 'MG');
-            INSERT INTO `cidades` VALUES ('338', '16', 'Arapuã', 'PR');
-            INSERT INTO `cidades` VALUES ('339', '11', 'Araputanga', 'MT');
-            INSERT INTO `cidades` VALUES ('340', '24', 'Araquari', 'SC');
-            INSERT INTO `cidades` VALUES ('341', '15', 'Arara', 'PB');
-            INSERT INTO `cidades` VALUES ('342', '24', 'Araranguá', 'SC');
-            INSERT INTO `cidades` VALUES ('343', '25', 'Araraquara', 'SP');
-            INSERT INTO `cidades` VALUES ('344', '25', 'Araras', 'SP');
-            INSERT INTO `cidades` VALUES ('345', '6', 'Ararendá', 'CE');
-            INSERT INTO `cidades` VALUES ('346', '10', 'Arari', 'MA');
-            INSERT INTO `cidades` VALUES ('347', '21', 'Araricá', 'RS');
-            INSERT INTO `cidades` VALUES ('348', '6', 'Araripe', 'CE');
-            INSERT INTO `cidades` VALUES ('349', '17', 'Araripina', 'PE');
-            INSERT INTO `cidades` VALUES ('350', '19', 'Araruama', 'RJ');
-            INSERT INTO `cidades` VALUES ('351', '15', 'Araruna', 'PB');
+            ['cidade_id' => 261, 'estado_id' => 24, 'cidade_nome' => 'Antônio Carlos', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 262, 'estado_id' => 13, 'cidade_nome' => 'Antônio Dias', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 263, 'estado_id' => 5, 'cidade_nome' => 'Antônio Gonçalves', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 264, 'estado_id' => 12, 'cidade_nome' => 'Antônio João', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 265, 'estado_id' => 20, 'cidade_nome' => 'Antônio Martins', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 266, 'estado_id' => 16, 'cidade_nome' => 'Antônio Olinto', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 267, 'estado_id' => 21, 'cidade_nome' => 'Antônio Prado', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 268, 'estado_id' => 13, 'cidade_nome' => 'Antônio Prado de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 269, 'estado_id' => 15, 'cidade_nome' => 'Aparecida', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 270, 'estado_id' => 25, 'cidade_nome' => 'Aparecida', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 271, 'estado_id' => 9, 'cidade_nome' => 'Aparecida de Goiânia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 272, 'estado_id' => 9, 'cidade_nome' => 'Aparecida do Rio Doce', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 273, 'estado_id' => 27, 'cidade_nome' => 'Aparecida do Rio Negro', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 274, 'estado_id' => 12, 'cidade_nome' => 'Aparecida do Taboado', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 275, 'estado_id' => 25, 'cidade_nome' => 'Aparecida d\'Oeste', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 276, 'estado_id' => 19, 'cidade_nome' => 'Aperibé', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 277, 'estado_id' => 8, 'cidade_nome' => 'Apiacá', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 278, 'estado_id' => 11, 'cidade_nome' => 'Apiacás', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 279, 'estado_id' => 25, 'cidade_nome' => 'Apiaí', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 280, 'estado_id' => 10, 'cidade_nome' => 'Apicum-Açu', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 281, 'estado_id' => 24, 'cidade_nome' => 'Apiúna', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 282, 'estado_id' => 20, 'cidade_nome' => 'Apodi', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 283, 'estado_id' => 5, 'cidade_nome' => 'Aporá', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 284, 'estado_id' => 9, 'cidade_nome' => 'Aporé', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 285, 'estado_id' => 5, 'cidade_nome' => 'Apuarema', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 286, 'estado_id' => 16, 'cidade_nome' => 'Apucarana', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 287, 'estado_id' => 4, 'cidade_nome' => 'Apuí', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 288, 'estado_id' => 6, 'cidade_nome' => 'Apuiarés', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 289, 'estado_id' => 26, 'cidade_nome' => 'Aquidabã', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 290, 'estado_id' => 12, 'cidade_nome' => 'Aquidauana', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 291, 'estado_id' => 6, 'cidade_nome' => 'Aquiraz', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 292, 'estado_id' => 24, 'cidade_nome' => 'Arabutã', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 293, 'estado_id' => 15, 'cidade_nome' => 'Araçagi', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 294, 'estado_id' => 13, 'cidade_nome' => 'Araçaí', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 295, 'estado_id' => 26, 'cidade_nome' => 'Aracaju', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 296, 'estado_id' => 25, 'cidade_nome' => 'Araçariguama', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 297, 'estado_id' => 5, 'cidade_nome' => 'Araças', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 298, 'estado_id' => 6, 'cidade_nome' => 'Aracati', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 299, 'estado_id' => 5, 'cidade_nome' => 'Aracatu', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 300, 'estado_id' => 25, 'cidade_nome' => 'Araçatuba', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 301, 'estado_id' => 5, 'cidade_nome' => 'Araci', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 302, 'estado_id' => 13, 'cidade_nome' => 'Aracitaba', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 303, 'estado_id' => 6, 'cidade_nome' => 'Aracoiaba', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 304, 'estado_id' => 17, 'cidade_nome' => 'Araçoiaba', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 305, 'estado_id' => 25, 'cidade_nome' => 'Araçoiaba da Serra', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 306, 'estado_id' => 8, 'cidade_nome' => 'Aracruz', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 307, 'estado_id' => 9, 'cidade_nome' => 'Araçu', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 308, 'estado_id' => 13, 'cidade_nome' => 'Araçuaí', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 309, 'estado_id' => 9, 'cidade_nome' => 'Aragarças', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 310, 'estado_id' => 9, 'cidade_nome' => 'Aragoiânia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 311, 'estado_id' => 27, 'cidade_nome' => 'Aragominas', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 312, 'estado_id' => 27, 'cidade_nome' => 'Araguacema', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 313, 'estado_id' => 27, 'cidade_nome' => 'Araguaçu', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 314, 'estado_id' => 11, 'cidade_nome' => 'Araguaiana', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 315, 'estado_id' => 27, 'cidade_nome' => 'Araguaína', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 316, 'estado_id' => 11, 'cidade_nome' => 'Araguainha', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 317, 'estado_id' => 10, 'cidade_nome' => 'Araguanã', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 318, 'estado_id' => 27, 'cidade_nome' => 'Araguanã', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 319, 'estado_id' => 9, 'cidade_nome' => 'Araguapaz', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 320, 'estado_id' => 13, 'cidade_nome' => 'Araguari', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 321, 'estado_id' => 27, 'cidade_nome' => 'Araguatins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 322, 'estado_id' => 10, 'cidade_nome' => 'Araioses', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 323, 'estado_id' => 12, 'cidade_nome' => 'Aral Moreira', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 324, 'estado_id' => 5, 'cidade_nome' => 'Aramari', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 325, 'estado_id' => 21, 'cidade_nome' => 'Arambaré', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 326, 'estado_id' => 10, 'cidade_nome' => 'Arame', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 327, 'estado_id' => 25, 'cidade_nome' => 'Aramina', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 328, 'estado_id' => 25, 'cidade_nome' => 'Arandu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 329, 'estado_id' => 13, 'cidade_nome' => 'Arantina', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 330, 'estado_id' => 25, 'cidade_nome' => 'Arapeí', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 331, 'estado_id' => 2, 'cidade_nome' => 'Arapiraca', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 332, 'estado_id' => 27, 'cidade_nome' => 'Arapoema', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 333, 'estado_id' => 13, 'cidade_nome' => 'Araponga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 334, 'estado_id' => 16, 'cidade_nome' => 'Arapongas', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 335, 'estado_id' => 13, 'cidade_nome' => 'Araporã', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 336, 'estado_id' => 16, 'cidade_nome' => 'Arapoti', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 337, 'estado_id' => 13, 'cidade_nome' => 'Arapuá', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 338, 'estado_id' => 16, 'cidade_nome' => 'Arapuã', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 339, 'estado_id' => 11, 'cidade_nome' => 'Araputanga', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 340, 'estado_id' => 24, 'cidade_nome' => 'Araquari', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 341, 'estado_id' => 15, 'cidade_nome' => 'Arara', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 342, 'estado_id' => 24, 'cidade_nome' => 'Araranguá', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 343, 'estado_id' => 25, 'cidade_nome' => 'Araraquara', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 344, 'estado_id' => 25, 'cidade_nome' => 'Araras', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 345, 'estado_id' => 6, 'cidade_nome' => 'Ararendá', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 346, 'estado_id' => 10, 'cidade_nome' => 'Arari', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 347, 'estado_id' => 21, 'cidade_nome' => 'Araricá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 348, 'estado_id' => 6, 'cidade_nome' => 'Araripe', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 349, 'estado_id' => 17, 'cidade_nome' => 'Araripina', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 350, 'estado_id' => 19, 'cidade_nome' => 'Araruama', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 351, 'estado_id' => 15, 'cidade_nome' => 'Araruna', 'cidade_uf' => 'PB'],
             INSERT INTO `cidades` VALUES ('352', '16', 'Araruna', 'PR');
             INSERT INTO `cidades` VALUES ('353', '5', 'Arataca', 'BA');
             INSERT INTO `cidades` VALUES ('354', '21', 'Aratiba', 'RS');

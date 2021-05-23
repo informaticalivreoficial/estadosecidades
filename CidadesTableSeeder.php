@@ -511,176 +511,176 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 498, 'estado_id' => 6, 'cidade_nome' => 'Barbalha', 'cidade_uf' => 'CE'],
             ['cidade_id' => 499, 'estado_id' => 25, 'cidade_nome' => 'Barbosa', 'cidade_uf' => 'SP'],
             ['cidade_id' => 500, 'estado_id' => 16, 'cidade_nome' => 'Barbosa Ferraz', 'cidade_uf' => 'PR'],
-            INSERT INTO `cidades` VALUES ('501', '14', 'Barcarena', 'PA');
-            INSERT INTO `cidades` VALUES ('502', '20', 'Barcelona', 'RN');
-            INSERT INTO `cidades` VALUES ('503', '4', 'Barcelos', 'AM');
-            INSERT INTO `cidades` VALUES ('504', '25', 'Bariri', 'SP');
-            INSERT INTO `cidades` VALUES ('505', '5', 'Barra', 'BA');
-            INSERT INTO `cidades` VALUES ('506', '24', 'Barra Bonita', 'SC');
-            INSERT INTO `cidades` VALUES ('507', '25', 'Barra Bonita', 'SP');
-            INSERT INTO `cidades` VALUES ('508', '5', 'Barra da Estiva', 'BA');
-            INSERT INTO `cidades` VALUES ('509', '18', 'Barra D\'Alcântara', 'PI');
-            INSERT INTO `cidades` VALUES ('510', '17', 'Barra de Guabiraba', 'PE');
-            INSERT INTO `cidades` VALUES ('511', '15', 'Barra de Santa Rosa', 'PB');
-            INSERT INTO `cidades` VALUES ('512', '15', 'Barra de Santana', 'PB');
-            INSERT INTO `cidades` VALUES ('513', '2', 'Barra de Santo Antônio', 'AL');
-            INSERT INTO `cidades` VALUES ('514', '8', 'Barra de São Francisco', 'ES');
-            INSERT INTO `cidades` VALUES ('515', '2', 'Barra de São Miguel', 'AL');
-            INSERT INTO `cidades` VALUES ('516', '15', 'Barra de São Miguel', 'PB');
-            INSERT INTO `cidades` VALUES ('517', '11', 'Barra do Bugres', 'MT');
-            INSERT INTO `cidades` VALUES ('518', '25', 'Barra do Chapéu', 'SP');
-            INSERT INTO `cidades` VALUES ('519', '5', 'Barra do Choça', 'BA');
-            INSERT INTO `cidades` VALUES ('520', '10', 'Barra do Corda', 'MA');
-            INSERT INTO `cidades` VALUES ('521', '11', 'Barra do Garças', 'MT');
-            INSERT INTO `cidades` VALUES ('522', '21', 'Barra do Guarita', 'RS');
-            INSERT INTO `cidades` VALUES ('523', '16', 'Barra do Jacaré', 'PR');
-            INSERT INTO `cidades` VALUES ('524', '5', 'Barra do Mendes', 'BA');
-            INSERT INTO `cidades` VALUES ('525', '27', 'Barra do Ouro', 'TO');
-            INSERT INTO `cidades` VALUES ('526', '19', 'Barra do Piraí', 'RJ');
-            INSERT INTO `cidades` VALUES ('527', '21', 'Barra do Quaraí', 'RS');
-            INSERT INTO `cidades` VALUES ('528', '21', 'Barra do Ribeiro', 'RS');
-            INSERT INTO `cidades` VALUES ('529', '21', 'Barra do Rio Azul', 'RS');
-            INSERT INTO `cidades` VALUES ('530', '5', 'Barra do Rocha', 'BA');
-            INSERT INTO `cidades` VALUES ('531', '25', 'Barra do Turvo', 'SP');
-            INSERT INTO `cidades` VALUES ('532', '26', 'Barra dos Coqueiros', 'SE');
-            INSERT INTO `cidades` VALUES ('533', '21', 'Barra Funda', 'RS');
-            INSERT INTO `cidades` VALUES ('534', '13', 'Barra Longa', 'MG');
-            INSERT INTO `cidades` VALUES ('535', '19', 'Barra Mansa', 'RJ');
-            INSERT INTO `cidades` VALUES ('536', '24', 'Barra Velha', 'SC');
-            INSERT INTO `cidades` VALUES ('537', '16', 'Barracão', 'PR');
-            INSERT INTO `cidades` VALUES ('538', '21', 'Barracão', 'RS');
-            INSERT INTO `cidades` VALUES ('539', '18', 'Barras', 'PI');
-            INSERT INTO `cidades` VALUES ('540', '6', 'Barreira', 'CE');
-            INSERT INTO `cidades` VALUES ('541', '5', 'Barreiras', 'BA');
-            INSERT INTO `cidades` VALUES ('542', '18', 'Barreiras do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('543', '4', 'Barreirinha', 'AM');
-            INSERT INTO `cidades` VALUES ('544', '10', 'Barreirinhas', 'MA');
-            INSERT INTO `cidades` VALUES ('545', '17', 'Barreiros', 'PE');
-            INSERT INTO `cidades` VALUES ('546', '25', 'Barretos', 'SP');
-            INSERT INTO `cidades` VALUES ('547', '25', 'Barrinha', 'SP');
-            INSERT INTO `cidades` VALUES ('548', '6', 'Barro', 'CE');
-            INSERT INTO `cidades` VALUES ('549', '5', 'Barro Alto', 'BA');
-            INSERT INTO `cidades` VALUES ('550', '9', 'Barro Alto', 'GO');
-            INSERT INTO `cidades` VALUES ('551', '18', 'Barro Duro', 'PI');
-            INSERT INTO `cidades` VALUES ('552', '5', 'Barro Preto', 'BA');
-            INSERT INTO `cidades` VALUES ('553', '5', 'Barrocas', 'BA');
-            INSERT INTO `cidades` VALUES ('554', '27', 'Barrolândia', 'TO');
-            INSERT INTO `cidades` VALUES ('555', '6', 'Barroquinha', 'CE');
-            INSERT INTO `cidades` VALUES ('556', '21', 'Barros Cassal', 'RS');
-            INSERT INTO `cidades` VALUES ('557', '13', 'Barroso', 'MG');
-            INSERT INTO `cidades` VALUES ('558', '25', 'Barueri', 'SP');
-            INSERT INTO `cidades` VALUES ('559', '25', 'Bastos', 'SP');
-            INSERT INTO `cidades` VALUES ('560', '12', 'Bataguassu', 'MS');
-            INSERT INTO `cidades` VALUES ('561', '2', 'Batalha', 'AL');
-            INSERT INTO `cidades` VALUES ('562', '18', 'Batalha', 'PI');
-            INSERT INTO `cidades` VALUES ('563', '25', 'Batatais', 'SP');
-            INSERT INTO `cidades` VALUES ('564', '12', 'Batayporã', 'MS');
-            INSERT INTO `cidades` VALUES ('565', '6', 'Baturité', 'CE');
-            INSERT INTO `cidades` VALUES ('566', '25', 'Bauru', 'SP');
-            INSERT INTO `cidades` VALUES ('567', '15', 'Bayeux', 'PB');
-            INSERT INTO `cidades` VALUES ('568', '25', 'Bebedouro', 'SP');
-            INSERT INTO `cidades` VALUES ('569', '6', 'Beberibe', 'CE');
-            INSERT INTO `cidades` VALUES ('570', '6', 'Bela Cruz', 'CE');
-            INSERT INTO `cidades` VALUES ('571', '12', 'Bela Vista', 'MS');
-            INSERT INTO `cidades` VALUES ('572', '16', 'Bela Vista da Caroba', 'PR');
-            INSERT INTO `cidades` VALUES ('573', '9', 'Bela Vista de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('574', '13', 'Bela Vista de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('575', '10', 'Bela Vista do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('576', '16', 'Bela Vista do Paraíso', 'PR');
-            INSERT INTO `cidades` VALUES ('577', '18', 'Bela Vista do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('578', '24', 'Bela Vista do Toldo', 'SC');
-            INSERT INTO `cidades` VALUES ('579', '10', 'Belágua', 'MA');
-            INSERT INTO `cidades` VALUES ('580', '2', 'Belém', 'AL');
-            INSERT INTO `cidades` VALUES ('581', '14', 'Belém', 'PA');
-            INSERT INTO `cidades` VALUES ('582', '15', 'Belém', 'PB');
-            INSERT INTO `cidades` VALUES ('583', '17', 'Belém de Maria', 'PE');
-            INSERT INTO `cidades` VALUES ('584', '15', 'Belém do Brejo do Cruz', 'PB');
-            INSERT INTO `cidades` VALUES ('585', '18', 'Belém do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('586', '17', 'Belém do São Francisco', 'PE');
-            INSERT INTO `cidades` VALUES ('587', '19', 'Belford Roxo', 'RJ');
-            INSERT INTO `cidades` VALUES ('588', '13', 'Belmiro Braga', 'MG');
-            INSERT INTO `cidades` VALUES ('589', '5', 'Belmonte', 'BA');
-            INSERT INTO `cidades` VALUES ('590', '24', 'Belmonte', 'SC');
-            INSERT INTO `cidades` VALUES ('591', '5', 'Belo Campo', 'BA');
-            INSERT INTO `cidades` VALUES ('592', '13', 'Belo Horizonte', 'MG');
-            INSERT INTO `cidades` VALUES ('593', '17', 'Belo Jardim', 'PE');
-            INSERT INTO `cidades` VALUES ('594', '2', 'Belo Monte', 'AL');
-            INSERT INTO `cidades` VALUES ('595', '13', 'Belo Oriente', 'MG');
-            INSERT INTO `cidades` VALUES ('596', '13', 'Belo Vale', 'MG');
-            INSERT INTO `cidades` VALUES ('597', '14', 'Belterra', 'PA');
-            INSERT INTO `cidades` VALUES ('598', '18', 'Beneditinos', 'PI');
-            INSERT INTO `cidades` VALUES ('599', '10', 'Benedito Leite', 'MA');
-            INSERT INTO `cidades` VALUES ('600', '24', 'Benedito Novo', 'SC');
-            INSERT INTO `cidades` VALUES ('601', '14', 'Benevides', 'PA');
-            INSERT INTO `cidades` VALUES ('602', '4', 'Benjamin Constant', 'AM');
-            INSERT INTO `cidades` VALUES ('603', '21', 'Benjamin Constant do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('604', '25', 'Bento de Abreu', 'SP');
-            INSERT INTO `cidades` VALUES ('605', '20', 'Bento Fernandes', 'RN');
-            INSERT INTO `cidades` VALUES ('606', '21', 'Bento Gonçalves', 'RS');
-            INSERT INTO `cidades` VALUES ('607', '10', 'Bequimão', 'MA');
-            INSERT INTO `cidades` VALUES ('608', '13', 'Berilo', 'MG');
-            INSERT INTO `cidades` VALUES ('609', '13', 'Berizal', 'MG');
-            INSERT INTO `cidades` VALUES ('610', '15', 'Bernardino Batista', 'PB');
-            INSERT INTO `cidades` VALUES ('611', '25', 'Bernardino de Campos', 'SP');
-            INSERT INTO `cidades` VALUES ('612', '10', 'Bernardo do Mearim', 'MA');
-            INSERT INTO `cidades` VALUES ('613', '27', 'Bernardo Sayão', 'TO');
-            INSERT INTO `cidades` VALUES ('614', '25', 'Bertioga', 'SP');
-            INSERT INTO `cidades` VALUES ('615', '18', 'Bertolínia', 'PI');
-            INSERT INTO `cidades` VALUES ('616', '13', 'Bertópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('617', '4', 'Beruri', 'AM');
-            INSERT INTO `cidades` VALUES ('618', '17', 'Betânia', 'PE');
-            INSERT INTO `cidades` VALUES ('619', '18', 'Betânia do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('620', '13', 'Betim', 'MG');
-            INSERT INTO `cidades` VALUES ('621', '17', 'Bezerros', 'PE');
-            INSERT INTO `cidades` VALUES ('622', '13', 'Bias Fortes', 'MG');
-            INSERT INTO `cidades` VALUES ('623', '13', 'Bicas', 'MG');
-            INSERT INTO `cidades` VALUES ('624', '24', 'Biguaçu', 'SC');
-            INSERT INTO `cidades` VALUES ('625', '25', 'Bilac', 'SP');
-            INSERT INTO `cidades` VALUES ('626', '13', 'Biquinhas', 'MG');
-            INSERT INTO `cidades` VALUES ('627', '25', 'Birigui', 'SP');
-            INSERT INTO `cidades` VALUES ('628', '25', 'Biritiba-Mirim', 'SP');
-            INSERT INTO `cidades` VALUES ('629', '5', 'Biritinga', 'BA');
-            INSERT INTO `cidades` VALUES ('630', '16', 'Bituruna', 'PR');
-            INSERT INTO `cidades` VALUES ('631', '24', 'Blumenau', 'SC');
-            INSERT INTO `cidades` VALUES ('632', '8', 'Boa Esperança', 'ES');
-            INSERT INTO `cidades` VALUES ('633', '13', 'Boa Esperança', 'MG');
-            INSERT INTO `cidades` VALUES ('634', '16', 'Boa Esperança', 'PR');
-            INSERT INTO `cidades` VALUES ('635', '16', 'Boa Esperança do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('636', '25', 'Boa Esperança do Sul', 'SP');
-            INSERT INTO `cidades` VALUES ('637', '18', 'Boa Hora', 'PI');
-            INSERT INTO `cidades` VALUES ('638', '5', 'Boa Nova', 'BA');
-            INSERT INTO `cidades` VALUES ('639', '15', 'Boa Ventura', 'PB');
-            INSERT INTO `cidades` VALUES ('640', '16', 'Boa Ventura de São Roque', 'PR');
-            INSERT INTO `cidades` VALUES ('641', '6', 'Boa Viagem', 'CE');
-            INSERT INTO `cidades` VALUES ('642', '15', 'Boa Vista', 'PB');
-            INSERT INTO `cidades` VALUES ('643', '23', 'Boa Vista', 'RR');
-            INSERT INTO `cidades` VALUES ('644', '16', 'Boa Vista da Aparecida', 'PR');
-            INSERT INTO `cidades` VALUES ('645', '21', 'Boa Vista das Missões', 'RS');
-            INSERT INTO `cidades` VALUES ('646', '21', 'Boa Vista do Buricá', 'RS');
-            INSERT INTO `cidades` VALUES ('647', '21', 'Boa Vista do Cadeado', 'RS');
-            INSERT INTO `cidades` VALUES ('648', '10', 'Boa Vista do Gurupi', 'MA');
-            INSERT INTO `cidades` VALUES ('649', '21', 'Boa Vista do Incra', 'RS');
-            INSERT INTO `cidades` VALUES ('650', '4', 'Boa Vista do Ramos', 'AM');
-            INSERT INTO `cidades` VALUES ('651', '21', 'Boa Vista do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('652', '5', 'Boa Vista do Tupim', 'BA');
-            INSERT INTO `cidades` VALUES ('653', '2', 'Boca da Mata', 'AL');
-            INSERT INTO `cidades` VALUES ('654', '4', 'Boca do Acre', 'AM');
-            INSERT INTO `cidades` VALUES ('655', '18', 'Bocaina', 'PI');
-            INSERT INTO `cidades` VALUES ('656', '25', 'Bocaina', 'SP');
-            INSERT INTO `cidades` VALUES ('657', '13', 'Bocaina de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('658', '24', 'Bocaina do Sul', 'SC');
-            INSERT INTO `cidades` VALUES ('659', '13', 'Bocaiúva', 'MG');
-            INSERT INTO `cidades` VALUES ('660', '16', 'Bocaiúva do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('661', '20', 'Bodó', 'RN');
-            INSERT INTO `cidades` VALUES ('662', '17', 'Bodocó', 'PE');
-            INSERT INTO `cidades` VALUES ('663', '12', 'Bodoquena', 'MS');
-            INSERT INTO `cidades` VALUES ('664', '25', 'Bofete', 'SP');
-            INSERT INTO `cidades` VALUES ('665', '25', 'Boituva', 'SP');
-            INSERT INTO `cidades` VALUES ('666', '17', 'Bom Conselho', 'PE');
-            INSERT INTO `cidades` VALUES ('667', '13', 'Bom Despacho', 'MG');
-            INSERT INTO `cidades` VALUES ('668', '10', 'Bom Jardim', 'MA');
-            INSERT INTO `cidades` VALUES ('669', '17', 'Bom Jardim', 'PE');
-            INSERT INTO `cidades` VALUES ('670', '19', 'Bom Jardim', 'RJ');
+            ['cidade_id' => 501, 'estado_id' => 14, 'cidade_nome' => 'Barcarena', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 502, 'estado_id' => 20, 'cidade_nome' => 'Barcelona', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 503, 'estado_id' => 4, 'cidade_nome' => 'Barcelos', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 504, 'estado_id' => 25, 'cidade_nome' => 'Bariri', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 505, 'estado_id' => 5, 'cidade_nome' => 'Barra', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 506, 'estado_id' => 24, 'cidade_nome' => 'Barra Bonita', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 507, 'estado_id' => 25, 'cidade_nome' => 'Barra Bonita', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 508, 'estado_id' => 5, 'cidade_nome' => 'Barra da Estiva', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 509, 'estado_id' => 18, 'cidade_nome' => 'Barra D\'Alcântara', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 510, 'estado_id' => 17, 'cidade_nome' => 'Barra de Guabiraba', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 511, 'estado_id' => 15, 'cidade_nome' => 'Barra de Santa Rosa', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 512, 'estado_id' => 15, 'cidade_nome' => 'Barra de Santana', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 513, 'estado_id' => 2, 'cidade_nome' => 'Barra de Santo Antônio', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 514, 'estado_id' => 8, 'cidade_nome' => 'Barra de São Francisco', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 515, 'estado_id' => 2, 'cidade_nome' => 'Barra de São Miguel', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 516, 'estado_id' => 15, 'cidade_nome' => 'Barra de São Miguel', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 517, 'estado_id' => 11, 'cidade_nome' => 'Barra do Bugres', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 518, 'estado_id' => 25, 'cidade_nome' => 'Barra do Chapéu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 519, 'estado_id' => 5, 'cidade_nome' => 'Barra do Choça', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 520, 'estado_id' => 10, 'cidade_nome' => 'Barra do Corda', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 521, 'estado_id' => 11, 'cidade_nome' => 'Barra do Garças', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 522, 'estado_id' => 21, 'cidade_nome' => 'Barra do Guarita', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 523, 'estado_id' => 16, 'cidade_nome' => 'Barra do Jacaré', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 524, 'estado_id' => 5, 'cidade_nome' => 'Barra do Mendes', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 525, 'estado_id' => 27, 'cidade_nome' => 'Barra do Ouro', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 526, 'estado_id' => 19, 'cidade_nome' => 'Barra do Piraí', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 527, 'estado_id' => 21, 'cidade_nome' => 'Barra do Quaraí', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 528, 'estado_id' => 21, 'cidade_nome' => 'Barra do Ribeiro', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 529, 'estado_id' => 21, 'cidade_nome' => 'Barra do Rio Azul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 530, 'estado_id' => 5, 'cidade_nome' => 'Barra do Rocha', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 531, 'estado_id' => 25, 'cidade_nome' => 'Barra do Turvo', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 532, 'estado_id' => 26, 'cidade_nome' => 'Barra dos Coqueiros', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 533, 'estado_id' => 21, 'cidade_nome' => 'Barra Funda', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 534, 'estado_id' => 13, 'cidade_nome' => 'Barra Longa', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 535, 'estado_id' => 19, 'cidade_nome' => 'Barra Mansa', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 536, 'estado_id' => 24, 'cidade_nome' => 'Barra Velha', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 537, 'estado_id' => 16, 'cidade_nome' => 'Barracão', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 538, 'estado_id' => 21, 'cidade_nome' => 'Barracão', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 539, 'estado_id' => 18, 'cidade_nome' => 'Barras', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 540, 'estado_id' => 6, 'cidade_nome' => 'Barreira', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 541, 'estado_id' => 5, 'cidade_nome' => 'Barreiras', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 542, 'estado_id' => 18, 'cidade_nome' => 'Barreiras do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 543, 'estado_id' => 4, 'cidade_nome' => 'Barreirinha', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 544, 'estado_id' => 10, 'cidade_nome' => 'Barreirinhas', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 545, 'estado_id' => 17, 'cidade_nome' => 'Barreiros', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 546, 'estado_id' => 25, 'cidade_nome' => 'Barretos', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 547, 'estado_id' => 25, 'cidade_nome' => 'Barrinha', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 548, 'estado_id' => 6, 'cidade_nome' => 'Barro', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 549, 'estado_id' => 5, 'cidade_nome' => 'Barro Alto', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 550, 'estado_id' => 9, 'cidade_nome' => 'Barro Alto', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 551, 'estado_id' => 18, 'cidade_nome' => 'Barro Duro', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 552, 'estado_id' => 5, 'cidade_nome' => 'Barro Preto', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 553, 'estado_id' => 5, 'cidade_nome' => 'Barrocas', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 554, 'estado_id' => 27, 'cidade_nome' => 'Barrolândia', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 555, 'estado_id' => 6, 'cidade_nome' => 'Barroquinha', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 556, 'estado_id' => 21, 'cidade_nome' => 'Barros Cassal', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 557, 'estado_id' => 13, 'cidade_nome' => 'Barroso', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 558, 'estado_id' => 25, 'cidade_nome' => 'Barueri', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 559, 'estado_id' => 25, 'cidade_nome' => 'Bastos', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 560, 'estado_id' => 12, 'cidade_nome' => 'Bataguassu', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 561, 'estado_id' => 2, 'cidade_nome' => 'Batalha', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 562, 'estado_id' => 18, 'cidade_nome' => 'Batalha', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 563, 'estado_id' => 25, 'cidade_nome' => 'Batatais', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 564, 'estado_id' => 12, 'cidade_nome' => 'Batayporã', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 565, 'estado_id' => 6, 'cidade_nome' => 'Baturité', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 566, 'estado_id' => 25, 'cidade_nome' => 'Bauru', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 567, 'estado_id' => 15, 'cidade_nome' => 'Bayeux', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 568, 'estado_id' => 25, 'cidade_nome' => 'Bebedouro', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 569, 'estado_id' => 6, 'cidade_nome' => 'Beberibe', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 570, 'estado_id' => 6, 'cidade_nome' => 'Bela Cruz', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 571, 'estado_id' => 12, 'cidade_nome' => 'Bela Vista', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 572, 'estado_id' => 16, 'cidade_nome' => 'Bela Vista da Caroba', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 573, 'estado_id' => 9, 'cidade_nome' => 'Bela Vista de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 574, 'estado_id' => 13, 'cidade_nome' => 'Bela Vista de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 575, 'estado_id' => 10, 'cidade_nome' => 'Bela Vista do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 576, 'estado_id' => 16, 'cidade_nome' => 'Bela Vista do Paraíso', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 577, 'estado_id' => 18, 'cidade_nome' => 'Bela Vista do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 578, 'estado_id' => 24, 'cidade_nome' => 'Bela Vista do Toldo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 579, 'estado_id' => 10, 'cidade_nome' => 'Belágua', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 580, 'estado_id' => 2, 'cidade_nome' => 'Belém', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 581, 'estado_id' => 14, 'cidade_nome' => 'Belém', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 582, 'estado_id' => 15, 'cidade_nome' => 'Belém', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 583, 'estado_id' => 17, 'cidade_nome' => 'Belém de Maria', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 584, 'estado_id' => 15, 'cidade_nome' => 'Belém do Brejo do Cruz', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 585, 'estado_id' => 18, 'cidade_nome' => 'Belém do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 586, 'estado_id' => 17, 'cidade_nome' => 'Belém do São Francisco', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 587, 'estado_id' => 19, 'cidade_nome' => 'Belford Roxo', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 588, 'estado_id' => 13, 'cidade_nome' => 'Belmiro Braga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 589, 'estado_id' => 5, 'cidade_nome' => 'Belmonte', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 590, 'estado_id' => 24, 'cidade_nome' => 'Belmonte', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 591, 'estado_id' => 5, 'cidade_nome' => 'Belo Campo', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 592, 'estado_id' => 13, 'cidade_nome' => 'Belo Horizonte', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 593, 'estado_id' => 17, 'cidade_nome' => 'Belo Jardim', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 594, 'estado_id' => 2, 'cidade_nome' => 'Belo Monte', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 595, 'estado_id' => 13, 'cidade_nome' => 'Belo Oriente', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 596, 'estado_id' => 13, 'cidade_nome' => 'Belo Vale', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 597, 'estado_id' => 14, 'cidade_nome' => 'Belterra', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 598, 'estado_id' => 18, 'cidade_nome' => 'Beneditinos', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 599, 'estado_id' => 10, 'cidade_nome' => 'Benedito Leite', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 600, 'estado_id' => 24, 'cidade_nome' => 'Benedito Novo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 601, 'estado_id' => 14, 'cidade_nome' => 'Benevides', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 602, 'estado_id' => 4, 'cidade_nome' => 'Benjamin Constant', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 603, 'estado_id' => 21, 'cidade_nome' => 'Benjamin Constant do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 604, 'estado_id' => 25, 'cidade_nome' => 'Bento de Abreu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 605, 'estado_id' => 20, 'cidade_nome' => 'Bento Fernandes', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 606, 'estado_id' => 21, 'cidade_nome' => 'Bento Gonçalves', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 607, 'estado_id' => 10, 'cidade_nome' => 'Bequimão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 608, 'estado_id' => 13, 'cidade_nome' => 'Berilo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 609, 'estado_id' => 13, 'cidade_nome' => 'Berizal', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 610, 'estado_id' => 15, 'cidade_nome' => 'Bernardino Batista', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 611, 'estado_id' => 25, 'cidade_nome' => 'Bernardino de Campos', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 612, 'estado_id' => 10, 'cidade_nome' => 'Bernardo do Mearim', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 613, 'estado_id' => 27, 'cidade_nome' => 'Bernardo Sayão', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 614, 'estado_id' => 25, 'cidade_nome' => 'Bertioga', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 615, 'estado_id' => 18, 'cidade_nome' => 'Bertolínia', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 616, 'estado_id' => 13, 'cidade_nome' => 'Bertópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 617, 'estado_id' => 4, 'cidade_nome' => 'Beruri', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 618, 'estado_id' => 17, 'cidade_nome' => 'Betânia', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 619, 'estado_id' => 18, 'cidade_nome' => 'Betânia do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 620, 'estado_id' => 13, 'cidade_nome' => 'Betim', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 621, 'estado_id' => 17, 'cidade_nome' => 'Bezerros', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 622, 'estado_id' => 13, 'cidade_nome' => 'Bias Fortes', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 623, 'estado_id' => 13, 'cidade_nome' => 'Bicas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 624, 'estado_id' => 24, 'cidade_nome' => 'Biguaçu', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 625, 'estado_id' => 25, 'cidade_nome' => 'Bilac', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 626, 'estado_id' => 13, 'cidade_nome' => 'Biquinhas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 627, 'estado_id' => 25, 'cidade_nome' => 'Birigui', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 628, 'estado_id' => 25, 'cidade_nome' => 'Biritiba-Mirim', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 629, 'estado_id' => 5, 'cidade_nome' => 'Biritinga', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 630, 'estado_id' => 16, 'cidade_nome' => 'Bituruna', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 631, 'estado_id' => 24, 'cidade_nome' => 'Blumenau', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 632, 'estado_id' => 8, 'cidade_nome' => 'Boa Esperança', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 633, 'estado_id' => 13, 'cidade_nome' => 'Boa Esperança', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 634, 'estado_id' => 16, 'cidade_nome' => 'Boa Esperança', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 635, 'estado_id' => 16, 'cidade_nome' => 'Boa Esperança do Iguaçu', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 636, 'estado_id' => 25, 'cidade_nome' => 'Boa Esperança do Sul', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 637, 'estado_id' => 18, 'cidade_nome' => 'Boa Hora', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 638, 'estado_id' => 5, 'cidade_nome' => 'Boa Nova', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 639, 'estado_id' => 15, 'cidade_nome' => 'Boa Ventura', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 640, 'estado_id' => 16, 'cidade_nome' => 'Boa Ventura de São Roque', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 641, 'estado_id' => 6, 'cidade_nome' => 'Boa Viagem', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 642, 'estado_id' => 15, 'cidade_nome' => 'Boa Vista', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 643, 'estado_id' => 23, 'cidade_nome' => 'Boa Vista', 'cidade_uf' => 'RR'],
+            ['cidade_id' => 644, 'estado_id' => 16, 'cidade_nome' => 'Boa Vista da Aparecida', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 645, 'estado_id' => 21, 'cidade_nome' => 'Boa Vista das Missões', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 646, 'estado_id' => 21, 'cidade_nome' => 'Boa Vista do Buricá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 647, 'estado_id' => 21, 'cidade_nome' => 'Boa Vista do Cadeado', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 648, 'estado_id' => 10, 'cidade_nome' => 'Boa Vista do Gurupi', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 649, 'estado_id' => 21, 'cidade_nome' => 'Boa Vista do Incra', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 650, 'estado_id' => 4, 'cidade_nome' => 'Boa Vista do Ramos', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 651, 'estado_id' => 21, 'cidade_nome' => 'Boa Vista do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 652, 'estado_id' => 5, 'cidade_nome' => 'Boa Vista do Tupim', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 653, 'estado_id' => 2, 'cidade_nome' => 'Boca da Mata', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 654, 'estado_id' => 4, 'cidade_nome' => 'Boca do Acre', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 655, 'estado_id' => 18, 'cidade_nome' => 'Bocaina', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 656, 'estado_id' => 25, 'cidade_nome' => 'Bocaina', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 657, 'estado_id' => 13, 'cidade_nome' => 'Bocaina de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 658, 'estado_id' => 24, 'cidade_nome' => 'Bocaina do Sul', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 659, 'estado_id' => 13, 'cidade_nome' => 'Bocaiúva', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 660, 'estado_id' => 16, 'cidade_nome' => 'Bocaiúva do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 661, 'estado_id' => 20, 'cidade_nome' => 'Bodó', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 662, 'estado_id' => 17, 'cidade_nome' => 'Bodocó', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 663, 'estado_id' => 12, 'cidade_nome' => 'Bodoquena', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 664, 'estado_id' => 25, 'cidade_nome' => 'Bofete', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 665, 'estado_id' => 25, 'cidade_nome' => 'Boituva', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 666, 'estado_id' => 17, 'cidade_nome' => 'Bom Conselho', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 667, 'estado_id' => 13, 'cidade_nome' => 'Bom Despacho', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 668, 'estado_id' => 10, 'cidade_nome' => 'Bom Jardim', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 669, 'estado_id' => 17, 'cidade_nome' => 'Bom Jardim', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 670, 'estado_id' => 19, 'cidade_nome' => 'Bom Jardim', 'cidade_uf' => 'RJ'],            
             INSERT INTO `cidades` VALUES ('671', '24', 'Bom Jardim da Serra', 'SC');
             INSERT INTO `cidades` VALUES ('672', '9', 'Bom Jardim de Goiás', 'GO');
             INSERT INTO `cidades` VALUES ('673', '13', 'Bom Jardim de Minas', 'MG');

@@ -681,7 +681,7 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 668, 'estado_id' => 10, 'cidade_nome' => 'Bom Jardim', 'cidade_uf' => 'MA'],
             ['cidade_id' => 669, 'estado_id' => 17, 'cidade_nome' => 'Bom Jardim', 'cidade_uf' => 'PE'],
             ['cidade_id' => 670, 'estado_id' => 19, 'cidade_nome' => 'Bom Jardim', 'cidade_uf' => 'RJ'],            
-            INSERT INTO `cidades` VALUES ('671', '24', 'Bom Jardim da Serra', 'SC');
+            ['cidade_id' => 671, 'estado_id' => 24, 'cidade_nome' => 'Bom Jardim da Serra', 'cidade_uf' => 'SC'],
             INSERT INTO `cidades` VALUES ('672', '9', 'Bom Jardim de Goiás', 'GO');
             INSERT INTO `cidades` VALUES ('673', '13', 'Bom Jardim de Minas', 'MG');
             INSERT INTO `cidades` VALUES ('674', '15', 'Bom Jesus', 'PB');

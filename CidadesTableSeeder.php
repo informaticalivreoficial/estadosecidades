@@ -763,7 +763,7 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 750, 'estado_id' => 13, 'cidade_nome' => 'Brasilândia de Minas', 'cidade_uf' => 'MG'],
             ['cidade_id' => 751, 'estado_id' => 16, 'cidade_nome' => 'Brasilândia do Sul', 'cidade_uf' => 'PR'],
             ['cidade_id' => 752, 'estado_id' => 27, 'cidade_nome' => 'Brasilândia do Tocantins', 'cidade_uf' => 'TO'],
-            INSERT INTO `cidades` VALUES ('753', '1', 'Brasiléia', 'AC');
+            ['cidade_id' => 753, 'estado_id' => 1, 'cidade_nome' => 'Brasiléia', 'cidade_uf' => 'AC'],
             INSERT INTO `cidades` VALUES ('754', '18', 'Brasileira', 'PI');
             INSERT INTO `cidades` VALUES ('755', '7', 'Brasília', 'DF');
             INSERT INTO `cidades` VALUES ('756', '13', 'Brasília de Minas', 'MG');

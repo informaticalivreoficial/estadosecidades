@@ -765,102 +765,102 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 752, 'estado_id' => 27, 'cidade_nome' => 'Brasilândia do Tocantins', 'cidade_uf' => 'TO'],
             ['cidade_id' => 753, 'estado_id' => 1, 'cidade_nome' => 'Brasiléia', 'cidade_uf' => 'AC'],
             ['cidade_id' => 754, 'estado_id' => 18, 'cidade_nome' => 'Brasileira', 'cidade_uf' => 'PI'],
-            INSERT INTO `cidades` VALUES ('755', '7', 'Brasília', 'DF');
-            INSERT INTO `cidades` VALUES ('756', '13', 'Brasília de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('757', '11', 'Brasnorte', 'MT');
-            INSERT INTO `cidades` VALUES ('758', '13', 'Brasópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('759', '25', 'Braúna', 'SP');
-            INSERT INTO `cidades` VALUES ('760', '13', 'Braúnas', 'MG');
-            INSERT INTO `cidades` VALUES ('761', '9', 'Brazabrantes', 'GO');
-            INSERT INTO `cidades` VALUES ('762', '17', 'Brejão', 'PE');
-            INSERT INTO `cidades` VALUES ('763', '8', 'Brejetuba', 'ES');
-            INSERT INTO `cidades` VALUES ('764', '17', 'Brejinho', 'PE');
-            INSERT INTO `cidades` VALUES ('765', '20', 'Brejinho', 'RN');
-            INSERT INTO `cidades` VALUES ('766', '27', 'Brejinho de Nazaré', 'TO');
-            INSERT INTO `cidades` VALUES ('767', '10', 'Brejo', 'MA');
-            INSERT INTO `cidades` VALUES ('768', '25', 'Brejo Alegre', 'SP');
-            INSERT INTO `cidades` VALUES ('769', '17', 'Brejo da Madre de Deus', 'PE');
-            INSERT INTO `cidades` VALUES ('770', '10', 'Brejo de Areia', 'MA');
-            INSERT INTO `cidades` VALUES ('771', '15', 'Brejo do Cruz', 'PB');
-            INSERT INTO `cidades` VALUES ('772', '18', 'Brejo do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('773', '15', 'Brejo dos Santos', 'PB');
-            INSERT INTO `cidades` VALUES ('774', '26', 'Brejo Grande', 'SE');
-            INSERT INTO `cidades` VALUES ('775', '14', 'Brejo Grande do Araguaia', 'PA');
-            INSERT INTO `cidades` VALUES ('776', '6', 'Brejo Santo', 'CE');
-            INSERT INTO `cidades` VALUES ('777', '5', 'Brejões', 'BA');
-            INSERT INTO `cidades` VALUES ('778', '5', 'Brejolândia', 'BA');
-            INSERT INTO `cidades` VALUES ('779', '14', 'Breu Branco', 'PA');
-            INSERT INTO `cidades` VALUES ('780', '14', 'Breves', 'PA');
-            INSERT INTO `cidades` VALUES ('781', '9', 'Britânia', 'GO');
-            INSERT INTO `cidades` VALUES ('782', '21', 'Brochier', 'RS');
-            INSERT INTO `cidades` VALUES ('783', '25', 'Brodowski', 'SP');
-            INSERT INTO `cidades` VALUES ('784', '25', 'Brotas', 'SP');
-            INSERT INTO `cidades` VALUES ('785', '5', 'Brotas de Macaúbas', 'BA');
-            INSERT INTO `cidades` VALUES ('786', '13', 'Brumadinho', 'MG');
-            INSERT INTO `cidades` VALUES ('787', '5', 'Brumado', 'BA');
-            INSERT INTO `cidades` VALUES ('788', '24', 'Brunópolis', 'SC');
-            INSERT INTO `cidades` VALUES ('789', '24', 'Brusque', 'SC');
-            INSERT INTO `cidades` VALUES ('790', '13', 'Bueno Brandão', 'MG');
-            INSERT INTO `cidades` VALUES ('791', '13', 'Buenópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('792', '17', 'Buenos Aires', 'PE');
-            INSERT INTO `cidades` VALUES ('793', '5', 'Buerarema', 'BA');
-            INSERT INTO `cidades` VALUES ('794', '13', 'Bugre', 'MG');
-            INSERT INTO `cidades` VALUES ('795', '17', 'Buíque', 'PE');
-            INSERT INTO `cidades` VALUES ('796', '1', 'Bujari', 'AC');
-            INSERT INTO `cidades` VALUES ('797', '14', 'Bujaru', 'PA');
-            INSERT INTO `cidades` VALUES ('798', '25', 'Buri', 'SP');
-            INSERT INTO `cidades` VALUES ('799', '25', 'Buritama', 'SP');
-            INSERT INTO `cidades` VALUES ('800', '10', 'Buriti', 'MA');
-            INSERT INTO `cidades` VALUES ('801', '9', 'Buriti Alegre', 'GO');
-            INSERT INTO `cidades` VALUES ('802', '10', 'Buriti Bravo', 'MA');
-            INSERT INTO `cidades` VALUES ('803', '9', 'Buriti de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('804', '27', 'Buriti do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('805', '18', 'Buriti dos Lopes', 'PI');
-            INSERT INTO `cidades` VALUES ('806', '18', 'Buriti dos Montes', 'PI');
-            INSERT INTO `cidades` VALUES ('807', '10', 'Buriticupu', 'MA');
-            INSERT INTO `cidades` VALUES ('808', '9', 'Buritinópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('809', '5', 'Buritirama', 'BA');
-            INSERT INTO `cidades` VALUES ('810', '10', 'Buritirana', 'MA');
-            INSERT INTO `cidades` VALUES ('811', '13', 'Buritis', 'MG');
-            INSERT INTO `cidades` VALUES ('812', '22', 'Buritis', 'RO');
-            INSERT INTO `cidades` VALUES ('813', '25', 'Buritizal', 'SP');
-            INSERT INTO `cidades` VALUES ('814', '13', 'Buritizeiro', 'MG');
-            INSERT INTO `cidades` VALUES ('815', '21', 'Butiá', 'RS');
-            INSERT INTO `cidades` VALUES ('816', '4', 'Caapiranga', 'AM');
-            INSERT INTO `cidades` VALUES ('817', '15', 'Caaporã', 'PB');
-            INSERT INTO `cidades` VALUES ('818', '12', 'Caarapó', 'MS');
-            INSERT INTO `cidades` VALUES ('819', '5', 'Caatiba', 'BA');
-            INSERT INTO `cidades` VALUES ('820', '15', 'Cabaceiras', 'PB');
-            INSERT INTO `cidades` VALUES ('821', '5', 'Cabaceiras do Paraguaçu', 'BA');
-            INSERT INTO `cidades` VALUES ('822', '13', 'Cabeceira Grande', 'MG');
-            INSERT INTO `cidades` VALUES ('823', '9', 'Cabeceiras', 'GO');
-            INSERT INTO `cidades` VALUES ('824', '18', 'Cabeceiras do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('825', '15', 'Cabedelo', 'PB');
-            INSERT INTO `cidades` VALUES ('826', '22', 'Cabixi', 'RO');
-            INSERT INTO `cidades` VALUES ('827', '17', 'Cabo de Santo Agostinho', 'PE');
-            INSERT INTO `cidades` VALUES ('828', '19', 'Cabo Frio', 'RJ');
-            INSERT INTO `cidades` VALUES ('829', '13', 'Cabo Verde', 'MG');
-            INSERT INTO `cidades` VALUES ('830', '25', 'Cabrália Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('831', '25', 'Cabreúva', 'SP');
-            INSERT INTO `cidades` VALUES ('832', '17', 'Cabrobó', 'PE');
-            INSERT INTO `cidades` VALUES ('833', '24', 'Caçador', 'SC');
-            INSERT INTO `cidades` VALUES ('834', '25', 'Caçapava', 'SP');
-            INSERT INTO `cidades` VALUES ('835', '21', 'Caçapava do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('836', '22', 'Cacaulândia', 'RO');
-            INSERT INTO `cidades` VALUES ('837', '21', 'Cacequi', 'RS');
-            INSERT INTO `cidades` VALUES ('838', '11', 'Cáceres', 'MT');
-            INSERT INTO `cidades` VALUES ('839', '5', 'Cachoeira', 'BA');
-            INSERT INTO `cidades` VALUES ('840', '9', 'Cachoeira Alta', 'GO');
-            INSERT INTO `cidades` VALUES ('841', '13', 'Cachoeira da Prata', 'MG');
-            INSERT INTO `cidades` VALUES ('842', '9', 'Cachoeira de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('843', '13', 'Cachoeira de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('844', '13', 'Cachoeira de Pajeú', 'MG');
-            INSERT INTO `cidades` VALUES ('845', '14', 'Cachoeira do Arari', 'PA');
-            INSERT INTO `cidades` VALUES ('846', '14', 'Cachoeira do Piriá', 'PA');
-            INSERT INTO `cidades` VALUES ('847', '21', 'Cachoeira do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('848', '15', 'Cachoeira dos Índios', 'PB');
-            INSERT INTO `cidades` VALUES ('849', '9', 'Cachoeira Dourada', 'GO');
-            INSERT INTO `cidades` VALUES ('850', '13', 'Cachoeira Dourada', 'MG');
+            ['cidade_id' => 755, 'estado_id' => 7, 'cidade_nome' => 'Brasília', 'cidade_uf' => 'DF'],
+            ['cidade_id' => 756, 'estado_id' => 13, 'cidade_nome' => 'Brasília de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 757, 'estado_id' => 11, 'cidade_nome' => 'Brasnorte', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 758, 'estado_id' => 13, 'cidade_nome' => 'Brasópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 759, 'estado_id' => 25, 'cidade_nome' => 'Braúna', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 760, 'estado_id' => 13, 'cidade_nome' => 'Braúnas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 761, 'estado_id' => 9, 'cidade_nome' => 'Brazabrantes', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 762, 'estado_id' => 17, 'cidade_nome' => 'Brejão', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 763, 'estado_id' => 8, 'cidade_nome' => 'Brejetuba', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 764, 'estado_id' => 17, 'cidade_nome' => 'Brejinho', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 765, 'estado_id' => 20, 'cidade_nome' => 'Brejinho', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 766, 'estado_id' => 27, 'cidade_nome' => 'Brejinho de Nazaré', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 767, 'estado_id' => 10, 'cidade_nome' => 'Brejo', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 768, 'estado_id' => 25, 'cidade_nome' => 'Brejo Alegre', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 769, 'estado_id' => 17, 'cidade_nome' => 'Brejo da Madre de Deus', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 770, 'estado_id' => 10, 'cidade_nome' => 'Brejo de Areia', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 771, 'estado_id' => 15, 'cidade_nome' => 'Brejo do Cruz', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 772, 'estado_id' => 18, 'cidade_nome' => 'Brejo do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 773, 'estado_id' => 15, 'cidade_nome' => 'Brejo dos Santos', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 774, 'estado_id' => 26, 'cidade_nome' => 'Brejo Grande', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 775, 'estado_id' => 14, 'cidade_nome' => 'Brejo Grande do Araguaia', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 776, 'estado_id' => 6, 'cidade_nome' => 'Brejo Santo', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 777, 'estado_id' => 5, 'cidade_nome' => 'Brejões', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 778, 'estado_id' => 5, 'cidade_nome' => 'Brejolândia', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 779, 'estado_id' => 14, 'cidade_nome' => 'Breu Branco', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 780, 'estado_id' => 14, 'cidade_nome' => 'Breves', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 781, 'estado_id' => 9, 'cidade_nome' => 'Britânia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 782, 'estado_id' => 21, 'cidade_nome' => 'Brochier', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 783, 'estado_id' => 25, 'cidade_nome' => 'Brodowski', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 784, 'estado_id' => 25, 'cidade_nome' => 'Brotas', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 785, 'estado_id' => 5, 'cidade_nome' => 'Brotas de Macaúbas', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 786, 'estado_id' => 13, 'cidade_nome' => 'Brumadinho', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 787, 'estado_id' => 5, 'cidade_nome' => 'Brumado', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 788, 'estado_id' => 24, 'cidade_nome' => 'Brunópolis', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 789, 'estado_id' => 24, 'cidade_nome' => 'Brusque', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 790, 'estado_id' => 13, 'cidade_nome' => 'Bueno Brandão', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 791, 'estado_id' => 13, 'cidade_nome' => 'Buenópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 792, 'estado_id' => 17, 'cidade_nome' => 'Buenos Aires', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 793, 'estado_id' => 5, 'cidade_nome' => 'Buerarema', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 794, 'estado_id' => 13, 'cidade_nome' => 'Bugre', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 795, 'estado_id' => 17, 'cidade_nome' => 'Buíque', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 796, 'estado_id' => 1, 'cidade_nome' => 'Bujari', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 797, 'estado_id' => 14, 'cidade_nome' => 'Bujaru', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 798, 'estado_id' => 25, 'cidade_nome' => 'Buri', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 799, 'estado_id' => 25, 'cidade_nome' => 'Buritama', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 800, 'estado_id' => 10, 'cidade_nome' => 'Buriti', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 801, 'estado_id' => 9, 'cidade_nome' => 'Buriti Alegre', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 802, 'estado_id' => 10, 'cidade_nome' => 'Buriti Bravo', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 803, 'estado_id' => 9, 'cidade_nome' => 'Buriti de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 804, 'estado_id' => 27, 'cidade_nome' => 'Buriti do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 805, 'estado_id' => 18, 'cidade_nome' => 'Buriti dos Lopes', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 806, 'estado_id' => 18, 'cidade_nome' => 'Buriti dos Montes', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 807, 'estado_id' => 10, 'cidade_nome' => 'Buriticupu', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 808, 'estado_id' => 9, 'cidade_nome' => 'Buritinópolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 809, 'estado_id' => 5, 'cidade_nome' => 'Buritirama', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 810, 'estado_id' => 10, 'cidade_nome' => 'Buritirana', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 811, 'estado_id' => 13, 'cidade_nome' => 'Buritis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 812, 'estado_id' => 22, 'cidade_nome' => 'Buritis', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 813, 'estado_id' => 25, 'cidade_nome' => 'Buritizal', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 814, 'estado_id' => 13, 'cidade_nome' => 'Buritizeiro', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 815, 'estado_id' => 21, 'cidade_nome' => 'Butiá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 816, 'estado_id' => 4, 'cidade_nome' => 'Caapiranga', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 817, 'estado_id' => 15, 'cidade_nome' => 'Caaporã', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 818, 'estado_id' => 12, 'cidade_nome' => 'Caarapó', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 819, 'estado_id' => 5, 'cidade_nome' => 'Caatiba', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 820, 'estado_id' => 15, 'cidade_nome' => 'Cabaceiras', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 821, 'estado_id' => 5, 'cidade_nome' => 'Cabaceiras do Paraguaçu', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 822, 'estado_id' => 13, 'cidade_nome' => 'Cabeceira Grande', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 823, 'estado_id' => 9, 'cidade_nome' => 'Cabeceiras', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 824, 'estado_id' => 18, 'cidade_nome' => 'Cabeceiras do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 825, 'estado_id' => 15, 'cidade_nome' => 'Cabedelo', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 826, 'estado_id' => 22, 'cidade_nome' => 'Cabixi', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 827, 'estado_id' => 17, 'cidade_nome' => 'Cabo de Santo Agostinho', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 828, 'estado_id' => 19, 'cidade_nome' => 'Cabo Frio', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 829, 'estado_id' => 13, 'cidade_nome' => 'Cabo Verde', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 830, 'estado_id' => 25, 'cidade_nome' => 'Cabrália Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 831, 'estado_id' => 25, 'cidade_nome' => 'Cabreúva', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 832, 'estado_id' => 17, 'cidade_nome' => 'Cabrobó', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 833, 'estado_id' => 24, 'cidade_nome' => 'Caçador', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 834, 'estado_id' => 25, 'cidade_nome' => 'Caçapava', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 835, 'estado_id' => 21, 'cidade_nome' => 'Caçapava do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 836, 'estado_id' => 22, 'cidade_nome' => 'Cacaulândia', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 837, 'estado_id' => 21, 'cidade_nome' => 'Cacequi', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 838, 'estado_id' => 11, 'cidade_nome' => 'Cáceres', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 839, 'estado_id' => 5, 'cidade_nome' => 'Cachoeira', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 840, 'estado_id' => 9, 'cidade_nome' => 'Cachoeira Alta', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 841, 'estado_id' => 13, 'cidade_nome' => 'Cachoeira da Prata', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 842, 'estado_id' => 9, 'cidade_nome' => 'Cachoeira de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 843, 'estado_id' => 13, 'cidade_nome' => 'Cachoeira de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 844, 'estado_id' => 13, 'cidade_nome' => 'Cachoeira de Pajeú', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 845, 'estado_id' => 14, 'cidade_nome' => 'Cachoeira do Arari', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 846, 'estado_id' => 14, 'cidade_nome' => 'Cachoeira do Piriá', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 847, 'estado_id' => 21, 'cidade_nome' => 'Cachoeira do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 848, 'estado_id' => 15, 'cidade_nome' => 'Cachoeira dos Índios', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 849, 'estado_id' => 9, 'cidade_nome' => 'Cachoeira Dourada', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 850, 'estado_id' => 13, 'cidade_nome' => 'Cachoeira Dourada', 'cidade_uf' => 'MG'],
             INSERT INTO `cidades` VALUES ('851', '10', 'Cachoeira Grande', 'MA');
             INSERT INTO `cidades` VALUES ('852', '25', 'Cachoeira Paulista', 'SP');
             INSERT INTO `cidades` VALUES ('853', '19', 'Cachoeiras de Macacu', 'RJ');

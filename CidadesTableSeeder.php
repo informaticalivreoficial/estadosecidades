@@ -1021,96 +1021,96 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 1008, 'estado_id' => 11, 'cidade_nome' => 'Canarana', 'cidade_uf' => 'MT'],
             ['cidade_id' => 1009, 'estado_id' => 25, 'cidade_nome' => 'Canas', 'cidade_uf' => 'SP'],
             ['cidade_id' => 1010, 'estado_id' => 18, 'cidade_nome' => 'Canavieira', 'cidade_uf' => 'PI'],
-            INSERT INTO `cidades` VALUES ('1011', '5', 'Canavieiras', 'BA');
-            INSERT INTO `cidades` VALUES ('1012', '5', 'Candeal', 'BA');
-            INSERT INTO `cidades` VALUES ('1013', '5', 'Candeias', 'BA');
-            INSERT INTO `cidades` VALUES ('1014', '13', 'Candeias', 'MG');
-            INSERT INTO `cidades` VALUES ('1015', '22', 'Candeias do Jamari', 'RO');
-            INSERT INTO `cidades` VALUES ('1016', '21', 'Candelária', 'RS');
-            INSERT INTO `cidades` VALUES ('1017', '5', 'Candiba', 'BA');
-            INSERT INTO `cidades` VALUES ('1018', '16', 'Cândido de Abreu', 'PR');
-            INSERT INTO `cidades` VALUES ('1019', '21', 'Cândido Godói', 'RS');
-            INSERT INTO `cidades` VALUES ('1020', '10', 'Cândido Mendes', 'MA');
-            INSERT INTO `cidades` VALUES ('1021', '25', 'Cândido Mota', 'SP');
-            INSERT INTO `cidades` VALUES ('1022', '25', 'Cândido Rodrigues', 'SP');
-            INSERT INTO `cidades` VALUES ('1023', '5', 'Cândido Sales', 'BA');
-            INSERT INTO `cidades` VALUES ('1024', '21', 'Candiota', 'RS');
-            INSERT INTO `cidades` VALUES ('1025', '16', 'Candói', 'PR');
-            INSERT INTO `cidades` VALUES ('1026', '21', 'Canela', 'RS');
-            INSERT INTO `cidades` VALUES ('1027', '24', 'Canelinha', 'SC');
-            INSERT INTO `cidades` VALUES ('1028', '20', 'Canguaretama', 'RN');
-            INSERT INTO `cidades` VALUES ('1029', '21', 'Canguçu', 'RS');
-            INSERT INTO `cidades` VALUES ('1030', '26', 'Canhoba', 'SE');
-            INSERT INTO `cidades` VALUES ('1031', '17', 'Canhotinho', 'PE');
-            INSERT INTO `cidades` VALUES ('1032', '6', 'Canindé', 'CE');
-            INSERT INTO `cidades` VALUES ('1033', '26', 'Canindé de São Francisco', 'SE');
-            INSERT INTO `cidades` VALUES ('1034', '25', 'Canitar', 'SP');
-            INSERT INTO `cidades` VALUES ('1035', '21', 'Canoas', 'RS');
-            INSERT INTO `cidades` VALUES ('1036', '24', 'Canoinhas', 'SC');
-            INSERT INTO `cidades` VALUES ('1037', '5', 'Cansanção', 'BA');
-            INSERT INTO `cidades` VALUES ('1038', '23', 'Cantá', 'RR');
-            INSERT INTO `cidades` VALUES ('1039', '13', 'Cantagalo', 'MG');
-            INSERT INTO `cidades` VALUES ('1040', '16', 'Cantagalo', 'PR');
-            INSERT INTO `cidades` VALUES ('1041', '19', 'Cantagalo', 'RJ');
-            INSERT INTO `cidades` VALUES ('1042', '10', 'Cantanhede', 'MA');
-            INSERT INTO `cidades` VALUES ('1043', '18', 'Canto do Buriti', 'PI');
-            INSERT INTO `cidades` VALUES ('1044', '5', 'Canudos', 'BA');
-            INSERT INTO `cidades` VALUES ('1045', '21', 'Canudos do Vale', 'RS');
-            INSERT INTO `cidades` VALUES ('1046', '4', 'Canutama', 'AM');
-            INSERT INTO `cidades` VALUES ('1047', '14', 'Capanema', 'PA');
-            INSERT INTO `cidades` VALUES ('1048', '16', 'Capanema', 'PR');
-            INSERT INTO `cidades` VALUES ('1049', '24', 'Capão Alto', 'SC');
-            INSERT INTO `cidades` VALUES ('1050', '25', 'Capão Bonito', 'SP');
-            INSERT INTO `cidades` VALUES ('1051', '21', 'Capão Bonito do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('1052', '21', 'Capão da Canoa', 'RS');
-            INSERT INTO `cidades` VALUES ('1053', '21', 'Capão do Cipó', 'RS');
-            INSERT INTO `cidades` VALUES ('1054', '21', 'Capão do Leão', 'RS');
-            INSERT INTO `cidades` VALUES ('1055', '13', 'Caparaó', 'MG');
-            INSERT INTO `cidades` VALUES ('1056', '2', 'Capela', 'AL');
-            INSERT INTO `cidades` VALUES ('1057', '26', 'Capela', 'SE');
-            INSERT INTO `cidades` VALUES ('1058', '21', 'Capela de Santana', 'RS');
-            INSERT INTO `cidades` VALUES ('1059', '25', 'Capela do Alto', 'SP');
-            INSERT INTO `cidades` VALUES ('1060', '5', 'Capela do Alto Alegre', 'BA');
-            INSERT INTO `cidades` VALUES ('1061', '13', 'Capela Nova', 'MG');
-            INSERT INTO `cidades` VALUES ('1062', '13', 'Capelinha', 'MG');
-            INSERT INTO `cidades` VALUES ('1063', '13', 'Capetinga', 'MG');
-            INSERT INTO `cidades` VALUES ('1064', '15', 'Capim', 'PB');
-            INSERT INTO `cidades` VALUES ('1065', '13', 'Capim Branco', 'MG');
-            INSERT INTO `cidades` VALUES ('1066', '5', 'Capim Grosso', 'BA');
-            INSERT INTO `cidades` VALUES ('1067', '13', 'Capinópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('1068', '24', 'Capinzal', 'SC');
-            INSERT INTO `cidades` VALUES ('1069', '10', 'Capinzal do Norte', 'MA');
-            INSERT INTO `cidades` VALUES ('1070', '6', 'Capistrano', 'CE');
-            INSERT INTO `cidades` VALUES ('1071', '21', 'Capitão', 'RS');
-            INSERT INTO `cidades` VALUES ('1072', '13', 'Capitão Andrade', 'MG');
-            INSERT INTO `cidades` VALUES ('1073', '18', 'Capitão de Campos', 'PI');
-            INSERT INTO `cidades` VALUES ('1074', '13', 'Capitão Enéas', 'MG');
-            INSERT INTO `cidades` VALUES ('1075', '18', 'Capitão Gervásio Oliveira', 'PI');
-            INSERT INTO `cidades` VALUES ('1076', '16', 'Capitão Leônidas Marques', 'PR');
-            INSERT INTO `cidades` VALUES ('1077', '14', 'Capitão Poço', 'PA');
-            INSERT INTO `cidades` VALUES ('1078', '13', 'Capitólio', 'MG');
-            INSERT INTO `cidades` VALUES ('1079', '25', 'Capivari', 'SP');
-            INSERT INTO `cidades` VALUES ('1080', '24', 'Capivari de Baixo', 'SC');
-            INSERT INTO `cidades` VALUES ('1081', '21', 'Capivari do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('1082', '1', 'Capixaba', 'AC');
-            INSERT INTO `cidades` VALUES ('1083', '17', 'Capoeiras', 'PE');
-            INSERT INTO `cidades` VALUES ('1084', '13', 'Caputira', 'MG');
-            INSERT INTO `cidades` VALUES ('1085', '21', 'Caraá', 'RS');
-            INSERT INTO `cidades` VALUES ('1086', '23', 'Caracaraí', 'RR');
-            INSERT INTO `cidades` VALUES ('1087', '12', 'Caracol', 'MS');
-            INSERT INTO `cidades` VALUES ('1088', '18', 'Caracol', 'PI');
-            INSERT INTO `cidades` VALUES ('1089', '25', 'Caraguatatuba', 'SP');
-            INSERT INTO `cidades` VALUES ('1090', '13', 'Caraí', 'MG');
-            INSERT INTO `cidades` VALUES ('1091', '5', 'Caraíbas', 'BA');
-            INSERT INTO `cidades` VALUES ('1092', '16', 'Carambeí', 'PR');
-            INSERT INTO `cidades` VALUES ('1093', '13', 'Caranaíba', 'MG');
-            INSERT INTO `cidades` VALUES ('1094', '13', 'Carandaí', 'MG');
-            INSERT INTO `cidades` VALUES ('1095', '13', 'Carangola', 'MG');
-            INSERT INTO `cidades` VALUES ('1096', '19', 'Carapebus', 'RJ');
-            INSERT INTO `cidades` VALUES ('1097', '25', 'Carapicuíba', 'SP');
-            INSERT INTO `cidades` VALUES ('1098', '13', 'Caratinga', 'MG');
-            INSERT INTO `cidades` VALUES ('1099', '4', 'Carauari', 'AM');
-            INSERT INTO `cidades` VALUES ('1100', '15', 'Caraúbas', 'PB');
+            ['cidade_id' => 1011, 'estado_id' => 5, 'cidade_nome' => 'Canavieiras', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1012, 'estado_id' => 5, 'cidade_nome' => 'Candeal', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1013, 'estado_id' => 5, 'cidade_nome' => 'Candeias', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1014, 'estado_id' => 13, 'cidade_nome' => 'Candeias', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1015, 'estado_id' => 22, 'cidade_nome' => 'Candeias do Jamari', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 1016, 'estado_id' => 21, 'cidade_nome' => 'Candelária', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1017, 'estado_id' => 5, 'cidade_nome' => 'Candiba', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1018, 'estado_id' => 16, 'cidade_nome' => 'Cândido de Abreu', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1019, 'estado_id' => 21, 'cidade_nome' => 'Cândido Godói', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1020, 'estado_id' => 10, 'cidade_nome' => 'Cândido Mendes', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1021, 'estado_id' => 25, 'cidade_nome' => 'Cândido Mota', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1022, 'estado_id' => 25, 'cidade_nome' => 'Cândido Rodrigues', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1023, 'estado_id' => 5, 'cidade_nome' => 'Cândido Sales', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1024, 'estado_id' => 21, 'cidade_nome' => 'Candiota', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1025, 'estado_id' => 16, 'cidade_nome' => 'Candói', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1026, 'estado_id' => 21, 'cidade_nome' => 'Canela', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1027, 'estado_id' => 24, 'cidade_nome' => 'Canelinha', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1028, 'estado_id' => 20, 'cidade_nome' => 'Canguaretama', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1029, 'estado_id' => 21, 'cidade_nome' => 'Canguçu', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1030, 'estado_id' => 26, 'cidade_nome' => 'Canhoba', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1031, 'estado_id' => 17, 'cidade_nome' => 'Canhotinho', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1032, 'estado_id' => 6, 'cidade_nome' => 'Canindé', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1033, 'estado_id' => 26, 'cidade_nome' => 'Canindé de São Francisco', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1034, 'estado_id' => 25, 'cidade_nome' => 'Canitar', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1035, 'estado_id' => 21, 'cidade_nome' => 'Canoas', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1036, 'estado_id' => 24, 'cidade_nome' => 'Canoinhas', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1037, 'estado_id' => 5, 'cidade_nome' => 'Cansanção', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1038, 'estado_id' => 23, 'cidade_nome' => 'Cantá', 'cidade_uf' => 'RR'],
+            ['cidade_id' => 1039, 'estado_id' => 13, 'cidade_nome' => 'Cantagalo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1040, 'estado_id' => 16, 'cidade_nome' => 'Cantagalo', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1041, 'estado_id' => 19, 'cidade_nome' => 'Cantagalo', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 1042, 'estado_id' => 10, 'cidade_nome' => 'Cantanhede', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1043, 'estado_id' => 18, 'cidade_nome' => 'Canto do Buriti', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1044, 'estado_id' => 5, 'cidade_nome' => 'Canudos', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1045, 'estado_id' => 21, 'cidade_nome' => 'Canudos do Vale', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1046, 'estado_id' => 4, 'cidade_nome' => 'Canutama', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 1047, 'estado_id' => 14, 'cidade_nome' => 'Capanema', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1048, 'estado_id' => 16, 'cidade_nome' => 'Capanema', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1049, 'estado_id' => 24, 'cidade_nome' => 'Capão Alto', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1050, 'estado_id' => 25, 'cidade_nome' => 'Capão Bonito', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1051, 'estado_id' => 21, 'cidade_nome' => 'Capão Bonito do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1052, 'estado_id' => 21, 'cidade_nome' => 'Capão da Canoa', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1053, 'estado_id' => 21, 'cidade_nome' => 'Capão do Cipó', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1054, 'estado_id' => 21, 'cidade_nome' => 'Capão do Leão', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1055, 'estado_id' => 13, 'cidade_nome' => 'Caparaó', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1056, 'estado_id' => 2, 'cidade_nome' => 'Capela', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1057, 'estado_id' => 26, 'cidade_nome' => 'Capela', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1058, 'estado_id' => 21, 'cidade_nome' => 'Capela de Santana', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1059, 'estado_id' => 25, 'cidade_nome' => 'Capela do Alto', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1060, 'estado_id' => 5, 'cidade_nome' => 'Capela do Alto Alegre', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1061, 'estado_id' => 13, 'cidade_nome' => 'Capela Nova', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1062, 'estado_id' => 13, 'cidade_nome' => 'Capelinha', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1063, 'estado_id' => 13, 'cidade_nome' => 'Capetinga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1064, 'estado_id' => 15, 'cidade_nome' => 'Capim', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1065, 'estado_id' => 13, 'cidade_nome' => 'Capim Branco', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1066, 'estado_id' => 5, 'cidade_nome' => 'Capim Grosso', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1067, 'estado_id' => 13, 'cidade_nome' => 'Capinópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1068, 'estado_id' => 24, 'cidade_nome' => 'Capinzal', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1069, 'estado_id' => 10, 'cidade_nome' => 'Capinzal do Norte', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1070, 'estado_id' => 6, 'cidade_nome' => 'Capistrano', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1071, 'estado_id' => 21, 'cidade_nome' => 'Capitão', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1072, 'estado_id' => 13, 'cidade_nome' => 'Capitão Andrade', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1073, 'estado_id' => 18, 'cidade_nome' => 'Capitão de Campos', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1074, 'estado_id' => 13, 'cidade_nome' => 'Capitão Enéas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1075, 'estado_id' => 18, 'cidade_nome' => 'Capitão Gervásio Oliveira', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1076, 'estado_id' => 16, 'cidade_nome' => 'Capitão Leônidas Marques', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1077, 'estado_id' => 14, 'cidade_nome' => 'Capitão Poço', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1078, 'estado_id' => 13, 'cidade_nome' => 'Capitólio', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1079, 'estado_id' => 25, 'cidade_nome' => 'Capivari', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1080, 'estado_id' => 24, 'cidade_nome' => 'Capivari de Baixo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1081, 'estado_id' => 21, 'cidade_nome' => 'Capivari do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1082, 'estado_id' => 1, 'cidade_nome' => 'Capixaba', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 1083, 'estado_id' => 17, 'cidade_nome' => 'Capoeiras', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1084, 'estado_id' => 13, 'cidade_nome' => 'Caputira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1085, 'estado_id' => 21, 'cidade_nome' => 'Caraá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1086, 'estado_id' => 23, 'cidade_nome' => 'Caracaraí', 'cidade_uf' => 'RR'],
+            ['cidade_id' => 1087, 'estado_id' => 12, 'cidade_nome' => 'Caracol', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1088, 'estado_id' => 18, 'cidade_nome' => 'Caracol', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1089, 'estado_id' => 25, 'cidade_nome' => 'Caraguatatuba', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1090, 'estado_id' => 13, 'cidade_nome' => 'Caraí', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1091, 'estado_id' => 5, 'cidade_nome' => 'Caraíbas', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1092, 'estado_id' => 16, 'cidade_nome' => 'Carambeí', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1093, 'estado_id' => 13, 'cidade_nome' => 'Caranaíba', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1094, 'estado_id' => 13, 'cidade_nome' => 'Carandaí', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1095, 'estado_id' => 13, 'cidade_nome' => 'Carangola', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1096, 'estado_id' => 19, 'cidade_nome' => 'Carapebus', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 1097, 'estado_id' => 25, 'cidade_nome' => 'Carapicuíba', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1098, 'estado_id' => 13, 'cidade_nome' => 'Caratinga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1099, 'estado_id' => 4, 'cidade_nome' => 'Carauari', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 1100, 'estado_id' => 15, 'cidade_nome' => 'Caraúbas', 'cidade_uf' => 'PB'],
             INSERT INTO `cidades` VALUES ('1101', '20', 'Caraúbas', 'RN');
             INSERT INTO `cidades` VALUES ('1102', '18', 'Caraúbas do Piauí', 'PI');
             INSERT INTO `cidades` VALUES ('1103', '5', 'Caravelas', 'BA');

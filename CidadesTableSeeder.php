@@ -861,166 +861,166 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 848, 'estado_id' => 15, 'cidade_nome' => 'Cachoeira dos Índios', 'cidade_uf' => 'PB'],
             ['cidade_id' => 849, 'estado_id' => 9, 'cidade_nome' => 'Cachoeira Dourada', 'cidade_uf' => 'GO'],
             ['cidade_id' => 850, 'estado_id' => 13, 'cidade_nome' => 'Cachoeira Dourada', 'cidade_uf' => 'MG'],
-            INSERT INTO `cidades` VALUES ('851', '10', 'Cachoeira Grande', 'MA');
-            INSERT INTO `cidades` VALUES ('852', '25', 'Cachoeira Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('853', '19', 'Cachoeiras de Macacu', 'RJ');
-            INSERT INTO `cidades` VALUES ('854', '17', 'Cachoeirinha', 'PE');
-            INSERT INTO `cidades` VALUES ('855', '21', 'Cachoeirinha', 'RS');
-            INSERT INTO `cidades` VALUES ('856', '27', 'Cachoeirinha', 'TO');
-            INSERT INTO `cidades` VALUES ('857', '8', 'Cachoeiro de Itapemirim', 'ES');
-            INSERT INTO `cidades` VALUES ('858', '15', 'Cacimba de Areia', 'PB');
-            INSERT INTO `cidades` VALUES ('859', '15', 'Cacimba de Dentro', 'PB');
-            INSERT INTO `cidades` VALUES ('860', '15', 'Cacimbas', 'PB');
-            INSERT INTO `cidades` VALUES ('861', '2', 'Cacimbinhas', 'AL');
-            INSERT INTO `cidades` VALUES ('862', '21', 'Cacique Doble', 'RS');
-            INSERT INTO `cidades` VALUES ('863', '22', 'Cacoal', 'RO');
-            INSERT INTO `cidades` VALUES ('864', '25', 'Caconde', 'SP');
-            INSERT INTO `cidades` VALUES ('865', '9', 'Caçu', 'GO');
-            INSERT INTO `cidades` VALUES ('866', '5', 'Caculé', 'BA');
-            INSERT INTO `cidades` VALUES ('867', '5', 'Caém', 'BA');
-            INSERT INTO `cidades` VALUES ('868', '13', 'Caetanópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('869', '5', 'Caetanos', 'BA');
-            INSERT INTO `cidades` VALUES ('870', '13', 'Caeté', 'MG');
-            INSERT INTO `cidades` VALUES ('871', '17', 'Caetés', 'PE');
-            INSERT INTO `cidades` VALUES ('872', '5', 'Caetité', 'BA');
-            INSERT INTO `cidades` VALUES ('873', '5', 'Cafarnaum', 'BA');
-            INSERT INTO `cidades` VALUES ('874', '16', 'Cafeara', 'PR');
-            INSERT INTO `cidades` VALUES ('875', '16', 'Cafelândia', 'PR');
-            INSERT INTO `cidades` VALUES ('876', '25', 'Cafelândia', 'SP');
-            INSERT INTO `cidades` VALUES ('877', '16', 'Cafezal do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('878', '25', 'Caiabu', 'SP');
-            INSERT INTO `cidades` VALUES ('879', '13', 'Caiana', 'MG');
-            INSERT INTO `cidades` VALUES ('880', '9', 'Caiapônia', 'GO');
-            INSERT INTO `cidades` VALUES ('881', '21', 'Caibaté', 'RS');
-            INSERT INTO `cidades` VALUES ('882', '24', 'Caibi', 'SC');
-            INSERT INTO `cidades` VALUES ('883', '15', 'Caiçara', 'PB');
-            INSERT INTO `cidades` VALUES ('884', '21', 'Caiçara', 'RS');
-            INSERT INTO `cidades` VALUES ('885', '20', 'Caiçara do Norte', 'RN');
-            INSERT INTO `cidades` VALUES ('886', '20', 'Caiçara do Rio do Vento', 'RN');
-            INSERT INTO `cidades` VALUES ('887', '20', 'Caicó', 'RN');
-            INSERT INTO `cidades` VALUES ('888', '25', 'Caieiras', 'SP');
-            INSERT INTO `cidades` VALUES ('889', '5', 'Cairu', 'BA');
-            INSERT INTO `cidades` VALUES ('890', '25', 'Caiuá', 'SP');
-            INSERT INTO `cidades` VALUES ('891', '25', 'Cajamar', 'SP');
-            INSERT INTO `cidades` VALUES ('892', '10', 'Cajapió', 'MA');
-            INSERT INTO `cidades` VALUES ('893', '10', 'Cajari', 'MA');
-            INSERT INTO `cidades` VALUES ('894', '25', 'Cajati', 'SP');
-            INSERT INTO `cidades` VALUES ('895', '15', 'Cajazeiras', 'PB');
-            INSERT INTO `cidades` VALUES ('896', '18', 'Cajazeiras do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('897', '15', 'Cajazeirinhas', 'PB');
-            INSERT INTO `cidades` VALUES ('898', '25', 'Cajobi', 'SP');
-            INSERT INTO `cidades` VALUES ('899', '2', 'Cajueiro', 'AL');
-            INSERT INTO `cidades` VALUES ('900', '18', 'Cajueiro da Praia', 'PI');
-            INSERT INTO `cidades` VALUES ('901', '13', 'Cajuri', 'MG');
-            INSERT INTO `cidades` VALUES ('902', '25', 'Cajuru', 'SP');
-            INSERT INTO `cidades` VALUES ('903', '17', 'Calçado', 'PE');
-            INSERT INTO `cidades` VALUES ('904', '3', 'Calçoene', 'AP');
-            INSERT INTO `cidades` VALUES ('905', '13', 'Caldas', 'MG');
-            INSERT INTO `cidades` VALUES ('906', '15', 'Caldas Brandão', 'PB');
-            INSERT INTO `cidades` VALUES ('907', '9', 'Caldas Novas', 'GO');
-            INSERT INTO `cidades` VALUES ('908', '9', 'Caldazinha', 'GO');
-            INSERT INTO `cidades` VALUES ('909', '5', 'Caldeirão Grande', 'BA');
-            INSERT INTO `cidades` VALUES ('910', '18', 'Caldeirão Grande do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('911', '16', 'Califórnia', 'PR');
-            INSERT INTO `cidades` VALUES ('912', '24', 'Calmon', 'SC');
-            INSERT INTO `cidades` VALUES ('913', '17', 'Calumbi', 'PE');
-            INSERT INTO `cidades` VALUES ('914', '5', 'Camacan', 'BA');
-            INSERT INTO `cidades` VALUES ('915', '5', 'Camaçari', 'BA');
-            INSERT INTO `cidades` VALUES ('916', '13', 'Camacho', 'MG');
-            INSERT INTO `cidades` VALUES ('917', '15', 'Camalaú', 'PB');
-            INSERT INTO `cidades` VALUES ('918', '5', 'Camamu', 'BA');
-            INSERT INTO `cidades` VALUES ('919', '13', 'Camanducaia', 'MG');
-            INSERT INTO `cidades` VALUES ('920', '12', 'Camapuã', 'MS');
-            INSERT INTO `cidades` VALUES ('921', '21', 'Camaquã', 'RS');
-            INSERT INTO `cidades` VALUES ('922', '17', 'Camaragibe', 'PE');
-            INSERT INTO `cidades` VALUES ('923', '21', 'Camargo', 'RS');
-            INSERT INTO `cidades` VALUES ('924', '16', 'Cambará', 'PR');
-            INSERT INTO `cidades` VALUES ('925', '21', 'Cambará do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('926', '16', 'Cambé', 'PR');
-            INSERT INTO `cidades` VALUES ('927', '16', 'Cambira', 'PR');
-            INSERT INTO `cidades` VALUES ('928', '24', 'Camboriú', 'SC');
-            INSERT INTO `cidades` VALUES ('929', '19', 'Cambuci', 'RJ');
-            INSERT INTO `cidades` VALUES ('930', '13', 'Cambuí', 'MG');
-            INSERT INTO `cidades` VALUES ('931', '13', 'Cambuquira', 'MG');
-            INSERT INTO `cidades` VALUES ('932', '14', 'Cametá', 'PA');
-            INSERT INTO `cidades` VALUES ('933', '6', 'Camocim', 'CE');
-            INSERT INTO `cidades` VALUES ('934', '17', 'Camocim de São Félix', 'PE');
-            INSERT INTO `cidades` VALUES ('935', '13', 'Campanário', 'MG');
-            INSERT INTO `cidades` VALUES ('936', '13', 'Campanha', 'MG');
-            INSERT INTO `cidades` VALUES ('937', '2', 'Campestre', 'AL');
-            INSERT INTO `cidades` VALUES ('938', '13', 'Campestre', 'MG');
-            INSERT INTO `cidades` VALUES ('939', '21', 'Campestre da Serra', 'RS');
-            INSERT INTO `cidades` VALUES ('940', '9', 'Campestre de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('941', '10', 'Campestre do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('942', '16', 'Campina da Lagoa', 'PR');
-            INSERT INTO `cidades` VALUES ('943', '21', 'Campina das Missões', 'RS');
-            INSERT INTO `cidades` VALUES ('944', '25', 'Campina do Monte Alegre', 'SP');
-            INSERT INTO `cidades` VALUES ('945', '16', 'Campina do Simão', 'PR');
-            INSERT INTO `cidades` VALUES ('946', '15', 'Campina Grande', 'PB');
-            INSERT INTO `cidades` VALUES ('947', '16', 'Campina Grande do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('948', '13', 'Campina Verde', 'MG');
-            INSERT INTO `cidades` VALUES ('949', '9', 'Campinaçu', 'GO');
-            INSERT INTO `cidades` VALUES ('950', '11', 'Campinápolis', 'MT');
-            INSERT INTO `cidades` VALUES ('951', '25', 'Campinas', 'SP');
-            INSERT INTO `cidades` VALUES ('952', '18', 'Campinas do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('953', '21', 'Campinas do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('954', '9', 'Campinorte', 'GO');
-            INSERT INTO `cidades` VALUES ('955', '2', 'Campo Alegre', 'AL');
-            INSERT INTO `cidades` VALUES ('956', '24', 'Campo Alegre', 'SC');
-            INSERT INTO `cidades` VALUES ('957', '9', 'Campo Alegre de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('958', '5', 'Campo Alegre de Lourdes', 'BA');
-            INSERT INTO `cidades` VALUES ('959', '18', 'Campo Alegre do Fidalgo', 'PI');
-            INSERT INTO `cidades` VALUES ('960', '13', 'Campo Azul', 'MG');
-            INSERT INTO `cidades` VALUES ('961', '13', 'Campo Belo', 'MG');
-            INSERT INTO `cidades` VALUES ('962', '24', 'Campo Belo do Sul', 'SC');
-            INSERT INTO `cidades` VALUES ('963', '21', 'Campo Bom', 'RS');
-            INSERT INTO `cidades` VALUES ('964', '16', 'Campo Bonito', 'PR');
-            INSERT INTO `cidades` VALUES ('965', '26', 'Campo do Brito', 'SE');
-            INSERT INTO `cidades` VALUES ('966', '13', 'Campo do Meio', 'MG');
-            INSERT INTO `cidades` VALUES ('967', '16', 'Campo do Tenente', 'PR');
-            INSERT INTO `cidades` VALUES ('968', '24', 'Campo Erê', 'SC');
-            INSERT INTO `cidades` VALUES ('969', '13', 'Campo Florido', 'MG');
-            INSERT INTO `cidades` VALUES ('970', '5', 'Campo Formoso', 'BA');
-            INSERT INTO `cidades` VALUES ('971', '2', 'Campo Grande', 'AL');
-            INSERT INTO `cidades` VALUES ('972', '12', 'Campo Grande', 'MS');
-            INSERT INTO `cidades` VALUES ('973', '18', 'Campo Grande do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('974', '16', 'Campo Largo', 'PR');
-            INSERT INTO `cidades` VALUES ('975', '18', 'Campo Largo do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('976', '9', 'Campo Limpo de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('977', '25', 'Campo Limpo Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('978', '16', 'Campo Magro', 'PR');
-            INSERT INTO `cidades` VALUES ('979', '18', 'Campo Maior', 'PI');
-            INSERT INTO `cidades` VALUES ('980', '16', 'Campo Mourão', 'PR');
-            INSERT INTO `cidades` VALUES ('981', '21', 'Campo Novo', 'RS');
-            INSERT INTO `cidades` VALUES ('982', '22', 'Campo Novo de Rondônia', 'RO');
-            INSERT INTO `cidades` VALUES ('983', '11', 'Campo Novo do Parecis', 'MT');
-            INSERT INTO `cidades` VALUES ('984', '20', 'Campo Redondo', 'RN');
-            INSERT INTO `cidades` VALUES ('985', '11', 'Campo Verde', 'MT');
-            INSERT INTO `cidades` VALUES ('986', '13', 'Campos Altos', 'MG');
-            INSERT INTO `cidades` VALUES ('987', '9', 'Campos Belos', 'GO');
-            INSERT INTO `cidades` VALUES ('988', '21', 'Campos Borges', 'RS');
-            INSERT INTO `cidades` VALUES ('989', '11', 'Campos de Júlio', 'MT');
-            INSERT INTO `cidades` VALUES ('990', '25', 'Campos do Jordão', 'SP');
-            INSERT INTO `cidades` VALUES ('991', '19', 'Campos dos Goytacazes', 'RJ');
-            INSERT INTO `cidades` VALUES ('992', '13', 'Campos Gerais', 'MG');
-            INSERT INTO `cidades` VALUES ('993', '27', 'Campos Lindos', 'TO');
-            INSERT INTO `cidades` VALUES ('994', '24', 'Campos Novos', 'SC');
-            INSERT INTO `cidades` VALUES ('995', '25', 'Campos Novos Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('996', '6', 'Campos Sales', 'CE');
-            INSERT INTO `cidades` VALUES ('997', '9', 'Campos Verdes', 'GO');
-            INSERT INTO `cidades` VALUES ('998', '17', 'Camutanga', 'PE');
-            INSERT INTO `cidades` VALUES ('999', '13', 'Cana Verde', 'MG');
-            INSERT INTO `cidades` VALUES ('1000', '13', 'Canaã', 'MG');
-            INSERT INTO `cidades` VALUES ('1001', '14', 'Canaã dos Carajás', 'PA');
-            INSERT INTO `cidades` VALUES ('1002', '11', 'Canabrava do Norte', 'MT');
-            INSERT INTO `cidades` VALUES ('1003', '25', 'Cananéia', 'SP');
-            INSERT INTO `cidades` VALUES ('1004', '2', 'Canapi', 'AL');
-            INSERT INTO `cidades` VALUES ('1005', '5', 'Canápolis', 'BA');
-            INSERT INTO `cidades` VALUES ('1006', '13', 'Canápolis', 'MG');
-            INSERT INTO `cidades` VALUES ('1007', '5', 'Canarana', 'BA');
-            INSERT INTO `cidades` VALUES ('1008', '11', 'Canarana', 'MT');
-            INSERT INTO `cidades` VALUES ('1009', '25', 'Canas', 'SP');
-            INSERT INTO `cidades` VALUES ('1010', '18', 'Canavieira', 'PI');
+            ['cidade_id' => 851, 'estado_id' => 10, 'cidade_nome' => 'Cachoeira Grande', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 852, 'estado_id' => 25, 'cidade_nome' => 'Cachoeira Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 853, 'estado_id' => 19, 'cidade_nome' => 'Cachoeiras de Macacu', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 854, 'estado_id' => 17, 'cidade_nome' => 'Cachoeirinha', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 855, 'estado_id' => 21, 'cidade_nome' => 'Cachoeirinha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 856, 'estado_id' => 27, 'cidade_nome' => 'Cachoeirinha', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 857, 'estado_id' => 8, 'cidade_nome' => 'Cachoeiro de Itapemirim', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 858, 'estado_id' => 15, 'cidade_nome' => 'Cacimba de Areia', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 859, 'estado_id' => 15, 'cidade_nome' => 'Cacimba de Dentro', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 860, 'estado_id' => 15, 'cidade_nome' => 'Cacimbas', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 861, 'estado_id' => 2, 'cidade_nome' => 'Cacimbinhas', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 862, 'estado_id' => 21, 'cidade_nome' => 'Cacique Doble', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 863, 'estado_id' => 22, 'cidade_nome' => 'Cacoal', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 864, 'estado_id' => 25, 'cidade_nome' => 'Caconde', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 865, 'estado_id' => 9, 'cidade_nome' => 'Caçu', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 866, 'estado_id' => 5, 'cidade_nome' => 'Caculé', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 867, 'estado_id' => 5, 'cidade_nome' => 'Caém', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 868, 'estado_id' => 13, 'cidade_nome' => 'Caetanópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 869, 'estado_id' => 5, 'cidade_nome' => 'Caetanos', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 870, 'estado_id' => 13, 'cidade_nome' => 'Caeté', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 871, 'estado_id' => 17, 'cidade_nome' => 'Caetés', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 872, 'estado_id' => 5, 'cidade_nome' => 'Caetité', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 873, 'estado_id' => 5, 'cidade_nome' => 'Cafarnaum', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 874, 'estado_id' => 16, 'cidade_nome' => 'Cafeara', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 875, 'estado_id' => 16, 'cidade_nome' => 'Cafelândia', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 876, 'estado_id' => 25, 'cidade_nome' => 'Cafelândia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 877, 'estado_id' => 16, 'cidade_nome' => 'Cafezal do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 878, 'estado_id' => 25, 'cidade_nome' => 'Caiabu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 879, 'estado_id' => 13, 'cidade_nome' => 'Caiana', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 880, 'estado_id' => 9, 'cidade_nome' => 'Caiapônia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 881, 'estado_id' => 21, 'cidade_nome' => 'Caibaté', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 882, 'estado_id' => 24, 'cidade_nome' => 'Caibi', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 883, 'estado_id' => 15, 'cidade_nome' => 'Caiçara', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 884, 'estado_id' => 21, 'cidade_nome' => 'Caiçara', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 885, 'estado_id' => 20, 'cidade_nome' => 'Caiçara do Norte', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 886, 'estado_id' => 20, 'cidade_nome' => 'Caiçara do Rio do Vento', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 887, 'estado_id' => 20, 'cidade_nome' => 'Caicó', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 888, 'estado_id' => 25, 'cidade_nome' => 'Caieiras', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 889, 'estado_id' => 5, 'cidade_nome' => 'Cairu', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 890, 'estado_id' => 25, 'cidade_nome' => 'Caiuá', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 891, 'estado_id' => 25, 'cidade_nome' => 'Cajamar', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 892, 'estado_id' => 10, 'cidade_nome' => 'Cajapió', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 893, 'estado_id' => 10, 'cidade_nome' => 'Cajari', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 894, 'estado_id' => 25, 'cidade_nome' => 'Cajati', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 895, 'estado_id' => 15, 'cidade_nome' => 'Cajazeiras', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 896, 'estado_id' => 18, 'cidade_nome' => 'Cajazeiras do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 897, 'estado_id' => 15, 'cidade_nome' => 'Cajazeirinhas', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 898, 'estado_id' => 25, 'cidade_nome' => 'Cajobi', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 899, 'estado_id' => 2, 'cidade_nome' => 'Cajueiro', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 900, 'estado_id' => 18, 'cidade_nome' => 'Cajueiro da Praia', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 901, 'estado_id' => 13, 'cidade_nome' => 'Cajuri', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 902, 'estado_id' => 25, 'cidade_nome' => 'Cajuru', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 903, 'estado_id' => 17, 'cidade_nome' => 'Calçado', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 904, 'estado_id' => 3, 'cidade_nome' => 'Calçoene', 'cidade_uf' => 'AP'],
+            ['cidade_id' => 905, 'estado_id' => 13, 'cidade_nome' => 'Caldas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 906, 'estado_id' => 15, 'cidade_nome' => 'Caldas Brandão', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 907, 'estado_id' => 9, 'cidade_nome' => 'Caldas Novas', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 908, 'estado_id' => 9, 'cidade_nome' => 'Caldazinha', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 909, 'estado_id' => 5, 'cidade_nome' => 'Caldeirão Grande', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 910, 'estado_id' => 18, 'cidade_nome' => 'Caldeirão Grande do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 911, 'estado_id' => 16, 'cidade_nome' => 'Califórnia', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 912, 'estado_id' => 24, 'cidade_nome' => 'Calmon', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 913, 'estado_id' => 17, 'cidade_nome' => 'Calumbi', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 914, 'estado_id' => 5, 'cidade_nome' => 'Camacan', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 915, 'estado_id' => 5, 'cidade_nome' => 'Camaçari', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 916, 'estado_id' => 13, 'cidade_nome' => 'Camacho', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 917, 'estado_id' => 15, 'cidade_nome' => 'Camalaú', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 918, 'estado_id' => 5, 'cidade_nome' => 'Camamu', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 919, 'estado_id' => 13, 'cidade_nome' => 'Camanducaia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 920, 'estado_id' => 12, 'cidade_nome' => 'Camapuã', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 921, 'estado_id' => 21, 'cidade_nome' => 'Camaquã', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 922, 'estado_id' => 17, 'cidade_nome' => 'Camaragibe', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 923, 'estado_id' => 21, 'cidade_nome' => 'Camargo', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 924, 'estado_id' => 16, 'cidade_nome' => 'Cambará', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 925, 'estado_id' => 21, 'cidade_nome' => 'Cambará do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 926, 'estado_id' => 16, 'cidade_nome' => 'Cambé', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 927, 'estado_id' => 16, 'cidade_nome' => 'Cambira', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 928, 'estado_id' => 24, 'cidade_nome' => 'Camboriú', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 929, 'estado_id' => 19, 'cidade_nome' => 'Cambuci', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 930, 'estado_id' => 13, 'cidade_nome' => 'Cambuí', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 931, 'estado_id' => 13, 'cidade_nome' => 'Cambuquira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 932, 'estado_id' => 14, 'cidade_nome' => 'Cametá', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 933, 'estado_id' => 6, 'cidade_nome' => 'Camocim', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 934, 'estado_id' => 17, 'cidade_nome' => 'Camocim de São Félix', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 935, 'estado_id' => 13, 'cidade_nome' => 'Campanário', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 936, 'estado_id' => 13, 'cidade_nome' => 'Campanha', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 937, 'estado_id' => 2, 'cidade_nome' => 'Campestre', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 938, 'estado_id' => 13, 'cidade_nome' => 'Campestre', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 939, 'estado_id' => 21, 'cidade_nome' => 'Campestre da Serra', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 940, 'estado_id' => 9, 'cidade_nome' => 'Campestre de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 941, 'estado_id' => 10, 'cidade_nome' => 'Campestre do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 942, 'estado_id' => 16, 'cidade_nome' => 'Campina da Lagoa', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 943, 'estado_id' => 21, 'cidade_nome' => 'Campina das Missões', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 944, 'estado_id' => 25, 'cidade_nome' => 'Campina do Monte Alegre', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 945, 'estado_id' => 16, 'cidade_nome' => 'Campina do Simão', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 946, 'estado_id' => 15, 'cidade_nome' => 'Campina Grande', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 947, 'estado_id' => 16, 'cidade_nome' => 'Campina Grande do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 948, 'estado_id' => 13, 'cidade_nome' => 'Campina Verde', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 949, 'estado_id' => 9, 'cidade_nome' => 'Campinaçu', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 950, 'estado_id' => 11, 'cidade_nome' => 'Campinápolis', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 951, 'estado_id' => 25, 'cidade_nome' => 'Campinas', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 952, 'estado_id' => 18, 'cidade_nome' => 'Campinas do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 953, 'estado_id' => 21, 'cidade_nome' => 'Campinas do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 954, 'estado_id' => 9, 'cidade_nome' => 'Campinorte', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 955, 'estado_id' => 2, 'cidade_nome' => 'Campo Alegre', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 956, 'estado_id' => 24, 'cidade_nome' => 'Campo Alegre', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 957, 'estado_id' => 9, 'cidade_nome' => 'Campo Alegre de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 958, 'estado_id' => 5, 'cidade_nome' => 'Campo Alegre de Lourdes', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 959, 'estado_id' => 18, 'cidade_nome' => 'Campo Alegre do Fidalgo', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 960, 'estado_id' => 13, 'cidade_nome' => 'Campo Azul', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 961, 'estado_id' => 13, 'cidade_nome' => 'Campo Belo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 962, 'estado_id' => 24, 'cidade_nome' => 'Campo Belo do Sul', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 963, 'estado_id' => 21, 'cidade_nome' => 'Campo Bom', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 964, 'estado_id' => 16, 'cidade_nome' => 'Campo Bonito', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 965, 'estado_id' => 26, 'cidade_nome' => 'Campo do Brito', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 966, 'estado_id' => 13, 'cidade_nome' => 'Campo do Meio', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 967, 'estado_id' => 16, 'cidade_nome' => 'Campo do Tenente', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 968, 'estado_id' => 24, 'cidade_nome' => 'Campo Erê', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 969, 'estado_id' => 13, 'cidade_nome' => 'Campo Florido', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 970, 'estado_id' => 5, 'cidade_nome' => 'Campo Formoso', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 971, 'estado_id' => 2, 'cidade_nome' => 'Campo Grande', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 972, 'estado_id' => 12, 'cidade_nome' => 'Campo Grande', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 973, 'estado_id' => 18, 'cidade_nome' => 'Campo Grande do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 974, 'estado_id' => 16, 'cidade_nome' => 'Campo Largo', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 975, 'estado_id' => 18, 'cidade_nome' => 'Campo Largo do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 976, 'estado_id' => 9, 'cidade_nome' => 'Campo Limpo de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 977, 'estado_id' => 25, 'cidade_nome' => 'Campo Limpo Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 978, 'estado_id' => 16, 'cidade_nome' => 'Campo Magro', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 979, 'estado_id' => 18, 'cidade_nome' => 'Campo Maior', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 980, 'estado_id' => 16, 'cidade_nome' => 'Campo Mourão', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 981, 'estado_id' => 21, 'cidade_nome' => 'Campo Novo', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 982, 'estado_id' => 22, 'cidade_nome' => 'Campo Novo de Rondônia', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 983, 'estado_id' => 11, 'cidade_nome' => 'Campo Novo do Parecis', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 984, 'estado_id' => 20, 'cidade_nome' => 'Campo Redondo', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 985, 'estado_id' => 11, 'cidade_nome' => 'Campo Verde', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 986, 'estado_id' => 13, 'cidade_nome' => 'Campos Altos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 987, 'estado_id' => 9, 'cidade_nome' => 'Campos Belos', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 988, 'estado_id' => 21, 'cidade_nome' => 'Campos Borges', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 989, 'estado_id' => 11, 'cidade_nome' => 'Campos de Júlio', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 990, 'estado_id' => 25, 'cidade_nome' => 'Campos do Jordão', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 991, 'estado_id' => 19, 'cidade_nome' => 'Campos dos Goytacazes', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 992, 'estado_id' => 13, 'cidade_nome' => 'Campos Gerais', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 993, 'estado_id' => 27, 'cidade_nome' => 'Campos Lindos', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 994, 'estado_id' => 24, 'cidade_nome' => 'Campos Novos', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 995, 'estado_id' => 25, 'cidade_nome' => 'Campos Novos Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 996, 'estado_id' => 6, 'cidade_nome' => 'Campos Sales', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 997, 'estado_id' => 9, 'cidade_nome' => 'Campos Verdes', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 998, 'estado_id' => 17, 'cidade_nome' => 'Camutanga', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 999, 'estado_id' => 13, 'cidade_nome' => 'Cana Verde', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1000, 'estado_id' => 13, 'cidade_nome' => 'Canaã', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1001, 'estado_id' => 14, 'cidade_nome' => 'Canaã dos Carajás', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1002, 'estado_id' => 11, 'cidade_nome' => 'Canabrava do Norte', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1003, 'estado_id' => 25, 'cidade_nome' => 'Cananéia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1004, 'estado_id' => 2, 'cidade_nome' => 'Canapi', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1005, 'estado_id' => 5, 'cidade_nome' => 'Canápolis', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1006, 'estado_id' => 13, 'cidade_nome' => 'Canápolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1007, 'estado_id' => 5, 'cidade_nome' => 'Canarana', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1008, 'estado_id' => 11, 'cidade_nome' => 'Canarana', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1009, 'estado_id' => 25, 'cidade_nome' => 'Canas', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1010, 'estado_id' => 18, 'cidade_nome' => 'Canavieira', 'cidade_uf' => 'PI'],
             INSERT INTO `cidades` VALUES ('1011', '5', 'Canavieiras', 'BA');
             INSERT INTO `cidades` VALUES ('1012', '5', 'Candeal', 'BA');
             INSERT INTO `cidades` VALUES ('1013', '5', 'Candeias', 'BA');

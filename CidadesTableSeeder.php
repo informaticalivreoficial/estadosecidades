@@ -1111,7 +1111,7 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 1098, 'estado_id' => 13, 'cidade_nome' => 'Caratinga', 'cidade_uf' => 'MG'],
             ['cidade_id' => 1099, 'estado_id' => 4, 'cidade_nome' => 'Carauari', 'cidade_uf' => 'AM'],
             ['cidade_id' => 1100, 'estado_id' => 15, 'cidade_nome' => 'Caraúbas', 'cidade_uf' => 'PB'],
-            INSERT INTO `cidades` VALUES ('1101', '20', 'Caraúbas', 'RN');
+            ['cidade_id' => 1101, 'estado_id' => 20, 'cidade_nome' => 'Caraúbas', 'cidade_uf' => 'RN'],
             INSERT INTO `cidades` VALUES ('1102', '18', 'Caraúbas do Piauí', 'PI');
             INSERT INTO `cidades` VALUES ('1103', '5', 'Caravelas', 'BA');
             INSERT INTO `cidades` VALUES ('1104', '21', 'Carazinho', 'RS');

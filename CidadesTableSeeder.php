@@ -1411,156 +1411,156 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 1398, 'estado_id' => 16, 'cidade_nome' => 'Coronel Domingos Soares', 'cidade_uf' => 'PR'],
             ['cidade_id' => 1399, 'estado_id' => 20, 'cidade_nome' => 'Coronel Ezequiel', 'cidade_uf' => 'RN'],
             ['cidade_id' => 1400, 'estado_id' => 13, 'cidade_nome' => 'Coronel Fabriciano', 'cidade_uf' => 'MG'],
-            INSERT INTO `cidades` VALUES ('1401', '24', 'Coronel Freitas', 'SC');
-            INSERT INTO `cidades` VALUES ('1402', '20', 'Coronel João Pessoa', 'RN');
-            INSERT INTO `cidades` VALUES ('1403', '5', 'Coronel João Sá', 'BA');
-            INSERT INTO `cidades` VALUES ('1404', '18', 'Coronel José Dias', 'PI');
-            INSERT INTO `cidades` VALUES ('1405', '25', 'Coronel Macedo', 'SP');
-            INSERT INTO `cidades` VALUES ('1406', '24', 'Coronel Martins', 'SC');
-            INSERT INTO `cidades` VALUES ('1407', '13', 'Coronel Murta', 'MG');
-            INSERT INTO `cidades` VALUES ('1408', '13', 'Coronel Pacheco', 'MG');
-            INSERT INTO `cidades` VALUES ('1409', '21', 'Coronel Pilar', 'RS');
-            INSERT INTO `cidades` VALUES ('1410', '12', 'Coronel Sapucaia', 'MS');
-            INSERT INTO `cidades` VALUES ('1411', '16', 'Coronel Vivida', 'PR');
-            INSERT INTO `cidades` VALUES ('1412', '13', 'Coronel Xavier Chaves', 'MG');
-            INSERT INTO `cidades` VALUES ('1413', '13', 'Córrego Danta', 'MG');
-            INSERT INTO `cidades` VALUES ('1414', '13', 'Córrego do Bom Jesus', 'MG');
-            INSERT INTO `cidades` VALUES ('1415', '9', 'Córrego do Ouro', 'GO');
-            INSERT INTO `cidades` VALUES ('1416', '13', 'Córrego Fundo', 'MG');
-            INSERT INTO `cidades` VALUES ('1417', '13', 'Córrego Novo', 'MG');
-            INSERT INTO `cidades` VALUES ('1418', '24', 'Correia Pinto', 'SC');
-            INSERT INTO `cidades` VALUES ('1419', '18', 'Corrente', 'PI');
-            INSERT INTO `cidades` VALUES ('1420', '17', 'Correntes', 'PE');
-            INSERT INTO `cidades` VALUES ('1421', '5', 'Correntina', 'BA');
-            INSERT INTO `cidades` VALUES ('1422', '17', 'Cortês', 'PE');
-            INSERT INTO `cidades` VALUES ('1423', '12', 'Corumbá', 'MS');
-            INSERT INTO `cidades` VALUES ('1424', '9', 'Corumbá de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('1425', '9', 'Corumbaíba', 'GO');
-            INSERT INTO `cidades` VALUES ('1426', '25', 'Corumbataí', 'SP');
-            INSERT INTO `cidades` VALUES ('1427', '16', 'Corumbataí do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('1428', '22', 'Corumbiara', 'RO');
-            INSERT INTO `cidades` VALUES ('1429', '24', 'Corupá', 'SC');
-            INSERT INTO `cidades` VALUES ('1430', '2', 'Coruripe', 'AL');
-            INSERT INTO `cidades` VALUES ('1431', '25', 'Cosmópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('1432', '25', 'Cosmorama', 'SP');
-            INSERT INTO `cidades` VALUES ('1433', '22', 'Costa Marques', 'RO');
-            INSERT INTO `cidades` VALUES ('1434', '12', 'Costa Rica', 'MS');
-            INSERT INTO `cidades` VALUES ('1435', '5', 'Cotegipe', 'BA');
-            INSERT INTO `cidades` VALUES ('1436', '25', 'Cotia', 'SP');
-            INSERT INTO `cidades` VALUES ('1437', '21', 'Cotiporã', 'RS');
-            INSERT INTO `cidades` VALUES ('1438', '11', 'Cotriguaçu', 'MT');
-            INSERT INTO `cidades` VALUES ('1439', '13', 'Couto de Magalhães de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('1440', '27', 'Couto Magalhães', 'TO');
-            INSERT INTO `cidades` VALUES ('1441', '21', 'Coxilha', 'RS');
-            INSERT INTO `cidades` VALUES ('1442', '12', 'Coxim', 'MS');
-            INSERT INTO `cidades` VALUES ('1443', '15', 'Coxixola', 'PB');
-            INSERT INTO `cidades` VALUES ('1444', '2', 'Craíbas', 'AL');
-            INSERT INTO `cidades` VALUES ('1445', '6', 'Crateús', 'CE');
-            INSERT INTO `cidades` VALUES ('1446', '6', 'Crato', 'CE');
-            INSERT INTO `cidades` VALUES ('1447', '25', 'Cravinhos', 'SP');
-            INSERT INTO `cidades` VALUES ('1448', '5', 'Cravolândia', 'BA');
-            INSERT INTO `cidades` VALUES ('1449', '24', 'Criciúma', 'SC');
-            INSERT INTO `cidades` VALUES ('1450', '13', 'Crisólita', 'MG');
-            INSERT INTO `cidades` VALUES ('1451', '5', 'Crisópolis', 'BA');
-            INSERT INTO `cidades` VALUES ('1452', '21', 'Crissiumal', 'RS');
-            INSERT INTO `cidades` VALUES ('1453', '13', 'Cristais', 'MG');
-            INSERT INTO `cidades` VALUES ('1454', '25', 'Cristais Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('1455', '21', 'Cristal', 'RS');
-            INSERT INTO `cidades` VALUES ('1456', '21', 'Cristal do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('1457', '27', 'Cristalândia', 'TO');
-            INSERT INTO `cidades` VALUES ('1458', '18', 'Cristalândia do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('1459', '13', 'Cristália', 'MG');
-            INSERT INTO `cidades` VALUES ('1460', '9', 'Cristalina', 'GO');
-            INSERT INTO `cidades` VALUES ('1461', '13', 'Cristiano Otoni', 'MG');
-            INSERT INTO `cidades` VALUES ('1462', '9', 'Cristianópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('1463', '13', 'Cristina', 'MG');
-            INSERT INTO `cidades` VALUES ('1464', '26', 'Cristinápolis', 'SE');
-            INSERT INTO `cidades` VALUES ('1465', '18', 'Cristino Castro', 'PI');
-            INSERT INTO `cidades` VALUES ('1466', '5', 'Cristópolis', 'BA');
-            INSERT INTO `cidades` VALUES ('1467', '9', 'Crixás', 'GO');
-            INSERT INTO `cidades` VALUES ('1468', '27', 'Crixás do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('1469', '6', 'Croatá', 'CE');
-            INSERT INTO `cidades` VALUES ('1470', '9', 'Cromínia', 'GO');
-            INSERT INTO `cidades` VALUES ('1471', '13', 'Crucilândia', 'MG');
-            INSERT INTO `cidades` VALUES ('1472', '6', 'Cruz', 'CE');
-            INSERT INTO `cidades` VALUES ('1473', '21', 'Cruz Alta', 'RS');
-            INSERT INTO `cidades` VALUES ('1474', '5', 'Cruz das Almas', 'BA');
-            INSERT INTO `cidades` VALUES ('1475', '15', 'Cruz do Espírito Santo', 'PB');
-            INSERT INTO `cidades` VALUES ('1476', '16', 'Cruz Machado', 'PR');
-            INSERT INTO `cidades` VALUES ('1477', '25', 'Cruzália', 'SP');
-            INSERT INTO `cidades` VALUES ('1478', '21', 'Cruzaltense', 'RS');
-            INSERT INTO `cidades` VALUES ('1479', '25', 'Cruzeiro', 'SP');
-            INSERT INTO `cidades` VALUES ('1480', '13', 'Cruzeiro da Fortaleza', 'MG');
-            INSERT INTO `cidades` VALUES ('1481', '16', 'Cruzeiro do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('1482', '16', 'Cruzeiro do Oeste', 'PR');
-            INSERT INTO `cidades` VALUES ('1483', '1', 'Cruzeiro do Sul', 'AC');
-            INSERT INTO `cidades` VALUES ('1484', '16', 'Cruzeiro do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('1485', '21', 'Cruzeiro do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('1486', '20', 'Cruzeta', 'RN');
-            INSERT INTO `cidades` VALUES ('1487', '13', 'Cruzília', 'MG');
-            INSERT INTO `cidades` VALUES ('1488', '16', 'Cruzmaltina', 'PR');
-            INSERT INTO `cidades` VALUES ('1489', '25', 'Cubatão', 'SP');
-            INSERT INTO `cidades` VALUES ('1490', '15', 'Cubati', 'PB');
-            INSERT INTO `cidades` VALUES ('1491', '11', 'Cuiabá', 'MT');
-            INSERT INTO `cidades` VALUES ('1492', '15', 'Cuité', 'PB');
-            INSERT INTO `cidades` VALUES ('1493', '15', 'Cuité de Mamanguape', 'PB');
-            INSERT INTO `cidades` VALUES ('1494', '15', 'Cuitegi', 'PB');
-            INSERT INTO `cidades` VALUES ('1495', '22', 'Cujubim', 'RO');
-            INSERT INTO `cidades` VALUES ('1496', '9', 'Cumari', 'GO');
-            INSERT INTO `cidades` VALUES ('1497', '17', 'Cumaru', 'PE');
-            INSERT INTO `cidades` VALUES ('1498', '14', 'Cumaru do Norte', 'PA');
-            INSERT INTO `cidades` VALUES ('1499', '26', 'Cumbe', 'SE');
-            INSERT INTO `cidades` VALUES ('1500', '25', 'Cunha', 'SP');
-            INSERT INTO `cidades` VALUES ('1501', '24', 'Cunha Porã', 'SC');
-            INSERT INTO `cidades` VALUES ('1502', '24', 'Cunhataí', 'SC');
-            INSERT INTO `cidades` VALUES ('1503', '13', 'Cuparaque', 'MG');
-            INSERT INTO `cidades` VALUES ('1504', '17', 'Cupira', 'PE');
-            INSERT INTO `cidades` VALUES ('1505', '5', 'Curaçá', 'BA');
-            INSERT INTO `cidades` VALUES ('1506', '18', 'Curimatá', 'PI');
-            INSERT INTO `cidades` VALUES ('1507', '14', 'Curionópolis', 'PA');
-            INSERT INTO `cidades` VALUES ('1508', '16', 'Curitiba', 'PR');
-            INSERT INTO `cidades` VALUES ('1509', '24', 'Curitibanos', 'SC');
-            INSERT INTO `cidades` VALUES ('1510', '16', 'Curiúva', 'PR');
-            INSERT INTO `cidades` VALUES ('1511', '18', 'Currais', 'PI');
-            INSERT INTO `cidades` VALUES ('1512', '20', 'Currais Novos', 'RN');
-            INSERT INTO `cidades` VALUES ('1513', '15', 'Curral de Cima', 'PB');
-            INSERT INTO `cidades` VALUES ('1514', '13', 'Curral de Dentro', 'MG');
-            INSERT INTO `cidades` VALUES ('1515', '18', 'Curral Novo do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('1516', '15', 'Curral Velho', 'PB');
-            INSERT INTO `cidades` VALUES ('1517', '14', 'Curralinho', 'PA');
-            INSERT INTO `cidades` VALUES ('1518', '18', 'Curralinhos', 'PI');
-            INSERT INTO `cidades` VALUES ('1519', '14', 'Curuá', 'PA');
-            INSERT INTO `cidades` VALUES ('1520', '14', 'Curuçá', 'PA');
-            INSERT INTO `cidades` VALUES ('1521', '10', 'Cururupu', 'MA');
-            INSERT INTO `cidades` VALUES ('1522', '11', 'Curvelândia', 'MT');
-            INSERT INTO `cidades` VALUES ('1523', '13', 'Curvelo', 'MG');
-            INSERT INTO `cidades` VALUES ('1524', '17', 'Custódia', 'PE');
-            INSERT INTO `cidades` VALUES ('1525', '3', 'Cutias', 'AP');
-            INSERT INTO `cidades` VALUES ('1526', '9', 'Damianópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('1527', '15', 'Damião', 'PB');
-            INSERT INTO `cidades` VALUES ('1528', '9', 'Damolândia', 'GO');
-            INSERT INTO `cidades` VALUES ('1529', '27', 'Darcinópolis', 'TO');
-            INSERT INTO `cidades` VALUES ('1530', '5', 'Dário Meira', 'BA');
-            INSERT INTO `cidades` VALUES ('1531', '13', 'Datas', 'MG');
-            INSERT INTO `cidades` VALUES ('1532', '21', 'David Canabarro', 'RS');
-            INSERT INTO `cidades` VALUES ('1533', '9', 'Davinópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('1534', '10', 'Davinópolis', 'MA');
-            INSERT INTO `cidades` VALUES ('1535', '13', 'Delfim Moreira', 'MG');
-            INSERT INTO `cidades` VALUES ('1536', '13', 'Delfinópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('1537', '2', 'Delmiro Gouveia', 'AL');
-            INSERT INTO `cidades` VALUES ('1538', '13', 'Delta', 'MG');
-            INSERT INTO `cidades` VALUES ('1539', '18', 'Demerval Lobão', 'PI');
-            INSERT INTO `cidades` VALUES ('1540', '11', 'Denise', 'MT');
-            INSERT INTO `cidades` VALUES ('1541', '12', 'Deodápolis', 'MS');
-            INSERT INTO `cidades` VALUES ('1542', '6', 'Deputado Irapuan Pinheiro', 'CE');
-            INSERT INTO `cidades` VALUES ('1543', '21', 'Derrubadas', 'RS');
-            INSERT INTO `cidades` VALUES ('1544', '25', 'Descalvado', 'SP');
-            INSERT INTO `cidades` VALUES ('1545', '24', 'Descanso', 'SC');
-            INSERT INTO `cidades` VALUES ('1546', '13', 'Descoberto', 'MG');
-            INSERT INTO `cidades` VALUES ('1547', '15', 'Desterro', 'PB');
-            INSERT INTO `cidades` VALUES ('1548', '13', 'Desterro de Entre Rios', 'MG');
-            INSERT INTO `cidades` VALUES ('1549', '13', 'Desterro do Melo', 'MG');
-            INSERT INTO `cidades` VALUES ('1550', '21', 'Dezesseis de Novembro', 'RS');
+            ['cidade_id' => 1401, 'estado_id' => 24, 'cidade_nome' => 'Coronel Freitas', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1402, 'estado_id' => 20, 'cidade_nome' => 'Coronel João Pessoa', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1403, 'estado_id' => 5, 'cidade_nome' => 'Coronel João Sá', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1404, 'estado_id' => 18, 'cidade_nome' => 'Coronel José Dias', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1405, 'estado_id' => 25, 'cidade_nome' => 'Coronel Macedo', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1406, 'estado_id' => 24, 'cidade_nome' => 'Coronel Martins', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1407, 'estado_id' => 13, 'cidade_nome' => 'Coronel Murta', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1408, 'estado_id' => 13, 'cidade_nome' => 'Coronel Pacheco', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1409, 'estado_id' => 21, 'cidade_nome' => 'Coronel Pilar', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1410, 'estado_id' => 12, 'cidade_nome' => 'Coronel Sapucaia', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1411, 'estado_id' => 16, 'cidade_nome' => 'Coronel Vivida', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1412, 'estado_id' => 13, 'cidade_nome' => 'Coronel Xavier Chaves', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1413, 'estado_id' => 13, 'cidade_nome' => 'Córrego Danta', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1414, 'estado_id' => 13, 'cidade_nome' => 'Córrego do Bom Jesus', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1415, 'estado_id' => 9, 'cidade_nome' => 'Córrego do Ouro', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1416, 'estado_id' => 13, 'cidade_nome' => 'Córrego Fundo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1417, 'estado_id' => 13, 'cidade_nome' => 'Córrego Novo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1418, 'estado_id' => 24, 'cidade_nome' => 'Correia Pinto', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1419, 'estado_id' => 18, 'cidade_nome' => 'Corrente', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1420, 'estado_id' => 17, 'cidade_nome' => 'Correntes', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1421, 'estado_id' => 5, 'cidade_nome' => 'Correntina', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1422, 'estado_id' => 17, 'cidade_nome' => 'Cortês', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1423, 'estado_id' => 12, 'cidade_nome' => 'Corumbá', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1424, 'estado_id' => 9, 'cidade_nome' => 'Corumbá de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1425, 'estado_id' => 9, 'cidade_nome' => 'Corumbaíba', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1426, 'estado_id' => 25, 'cidade_nome' => 'Corumbataí', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1427, 'estado_id' => 16, 'cidade_nome' => 'Corumbataí do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1428, 'estado_id' => 22, 'cidade_nome' => 'Corumbiara', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 1429, 'estado_id' => 24, 'cidade_nome' => 'Corupá', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1430, 'estado_id' => 2, 'cidade_nome' => 'Coruripe', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1431, 'estado_id' => 25, 'cidade_nome' => 'Cosmópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1432, 'estado_id' => 25, 'cidade_nome' => 'Cosmorama', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1433, 'estado_id' => 22, 'cidade_nome' => 'Costa Marques', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 1434, 'estado_id' => 12, 'cidade_nome' => 'Costa Rica', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1435, 'estado_id' => 5, 'cidade_nome' => 'Cotegipe', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1436, 'estado_id' => 25, 'cidade_nome' => 'Cotia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1437, 'estado_id' => 21, 'cidade_nome' => 'Cotiporã', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1438, 'estado_id' => 11, 'cidade_nome' => 'Cotriguaçu', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1439, 'estado_id' => 13, 'cidade_nome' => 'Couto de Magalhães de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1440, 'estado_id' => 27, 'cidade_nome' => 'Couto Magalhães', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1441, 'estado_id' => 21, 'cidade_nome' => 'Coxilha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1442, 'estado_id' => 12, 'cidade_nome' => 'Coxim', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1443, 'estado_id' => 15, 'cidade_nome' => 'Coxixola', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1444, 'estado_id' => 2, 'cidade_nome' => 'Craíbas', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1445, 'estado_id' => 6, 'cidade_nome' => 'Crateús', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1446, 'estado_id' => 6, 'cidade_nome' => 'Crato', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1447, 'estado_id' => 25, 'cidade_nome' => 'Cravinhos', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1448, 'estado_id' => 5, 'cidade_nome' => 'Cravolândia', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1449, 'estado_id' => 24, 'cidade_nome' => 'Criciúma', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1450, 'estado_id' => 13, 'cidade_nome' => 'Crisólita', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1451, 'estado_id' => 5, 'cidade_nome' => 'Crisópolis', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1452, 'estado_id' => 21, 'cidade_nome' => 'Crissiumal', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1453, 'estado_id' => 13, 'cidade_nome' => 'Cristais', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1454, 'estado_id' => 25, 'cidade_nome' => 'Cristais Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1455, 'estado_id' => 21, 'cidade_nome' => 'Cristal', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1456, 'estado_id' => 21, 'cidade_nome' => 'Cristal do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1457, 'estado_id' => 27, 'cidade_nome' => 'Cristalândia', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1458, 'estado_id' => 18, 'cidade_nome' => 'Cristalândia do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1459, 'estado_id' => 13, 'cidade_nome' => 'Cristália', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1460, 'estado_id' => 9, 'cidade_nome' => 'Cristalina', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1461, 'estado_id' => 13, 'cidade_nome' => 'Cristiano Otoni', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1462, 'estado_id' => 9, 'cidade_nome' => 'Cristianópolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1463, 'estado_id' => 13, 'cidade_nome' => 'Cristina', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1464, 'estado_id' => 26, 'cidade_nome' => 'Cristinápolis', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1465, 'estado_id' => 18, 'cidade_nome' => 'Cristino Castro', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1466, 'estado_id' => 5, 'cidade_nome' => 'Cristópolis', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1467, 'estado_id' => 9, 'cidade_nome' => 'Crixás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1468, 'estado_id' => 27, 'cidade_nome' => 'Crixás do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1469, 'estado_id' => 6, 'cidade_nome' => 'Croatá', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1470, 'estado_id' => 9, 'cidade_nome' => 'Cromínia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1471, 'estado_id' => 13, 'cidade_nome' => 'Crucilândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1472, 'estado_id' => 6, 'cidade_nome' => 'Cruz', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1473, 'estado_id' => 21, 'cidade_nome' => 'Cruz Alta', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1474, 'estado_id' => 5, 'cidade_nome' => 'Cruz das Almas', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1475, 'estado_id' => 15, 'cidade_nome' => 'Cruz do Espírito Santo', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1476, 'estado_id' => 16, 'cidade_nome' => 'Cruz Machado', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1477, 'estado_id' => 25, 'cidade_nome' => 'Cruzália', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1478, 'estado_id' => 21, 'cidade_nome' => 'Cruzaltense', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1479, 'estado_id' => 25, 'cidade_nome' => 'Cruzeiro', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1480, 'estado_id' => 13, 'cidade_nome' => 'Cruzeiro da Fortaleza', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1481, 'estado_id' => 16, 'cidade_nome' => 'Cruzeiro do Iguaçu', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1482, 'estado_id' => 16, 'cidade_nome' => 'Cruzeiro do Oeste', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1483, 'estado_id' => 1, 'cidade_nome' => 'Cruzeiro do Sul', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 1484, 'estado_id' => 16, 'cidade_nome' => 'Cruzeiro do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1485, 'estado_id' => 21, 'cidade_nome' => 'Cruzeiro do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1486, 'estado_id' => 20, 'cidade_nome' => 'Cruzeta', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1487, 'estado_id' => 13, 'cidade_nome' => 'Cruzília', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1488, 'estado_id' => 16, 'cidade_nome' => 'Cruzmaltina', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1489, 'estado_id' => 25, 'cidade_nome' => 'Cubatão', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1490, 'estado_id' => 15, 'cidade_nome' => 'Cubati', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1491, 'estado_id' => 11, 'cidade_nome' => 'Cuiabá', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1492, 'estado_id' => 15, 'cidade_nome' => 'Cuité', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1493, 'estado_id' => 15, 'cidade_nome' => 'Cuité de Mamanguape', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1494, 'estado_id' => 15, 'cidade_nome' => 'Cuitegi', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1495, 'estado_id' => 22, 'cidade_nome' => 'Cujubim', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 1496, 'estado_id' => 9, 'cidade_nome' => 'Cumari', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1497, 'estado_id' => 17, 'cidade_nome' => 'Cumaru', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1498, 'estado_id' => 14, 'cidade_nome' => 'Cumaru do Norte', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1499, 'estado_id' => 26, 'cidade_nome' => 'Cumbe', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1500, 'estado_id' => 25, 'cidade_nome' => 'Cunha', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1501, 'estado_id' => 24, 'cidade_nome' => 'Cunha Porã', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1502, 'estado_id' => 24, 'cidade_nome' => 'Cunhataí', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1503, 'estado_id' => 13, 'cidade_nome' => 'Cuparaque', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1504, 'estado_id' => 17, 'cidade_nome' => 'Cupira', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1505, 'estado_id' => 5, 'cidade_nome' => 'Curaçá', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1506, 'estado_id' => 18, 'cidade_nome' => 'Curimatá', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1507, 'estado_id' => 14, 'cidade_nome' => 'Curionópolis', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1508, 'estado_id' => 16, 'cidade_nome' => 'Curitiba', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1509, 'estado_id' => 24, 'cidade_nome' => 'Curitibanos', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1510, 'estado_id' => 16, 'cidade_nome' => 'Curiúva', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1511, 'estado_id' => 18, 'cidade_nome' => 'Currais', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1512, 'estado_id' => 20, 'cidade_nome' => 'Currais Novos', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1513, 'estado_id' => 15, 'cidade_nome' => 'Curral de Cima', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1514, 'estado_id' => 13, 'cidade_nome' => 'Curral de Dentro', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1515, 'estado_id' => 18, 'cidade_nome' => 'Curral Novo do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1516, 'estado_id' => 15, 'cidade_nome' => 'Curral Velho', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1517, 'estado_id' => 14, 'cidade_nome' => 'Curralinho', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1518, 'estado_id' => 18, 'cidade_nome' => 'Curralinhos', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1519, 'estado_id' => 14, 'cidade_nome' => 'Curuá', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1520, 'estado_id' => 14, 'cidade_nome' => 'Curuçá', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1521, 'estado_id' => 10, 'cidade_nome' => 'Cururupu', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1522, 'estado_id' => 11, 'cidade_nome' => 'Curvelândia', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1523, 'estado_id' => 13, 'cidade_nome' => 'Curvelo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1524, 'estado_id' => 17, 'cidade_nome' => 'Custódia', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1525, 'estado_id' => 3, 'cidade_nome' => 'Cutias', 'cidade_uf' => 'AP'],
+            ['cidade_id' => 1526, 'estado_id' => 9, 'cidade_nome' => 'Damianópolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1527, 'estado_id' => 15, 'cidade_nome' => 'Damião', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1528, 'estado_id' => 9, 'cidade_nome' => 'Damolândia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1529, 'estado_id' => 27, 'cidade_nome' => 'Darcinópolis', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1530, 'estado_id' => 5, 'cidade_nome' => 'Dário Meira', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1531, 'estado_id' => 13, 'cidade_nome' => 'Datas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1532, 'estado_id' => 21, 'cidade_nome' => 'David Canabarro', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1533, 'estado_id' => 9, 'cidade_nome' => 'Davinópolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1534, 'estado_id' => 10, 'cidade_nome' => 'Davinópolis', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1535, 'estado_id' => 13, 'cidade_nome' => 'Delfim Moreira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1536, 'estado_id' => 13, 'cidade_nome' => 'Delfinópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1537, 'estado_id' => 2, 'cidade_nome' => 'Delmiro Gouveia', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1538, 'estado_id' => 13, 'cidade_nome' => 'Delta', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1539, 'estado_id' => 18, 'cidade_nome' => 'Demerval Lobão', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1540, 'estado_id' => 11, 'cidade_nome' => 'Denise', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1541, 'estado_id' => 12, 'cidade_nome' => 'Deodápolis', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1542, 'estado_id' => 6, 'cidade_nome' => 'Deputado Irapuan Pinheiro', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1543, 'estado_id' => 21, 'cidade_nome' => 'Derrubadas', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1544, 'estado_id' => 25, 'cidade_nome' => 'Descalvado', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1545, 'estado_id' => 24, 'cidade_nome' => 'Descanso', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1546, 'estado_id' => 13, 'cidade_nome' => 'Descoberto', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1547, 'estado_id' => 15, 'cidade_nome' => 'Desterro', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1548, 'estado_id' => 13, 'cidade_nome' => 'Desterro de Entre Rios', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1549, 'estado_id' => 13, 'cidade_nome' => 'Desterro do Melo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1550, 'estado_id' => 21, 'cidade_nome' => 'Dezesseis de Novembro', 'cidade_uf' => 'RS'],
             INSERT INTO `cidades` VALUES ('1551', '25', 'Diadema', 'SP');
             INSERT INTO `cidades` VALUES ('1552', '15', 'Diamante', 'PB');
             INSERT INTO `cidades` VALUES ('1553', '16', 'Diamante do Norte', 'PR');

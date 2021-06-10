@@ -1767,200 +1767,200 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 1704, 'estado_id' => 13, 'cidade_nome' => 'Espírito Santo do Dourado', 'cidade_uf' => 'MG'],
             ['cidade_id' => 1705, 'estado_id' => 25, 'cidade_nome' => 'Espírito Santo do Pinhal', 'cidade_uf' => 'SP'],
             ['cidade_id' => 1706, 'estado_id' => 25, 'cidade_nome' => 'Espírito Santo do Turvo', 'cidade_uf' => 'SP'],
-            ['cidade_id' => 1707, 'estado_id' => 5, 'cidade_nome' => 'Esplanada', 'cidade_nome' => 'BA'],
-            ['cidade_id' => 1708, 'estado_id' => 21, 'cidade_nome' => 'Espumoso', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1709, 'estado_id' => 21, 'cidade_nome' => 'Estação', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1710, 'estado_id' => 26, 'cidade_nome' => 'Estância', 'cidade_nome' => 'SE'],
-            ['cidade_id' => 1711, 'estado_id' => 21, 'cidade_nome' => 'Estância Velha', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1712, 'estado_id' => 21, 'cidade_nome' => 'Esteio', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1713, 'estado_id' => 13, 'cidade_nome' => 'Estiva', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1714, 'estado_id' => 25, 'cidade_nome' => 'Estiva Gerbi', 'cidade_nome' => 'SP'],
-            ['cidade_id' => 1715, 'estado_id' => 10, 'cidade_nome' => 'Estreito', 'cidade_nome' => 'MA'],
-            ['cidade_id' => 1716, 'estado_id' => 21, 'cidade_nome' => 'Estrela', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1717, 'estado_id' => 13, 'cidade_nome' => 'Estrela Dalva', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1718, 'estado_id' => 2, 'cidade_nome' => 'Estrela de Alagoas', 'cidade_nome' => 'AL'],
-            ['cidade_id' => 1719, 'estado_id' => 13, 'cidade_nome' => 'Estrela do Indaiá', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1720, 'estado_id' => 9, 'cidade_nome' => 'Estrela do Norte', 'cidade_nome' => 'GO'],
-            ['cidade_id' => 1721, 'estado_id' => 25, 'cidade_nome' => 'Estrela do Norte', 'cidade_nome' => 'SP'],
-            ['cidade_id' => 1722, 'estado_id' => 13, 'cidade_nome' => 'Estrela do Sul', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1723, 'estado_id' => 25, 'cidade_nome' => 'Estrela d\'Oeste', 'cidade_nome' => 'SP'],
-            ['cidade_id' => 1724, 'estado_id' => 21, 'cidade_nome' => 'Estrela Velha', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1725, 'estado_id' => 5, 'cidade_nome' => 'Euclides da Cunha', 'cidade_nome' => 'BA'],
-            ['cidade_id' => 1726, 'estado_id' => 25, 'cidade_nome' => 'Euclides da Cunha Paulista', 'cidade_nome' => 'SP'],
-            ['cidade_id' => 1727, 'estado_id' => 21, 'cidade_nome' => 'Eugênio de Castro', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1728, 'estado_id' => 13, 'cidade_nome' => 'Eugenópolis', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1729, 'estado_id' => 5, 'cidade_nome' => 'Eunápolis', 'cidade_nome' => 'BA'],
-            ['cidade_id' => 1730, 'estado_id' => 6, 'cidade_nome' => 'Eusébio', 'cidade_nome' => 'CE'],
-            ['cidade_id' => 1731, 'estado_id' => 13, 'cidade_nome' => 'Ewbank da Câmara', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1732, 'estado_id' => 13, 'cidade_nome' => 'Extrema', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1733, 'estado_id' => 20, 'cidade_nome' => 'Extremoz', 'cidade_nome' => 'RN'],
-            ['cidade_id' => 1734, 'estado_id' => 17, 'cidade_nome' => 'Exu', 'cidade_nome' => 'PE'],
-            ['cidade_id' => 1735, 'estado_id' => 15, 'cidade_nome' => 'Fagundes', 'cidade_nome' => 'PB'],
-            ['cidade_id' => 1736, 'estado_id' => 21, 'cidade_nome' => 'Fagundes Varela', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1737, 'estado_id' => 9, 'cidade_nome' => 'Faina', 'cidade_nome' => 'GO'],
-            ['cidade_id' => 1738, 'estado_id' => 13, 'cidade_nome' => 'Fama', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1739, 'estado_id' => 13, 'cidade_nome' => 'Faria Lemos', 'cidade_nome' => 'MG'],
-            ['cidade_id' => 1740, 'estado_id' => 6, 'cidade_nome' => 'Farias Brito', 'cidade_nome' => 'CE'],
-            ['cidade_id' => 1741, 'estado_id' => 14, 'cidade_nome' => 'Faro', 'cidade_nome' => 'PA'],
-            ['cidade_id' => 1742, 'estado_id' => 16, 'cidade_nome' => 'Farol', 'cidade_nome' => 'PR'],
-            ['cidade_id' => 1743, 'estado_id' => 21, 'cidade_nome' => 'Farroupilha', 'cidade_nome' => 'RS'],
-            ['cidade_id' => 1744, 'estado_id' => 25, 'cidade_nome' => 'Fartura', 'cidade_nome' => 'SP'],
-            ['cidade_id' => 1745, 'estado_id' => 18, 'cidade_nome' => 'Fartura do Piauí', 'cidade_nome' => 'PI'],
-            ['cidade_id' => 1746, 'estado_id' => 5, 'cidade_nome' => 'Fátima', 'cidade_nome' => 'BA'],
-            ['cidade_id' => 1747, 'estado_id' => 27, 'cidade_nome' => 'Fátima', 'cidade_nome' => 'TO'],
-            ['cidade_id' => 1748, 'estado_id' => 12, 'cidade_nome' => 'Fátima do Sul', 'cidade_nome' => 'MS'],
-            ['cidade_id' => 1749, 'estado_id' => 16, 'cidade_nome' => 'Faxinal', 'cidade_nome' => 'PR'],
-            ['cidade_id' => 1750, 'estado_id' => 21, 'cidade_nome' => 'Faxinal do Soturno', 'cidade_nome' => 'RS'],
-            INSERT INTO `cidades` VALUES ('1751', '24', 'Faxinal dos Guedes', 'SC');
-            INSERT INTO `cidades` VALUES ('1752', '21', 'Faxinalzinho', 'RS');
-            INSERT INTO `cidades` VALUES ('1753', '9', 'Fazenda Nova', 'GO');
-            INSERT INTO `cidades` VALUES ('1754', '16', 'Fazenda Rio Grande', 'PR');
-            INSERT INTO `cidades` VALUES ('1755', '21', 'Fazenda Vilanova', 'RS');
-            INSERT INTO `cidades` VALUES ('1756', '1', 'Feijó', 'AC');
-            INSERT INTO `cidades` VALUES ('1757', '5', 'Feira da Mata', 'BA');
-            INSERT INTO `cidades` VALUES ('1758', '5', 'Feira de Santana', 'BA');
-            INSERT INTO `cidades` VALUES ('1759', '2', 'Feira Grande', 'AL');
-            INSERT INTO `cidades` VALUES ('1760', '17', 'Feira Nova', 'PE');
-            INSERT INTO `cidades` VALUES ('1761', '26', 'Feira Nova', 'SE');
-            INSERT INTO `cidades` VALUES ('1762', '10', 'Feira Nova do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('1763', '13', 'Felício dos Santos', 'MG');
-            INSERT INTO `cidades` VALUES ('1764', '20', 'Felipe Guerra', 'RN');
-            INSERT INTO `cidades` VALUES ('1765', '13', 'Felisburgo', 'MG');
-            INSERT INTO `cidades` VALUES ('1766', '13', 'Felixlândia', 'MG');
-            INSERT INTO `cidades` VALUES ('1767', '21', 'Feliz', 'RS');
-            INSERT INTO `cidades` VALUES ('1768', '2', 'Feliz Deserto', 'AL');
-            INSERT INTO `cidades` VALUES ('1769', '11', 'Feliz Natal', 'MT');
-            INSERT INTO `cidades` VALUES ('1770', '16', 'Fênix', 'PR');
-            INSERT INTO `cidades` VALUES ('1771', '16', 'Fernandes Pinheiro', 'PR');
-            INSERT INTO `cidades` VALUES ('1772', '13', 'Fernandes Tourinho', 'MG');
-            INSERT INTO `cidades` VALUES ('1773', '17', 'Fernando de Noronha', 'PE');
-            INSERT INTO `cidades` VALUES ('1774', '10', 'Fernando Falcão', 'MA');
-            INSERT INTO `cidades` VALUES ('1775', '20', 'Fernando Pedroza', 'RN');
-            INSERT INTO `cidades` VALUES ('1776', '25', 'Fernando Prestes', 'SP');
-            INSERT INTO `cidades` VALUES ('1777', '25', 'Fernandópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('1778', '25', 'Fernão', 'SP');
-            INSERT INTO `cidades` VALUES ('1779', '25', 'Ferraz de Vasconcelos', 'SP');
-            INSERT INTO `cidades` VALUES ('1780', '3', 'Ferreira Gomes', 'AP');
-            INSERT INTO `cidades` VALUES ('1781', '17', 'Ferreiros', 'PE');
-            INSERT INTO `cidades` VALUES ('1782', '13', 'Ferros', 'MG');
-            INSERT INTO `cidades` VALUES ('1783', '13', 'Fervedouro', 'MG');
-            INSERT INTO `cidades` VALUES ('1784', '16', 'Figueira', 'PR');
-            INSERT INTO `cidades` VALUES ('1785', '12', 'Figueirão', 'MS');
-            INSERT INTO `cidades` VALUES ('1786', '27', 'Figueirópolis', 'TO');
-            INSERT INTO `cidades` VALUES ('1787', '11', 'Figueirópolis D\'Oeste', 'MT');
-            INSERT INTO `cidades` VALUES ('1788', '5', 'Filadélfia', 'BA');
-            INSERT INTO `cidades` VALUES ('1789', '27', 'Filadélfia', 'TO');
-            INSERT INTO `cidades` VALUES ('1790', '5', 'Firmino Alves', 'BA');
-            INSERT INTO `cidades` VALUES ('1791', '9', 'Firminópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('1792', '2', 'Flexeiras', 'AL');
-            INSERT INTO `cidades` VALUES ('1793', '16', 'Flor da Serra do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('1794', '24', 'Flor do Sertão', 'SC');
-            INSERT INTO `cidades` VALUES ('1795', '25', 'Flora Rica', 'SP');
-            INSERT INTO `cidades` VALUES ('1796', '16', 'Floraí', 'PR');
-            INSERT INTO `cidades` VALUES ('1797', '20', 'Florânia', 'RN');
-            INSERT INTO `cidades` VALUES ('1798', '25', 'Floreal', 'SP');
-            INSERT INTO `cidades` VALUES ('1799', '17', 'Flores', 'PE');
-            INSERT INTO `cidades` VALUES ('1800', '21', 'Flores da Cunha', 'RS');
-            INSERT INTO `cidades` VALUES ('1801', '9', 'Flores de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('1802', '18', 'Flores do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('1803', '17', 'Floresta', 'PE');
-            INSERT INTO `cidades` VALUES ('1804', '16', 'Floresta', 'PR');
-            INSERT INTO `cidades` VALUES ('1805', '5', 'Floresta Azul', 'BA');
-            INSERT INTO `cidades` VALUES ('1806', '14', 'Floresta do Araguaia', 'PA');
-            INSERT INTO `cidades` VALUES ('1807', '18', 'Floresta do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('1808', '13', 'Florestal', 'MG');
-            INSERT INTO `cidades` VALUES ('1809', '16', 'Florestópolis', 'PR');
-            INSERT INTO `cidades` VALUES ('1810', '18', 'Floriano', 'PI');
-            INSERT INTO `cidades` VALUES ('1811', '21', 'Floriano Peixoto', 'RS');
-            INSERT INTO `cidades` VALUES ('1812', '24', 'Florianópolis', 'SC');
-            INSERT INTO `cidades` VALUES ('1813', '16', 'Flórida', 'PR');
-            INSERT INTO `cidades` VALUES ('1814', '25', 'Flórida Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('1815', '25', 'Florínia', 'SP');
-            INSERT INTO `cidades` VALUES ('1816', '4', 'Fonte Boa', 'AM');
-            INSERT INTO `cidades` VALUES ('1817', '21', 'Fontoura Xavier', 'RS');
-            INSERT INTO `cidades` VALUES ('1818', '13', 'Formiga', 'MG');
-            INSERT INTO `cidades` VALUES ('1819', '21', 'Formigueiro', 'RS');
-            INSERT INTO `cidades` VALUES ('1820', '9', 'Formosa', 'GO');
-            INSERT INTO `cidades` VALUES ('1821', '10', 'Formosa da Serra Negra', 'MA');
-            INSERT INTO `cidades` VALUES ('1822', '16', 'Formosa do Oeste', 'PR');
-            INSERT INTO `cidades` VALUES ('1823', '5', 'Formosa do Rio Preto', 'BA');
-            INSERT INTO `cidades` VALUES ('1824', '24', 'Formosa do Sul', 'SC');
-            INSERT INTO `cidades` VALUES ('1825', '9', 'Formoso', 'GO');
-            INSERT INTO `cidades` VALUES ('1826', '13', 'Formoso', 'MG');
-            INSERT INTO `cidades` VALUES ('1827', '27', 'Formoso do Araguaia', 'TO');
-            INSERT INTO `cidades` VALUES ('1828', '21', 'Forquetinha', 'RS');
-            INSERT INTO `cidades` VALUES ('1829', '6', 'Forquilha', 'CE');
-            INSERT INTO `cidades` VALUES ('1830', '24', 'Forquilhinha', 'SC');
-            INSERT INTO `cidades` VALUES ('1831', '6', 'Fortaleza', 'CE');
-            INSERT INTO `cidades` VALUES ('1832', '13', 'Fortaleza de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('1833', '27', 'Fortaleza do Tabocão', 'TO');
-            INSERT INTO `cidades` VALUES ('1834', '10', 'Fortaleza dos Nogueiras', 'MA');
-            INSERT INTO `cidades` VALUES ('1835', '21', 'Fortaleza dos Valos', 'RS');
-            INSERT INTO `cidades` VALUES ('1836', '6', 'Fortim', 'CE');
-            INSERT INTO `cidades` VALUES ('1837', '10', 'Fortuna', 'MA');
-            INSERT INTO `cidades` VALUES ('1838', '13', 'Fortuna de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('1839', '16', 'Foz do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('1840', '16', 'Foz do Jordão', 'PR');
-            INSERT INTO `cidades` VALUES ('1841', '24', 'Fraiburgo', 'SC');
-            INSERT INTO `cidades` VALUES ('1842', '25', 'Franca', 'SP');
-            INSERT INTO `cidades` VALUES ('1843', '18', 'Francinópolis', 'PI');
-            INSERT INTO `cidades` VALUES ('1844', '16', 'Francisco Alves', 'PR');
-            INSERT INTO `cidades` VALUES ('1845', '18', 'Francisco Ayres', 'PI');
-            INSERT INTO `cidades` VALUES ('1846', '13', 'Francisco Badaró', 'MG');
-            INSERT INTO `cidades` VALUES ('1847', '16', 'Francisco Beltrão', 'PR');
-            INSERT INTO `cidades` VALUES ('1848', '20', 'Francisco Dantas', 'RN');
-            INSERT INTO `cidades` VALUES ('1849', '13', 'Francisco Dumont', 'MG');
-            INSERT INTO `cidades` VALUES ('1850', '18', 'Francisco Macedo', 'PI');
-            INSERT INTO `cidades` VALUES ('1851', '25', 'Francisco Morato', 'SP');
-            INSERT INTO `cidades` VALUES ('1852', '13', 'Francisco Sá', 'MG');
-            INSERT INTO `cidades` VALUES ('1853', '18', 'Francisco Santos', 'PI');
-            INSERT INTO `cidades` VALUES ('1854', '13', 'Franciscópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('1855', '25', 'Franco da Rocha', 'SP');
-            INSERT INTO `cidades` VALUES ('1856', '6', 'Frecheirinha', 'CE');
-            INSERT INTO `cidades` VALUES ('1857', '21', 'Frederico Westphalen', 'RS');
-            INSERT INTO `cidades` VALUES ('1858', '13', 'Frei Gaspar', 'MG');
-            INSERT INTO `cidades` VALUES ('1859', '13', 'Frei Inocêncio', 'MG');
-            INSERT INTO `cidades` VALUES ('1860', '13', 'Frei Lagonegro', 'MG');
-            INSERT INTO `cidades` VALUES ('1861', '15', 'Frei Martinho', 'PB');
-            INSERT INTO `cidades` VALUES ('1862', '17', 'Frei Miguelinho', 'PE');
-            INSERT INTO `cidades` VALUES ('1863', '26', 'Frei Paulo', 'SE');
-            INSERT INTO `cidades` VALUES ('1864', '24', 'Frei Rogério', 'SC');
-            INSERT INTO `cidades` VALUES ('1865', '13', 'Fronteira', 'MG');
-            INSERT INTO `cidades` VALUES ('1866', '13', 'Fronteira dos Vales', 'MG');
-            INSERT INTO `cidades` VALUES ('1867', '18', 'Fronteiras', 'PI');
-            INSERT INTO `cidades` VALUES ('1868', '13', 'Fruta de Leite', 'MG');
-            INSERT INTO `cidades` VALUES ('1869', '13', 'Frutal', 'MG');
-            INSERT INTO `cidades` VALUES ('1870', '20', 'Frutuoso Gomes', 'RN');
-            INSERT INTO `cidades` VALUES ('1871', '8', 'Fundão', 'ES');
-            INSERT INTO `cidades` VALUES ('1872', '13', 'Funilândia', 'MG');
-            INSERT INTO `cidades` VALUES ('1873', '25', 'Gabriel Monteiro', 'SP');
-            INSERT INTO `cidades` VALUES ('1874', '15', 'Gado Bravo', 'PB');
-            INSERT INTO `cidades` VALUES ('1875', '25', 'Gália', 'SP');
-            INSERT INTO `cidades` VALUES ('1876', '13', 'Galiléia', 'MG');
-            INSERT INTO `cidades` VALUES ('1877', '20', 'Galinhos', 'RN');
-            INSERT INTO `cidades` VALUES ('1878', '24', 'Galvão', 'SC');
-            INSERT INTO `cidades` VALUES ('1879', '17', 'Gameleira', 'PE');
-            INSERT INTO `cidades` VALUES ('1880', '9', 'Gameleira de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('1881', '13', 'Gameleiras', 'MG');
-            INSERT INTO `cidades` VALUES ('1882', '5', 'Gandu', 'BA');
-            INSERT INTO `cidades` VALUES ('1883', '17', 'Garanhuns', 'PE');
-            INSERT INTO `cidades` VALUES ('1884', '26', 'Gararu', 'SE');
-            INSERT INTO `cidades` VALUES ('1885', '25', 'Garça', 'SP');
-            INSERT INTO `cidades` VALUES ('1886', '21', 'Garibaldi', 'RS');
-            INSERT INTO `cidades` VALUES ('1887', '24', 'Garopaba', 'SC');
-            INSERT INTO `cidades` VALUES ('1888', '14', 'Garrafão do Norte', 'PA');
-            INSERT INTO `cidades` VALUES ('1889', '21', 'Garruchos', 'RS');
-            INSERT INTO `cidades` VALUES ('1890', '24', 'Garuva', 'SC');
-            INSERT INTO `cidades` VALUES ('1891', '24', 'Gaspar', 'SC');
-            INSERT INTO `cidades` VALUES ('1892', '25', 'Gastão Vidigal', 'SP');
-            INSERT INTO `cidades` VALUES ('1893', '11', 'Gaúcha do Norte', 'MT');
-            INSERT INTO `cidades` VALUES ('1894', '21', 'Gaurama', 'RS');
-            INSERT INTO `cidades` VALUES ('1895', '5', 'Gavião', 'BA');
-            INSERT INTO `cidades` VALUES ('1896', '25', 'Gavião Peixoto', 'SP');
-            INSERT INTO `cidades` VALUES ('1897', '18', 'Geminiano', 'PI');
-            INSERT INTO `cidades` VALUES ('1898', '21', 'General Câmara', 'RS');
-            INSERT INTO `cidades` VALUES ('1899', '11', 'General Carneiro', 'MT');
-            INSERT INTO `cidades` VALUES ('1900', '16', 'General Carneiro', 'PR');
+            ['cidade_id' => 1707, 'estado_id' => 5, 'cidade_nome' => 'Esplanada', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1708, 'estado_id' => 21, 'cidade_nome' => 'Espumoso', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1709, 'estado_id' => 21, 'cidade_nome' => 'Estação', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1710, 'estado_id' => 26, 'cidade_nome' => 'Estância', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1711, 'estado_id' => 21, 'cidade_nome' => 'Estância Velha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1712, 'estado_id' => 21, 'cidade_nome' => 'Esteio', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1713, 'estado_id' => 13, 'cidade_nome' => 'Estiva', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1714, 'estado_id' => 25, 'cidade_nome' => 'Estiva Gerbi', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1715, 'estado_id' => 10, 'cidade_nome' => 'Estreito', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1716, 'estado_id' => 21, 'cidade_nome' => 'Estrela', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1717, 'estado_id' => 13, 'cidade_nome' => 'Estrela Dalva', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1718, 'estado_id' => 2, 'cidade_nome' => 'Estrela de Alagoas', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1719, 'estado_id' => 13, 'cidade_nome' => 'Estrela do Indaiá', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1720, 'estado_id' => 9, 'cidade_nome' => 'Estrela do Norte', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1721, 'estado_id' => 25, 'cidade_nome' => 'Estrela do Norte', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1722, 'estado_id' => 13, 'cidade_nome' => 'Estrela do Sul', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1723, 'estado_id' => 25, 'cidade_nome' => 'Estrela d\'Oeste', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1724, 'estado_id' => 21, 'cidade_nome' => 'Estrela Velha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1725, 'estado_id' => 5, 'cidade_nome' => 'Euclides da Cunha', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1726, 'estado_id' => 25, 'cidade_nome' => 'Euclides da Cunha Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1727, 'estado_id' => 21, 'cidade_nome' => 'Eugênio de Castro', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1728, 'estado_id' => 13, 'cidade_nome' => 'Eugenópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1729, 'estado_id' => 5, 'cidade_nome' => 'Eunápolis', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1730, 'estado_id' => 6, 'cidade_nome' => 'Eusébio', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1731, 'estado_id' => 13, 'cidade_nome' => 'Ewbank da Câmara', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1732, 'estado_id' => 13, 'cidade_nome' => 'Extrema', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1733, 'estado_id' => 20, 'cidade_nome' => 'Extremoz', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1734, 'estado_id' => 17, 'cidade_nome' => 'Exu', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1735, 'estado_id' => 15, 'cidade_nome' => 'Fagundes', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1736, 'estado_id' => 21, 'cidade_nome' => 'Fagundes Varela', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1737, 'estado_id' => 9, 'cidade_nome' => 'Faina', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1738, 'estado_id' => 13, 'cidade_nome' => 'Fama', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1739, 'estado_id' => 13, 'cidade_nome' => 'Faria Lemos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1740, 'estado_id' => 6, 'cidade_nome' => 'Farias Brito', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1741, 'estado_id' => 14, 'cidade_nome' => 'Faro', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1742, 'estado_id' => 16, 'cidade_nome' => 'Farol', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1743, 'estado_id' => 21, 'cidade_nome' => 'Farroupilha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1744, 'estado_id' => 25, 'cidade_nome' => 'Fartura', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1745, 'estado_id' => 18, 'cidade_nome' => 'Fartura do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1746, 'estado_id' => 5, 'cidade_nome' => 'Fátima', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1747, 'estado_id' => 27, 'cidade_nome' => 'Fátima', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1748, 'estado_id' => 12, 'cidade_nome' => 'Fátima do Sul', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1749, 'estado_id' => 16, 'cidade_nome' => 'Faxinal', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1750, 'estado_id' => 21, 'cidade_nome' => 'Faxinal do Soturno', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1751, 'estado_id' => 24, 'cidade_nome' => 'Faxinal dos Guedes', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1752, 'estado_id' => 21, 'cidade_nome' => 'Faxinalzinho', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1753, 'estado_id' => 9, 'cidade_nome' => 'Fazenda Nova', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1754, 'estado_id' => 16, 'cidade_nome' => 'Fazenda Rio Grande', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1755, 'estado_id' => 21, 'cidade_nome' => 'Fazenda Vilanova', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1756, 'estado_id' => 1, 'cidade_nome' => 'Feijó', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 1757, 'estado_id' => 5, 'cidade_nome' => 'Feira da Mata', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1758, 'estado_id' => 5, 'cidade_nome' => 'Feira de Santana', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1759, 'estado_id' => 2, 'cidade_nome' => 'Feira Grande', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1760, 'estado_id' => 17, 'cidade_nome' => 'Feira Nova', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1761, 'estado_id' => 26, 'cidade_nome' => 'Feira Nova', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1762, 'estado_id' => 10, 'cidade_nome' => 'Feira Nova do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1763, 'estado_id' => 13, 'cidade_nome' => 'Felício dos Santos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1764, 'estado_id' => 20, 'cidade_nome' => 'Felipe Guerra', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1765, 'estado_id' => 13, 'cidade_nome' => 'Felisburgo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1766, 'estado_id' => 13, 'cidade_nome' => 'Felixlândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1767, 'estado_id' => 21, 'cidade_nome' => 'Feliz', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1768, 'estado_id' => 2, 'cidade_nome' => 'Feliz Deserto', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1769, 'estado_id' => 11, 'cidade_nome' => 'Feliz Natal', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1770, 'estado_id' => 16, 'cidade_nome' => 'Fênix', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1771, 'estado_id' => 16, 'cidade_nome' => 'Fernandes Pinheiro', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1772, 'estado_id' => 13, 'cidade_nome' => 'Fernandes Tourinho', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1773, 'estado_id' => 17, 'cidade_nome' => 'Fernando de Noronha', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1774, 'estado_id' => 10, 'cidade_nome' => 'Fernando Falcão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1775, 'estado_id' => 20, 'cidade_nome' => 'Fernando Pedroza', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1776, 'estado_id' => 25, 'cidade_nome' => 'Fernando Prestes', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1777, 'estado_id' => 25, 'cidade_nome' => 'Fernandópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1778, 'estado_id' => 25, 'cidade_nome' => 'Fernão', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1779, 'estado_id' => 25, 'cidade_nome' => 'Ferraz de Vasconcelos', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1780, 'estado_id' => 3, 'cidade_nome' => 'Ferreira Gomes', 'cidade_uf' => 'AP'],
+            ['cidade_id' => 1781, 'estado_id' => 17, 'cidade_nome' => 'Ferreiros', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1782, 'estado_id' => 13, 'cidade_nome' => 'Ferros', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1783, 'estado_id' => 13, 'cidade_nome' => 'Fervedouro', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1784, 'estado_id' => 16, 'cidade_nome' => 'Figueira', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1785, 'estado_id' => 12, 'cidade_nome' => 'Figueirão', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1786, 'estado_id' => 27, 'cidade_nome' => 'Figueirópolis', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1787, 'estado_id' => 11, 'cidade_nome' => 'Figueirópolis D\'Oeste', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1788, 'estado_id' => 5, 'cidade_nome' => 'Filadélfia', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1789, 'estado_id' => 27, 'cidade_nome' => 'Filadélfia', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1790, 'estado_id' => 5, 'cidade_nome' => 'Firmino Alves', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1791, 'estado_id' => 9, 'cidade_nome' => 'Firminópolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1792, 'estado_id' => 2, 'cidade_nome' => 'Flexeiras', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1793, 'estado_id' => 16, 'cidade_nome' => 'Flor da Serra do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1794, 'estado_id' => 24, 'cidade_nome' => 'Flor do Sertão', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1795, 'estado_id' => 25, 'cidade_nome' => 'Flora Rica', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1796, 'estado_id' => 16, 'cidade_nome' => 'Floraí', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1797, 'estado_id' => 20, 'cidade_nome' => 'Florânia', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1798, 'estado_id' => 25, 'cidade_nome' => 'Floreal', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1799, 'estado_id' => 17, 'cidade_nome' => 'Flores', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1800, 'estado_id' => 21, 'cidade_nome' => 'Flores da Cunha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1801, 'estado_id' => 9, 'cidade_nome' => 'Flores de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1802, 'estado_id' => 18, 'cidade_nome' => 'Flores do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1803, 'estado_id' => 17, 'cidade_nome' => 'Floresta', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1804, 'estado_id' => 16, 'cidade_nome' => 'Floresta', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1805, 'estado_id' => 5, 'cidade_nome' => 'Floresta Azul', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1806, 'estado_id' => 14, 'cidade_nome' => 'Floresta do Araguaia', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1807, 'estado_id' => 18, 'cidade_nome' => 'Floresta do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1808, 'estado_id' => 13, 'cidade_nome' => 'Florestal', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1809, 'estado_id' => 16, 'cidade_nome' => 'Florestópolis', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1810, 'estado_id' => 18, 'cidade_nome' => 'Floriano', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1811, 'estado_id' => 21, 'cidade_nome' => 'Floriano Peixoto', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1812, 'estado_id' => 24, 'cidade_nome' => 'Florianópolis', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1813, 'estado_id' => 16, 'cidade_nome' => 'Flórida', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1814, 'estado_id' => 25, 'cidade_nome' => 'Flórida Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1815, 'estado_id' => 25, 'cidade_nome' => 'Florínia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1816, 'estado_id' => 4, 'cidade_nome' => 'Fonte Boa', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 1817, 'estado_id' => 21, 'cidade_nome' => 'Fontoura Xavier', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1818, 'estado_id' => 13, 'cidade_nome' => 'Formiga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1819, 'estado_id' => 21, 'cidade_nome' => 'Formigueiro', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1820, 'estado_id' => 9, 'cidade_nome' => 'Formosa', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1821, 'estado_id' => 10, 'cidade_nome' => 'Formosa da Serra Negra', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1822, 'estado_id' => 16, 'cidade_nome' => 'Formosa do Oeste', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1823, 'estado_id' => 5, 'cidade_nome' => 'Formosa do Rio Preto', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1824, 'estado_id' => 24, 'cidade_nome' => 'Formosa do Sul', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1825, 'estado_id' => 9, 'cidade_nome' => 'Formoso', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1826, 'estado_id' => 13, 'cidade_nome' => 'Formoso', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1827, 'estado_id' => 27, 'cidade_nome' => 'Formoso do Araguaia', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1828, 'estado_id' => 21, 'cidade_nome' => 'Forquetinha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1829, 'estado_id' => 6, 'cidade_nome' => 'Forquilha', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1830, 'estado_id' => 24, 'cidade_nome' => 'Forquilhinha', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1831, 'estado_id' => 6, 'cidade_nome' => 'Fortaleza', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1832, 'estado_id' => 13, 'cidade_nome' => 'Fortaleza de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1833, 'estado_id' => 27, 'cidade_nome' => 'Fortaleza do Tabocão', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1834, 'estado_id' => 10, 'cidade_nome' => 'Fortaleza dos Nogueiras', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1835, 'estado_id' => 21, 'cidade_nome' => 'Fortaleza dos Valos', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1836, 'estado_id' => 6, 'cidade_nome' => 'Fortim', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1837, 'estado_id' => 10, 'cidade_nome' => 'Fortuna', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1838, 'estado_id' => 13, 'cidade_nome' => 'Fortuna de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1839, 'estado_id' => 16, 'cidade_nome' => 'Foz do Iguaçu', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1840, 'estado_id' => 16, 'cidade_nome' => 'Foz do Jordão', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1841, 'estado_id' => 24, 'cidade_nome' => 'Fraiburgo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1842, 'estado_id' => 25, 'cidade_nome' => 'Franca', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1843, 'estado_id' => 18, 'cidade_nome' => 'Francinópolis', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1844, 'estado_id' => 16, 'cidade_nome' => 'Francisco Alves', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1845, 'estado_id' => 18, 'cidade_nome' => 'Francisco Ayres', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1846, 'estado_id' => 13, 'cidade_nome' => 'Francisco Badaró', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1847, 'estado_id' => 16, 'cidade_nome' => 'Francisco Beltrão', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1848, 'estado_id' => 20, 'cidade_nome' => 'Francisco Dantas', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1849, 'estado_id' => 13, 'cidade_nome' => 'Francisco Dumont', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1850, 'estado_id' => 18, 'cidade_nome' => 'Francisco Macedo', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1851, 'estado_id' => 25, 'cidade_nome' => 'Francisco Morato', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1852, 'estado_id' => 13, 'cidade_nome' => 'Francisco Sá', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1853, 'estado_id' => 18, 'cidade_nome' => 'Francisco Santos', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1854, 'estado_id' => 13, 'cidade_nome' => 'Franciscópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1855, 'estado_id' => 25, 'cidade_nome' => 'Franco da Rocha', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1856, 'estado_id' => 6, 'cidade_nome' => 'Frecheirinha', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1857, 'estado_id' => 21, 'cidade_nome' => 'Frederico Westphalen', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1858, 'estado_id' => 13, 'cidade_nome' => 'Frei Gaspar', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1859, 'estado_id' => 13, 'cidade_nome' => 'Frei Inocêncio', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1860, 'estado_id' => 13, 'cidade_nome' => 'Frei Lagonegro', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1861, 'estado_id' => 15, 'cidade_nome' => 'Frei Martinho', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1862, 'estado_id' => 17, 'cidade_nome' => 'Frei Miguelinho', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1863, 'estado_id' => 26, 'cidade_nome' => 'Frei Paulo', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1864, 'estado_id' => 24, 'cidade_nome' => 'Frei Rogério', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1865, 'estado_id' => 13, 'cidade_nome' => 'Fronteira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1866, 'estado_id' => 13, 'cidade_nome' => 'Fronteira dos Vales', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1867, 'estado_id' => 18, 'cidade_nome' => 'Fronteiras', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1868, 'estado_id' => 13, 'cidade_nome' => 'Fruta de Leite', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1869, 'estado_id' => 13, 'cidade_nome' => 'Frutal', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1870, 'estado_id' => 20, 'cidade_nome' => 'Frutuoso Gomes', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1871, 'estado_id' => 8, 'cidade_nome' => 'Fundão', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 1872, 'estado_id' => 13, 'cidade_nome' => 'Funilândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1873, 'estado_id' => 25, 'cidade_nome' => 'Gabriel Monteiro', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1874, 'estado_id' => 15, 'cidade_nome' => 'Gado Bravo', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 1875, 'estado_id' => 25, 'cidade_nome' => 'Gália', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1876, 'estado_id' => 13, 'cidade_nome' => 'Galiléia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1877, 'estado_id' => 20, 'cidade_nome' => 'Galinhos', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1878, 'estado_id' => 24, 'cidade_nome' => 'Galvão', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1879, 'estado_id' => 17, 'cidade_nome' => 'Gameleira', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1880, 'estado_id' => 9, 'cidade_nome' => 'Gameleira de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1881, 'estado_id' => 13, 'cidade_nome' => 'Gameleiras', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1882, 'estado_id' => 5, 'cidade_nome' => 'Gandu', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1883, 'estado_id' => 17, 'cidade_nome' => 'Garanhuns', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1884, 'estado_id' => 26, 'cidade_nome' => 'Gararu', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1885, 'estado_id' => 25, 'cidade_nome' => 'Garça', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1886, 'estado_id' => 21, 'cidade_nome' => 'Garibaldi', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1887, 'estado_id' => 24, 'cidade_nome' => 'Garopaba', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1888, 'estado_id' => 14, 'cidade_nome' => 'Garrafão do Norte', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1889, 'estado_id' => 21, 'cidade_nome' => 'Garruchos', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1890, 'estado_id' => 24, 'cidade_nome' => 'Garuva', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1891, 'estado_id' => 24, 'cidade_nome' => 'Gaspar', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1892, 'estado_id' => 25, 'cidade_nome' => 'Gastão Vidigal', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1893, 'estado_id' => 11, 'cidade_nome' => 'Gaúcha do Norte', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1894, 'estado_id' => 21, 'cidade_nome' => 'Gaurama', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1895, 'estado_id' => 5, 'cidade_nome' => 'Gavião', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1896, 'estado_id' => 25, 'cidade_nome' => 'Gavião Peixoto', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1897, 'estado_id' => 18, 'cidade_nome' => 'Geminiano', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1898, 'estado_id' => 21, 'cidade_nome' => 'General Câmara', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1899, 'estado_id' => 11, 'cidade_nome' => 'General Carneiro', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1900, 'estado_id' => 16, 'cidade_nome' => 'General Carneiro', 'cidade_uf' => 'PR'],
             INSERT INTO `cidades` VALUES ('1901', '26', 'General Maynard', 'SE');
             INSERT INTO `cidades` VALUES ('1902', '25', 'General Salgado', 'SP');
             INSERT INTO `cidades` VALUES ('1903', '6', 'General Sampaio', 'CE');

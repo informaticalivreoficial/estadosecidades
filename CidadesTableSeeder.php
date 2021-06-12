@@ -2061,7 +2061,7 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 1998, 'estado_id' => 16, 'cidade_nome' => 'Guaporema', 'cidade_uf' => 'PR'],
             ['cidade_id' => 1999, 'estado_id' => 25, 'cidade_nome' => 'Guará', 'cidade_uf' => 'SP'],
             ['cidade_id' => 2000, 'estado_id' => 15, 'cidade_nome' => 'Guarabira', 'cidade_uf' => 'PB'],
-            INSERT INTO `cidades` VALUES ('2001', '25', 'Guaraçaí', 'SP');
+            ['cidade_id' => 2001, 'estado_id' => 25, 'cidade_nome' => 'Guaraçaí', 'cidade_uf' => 'SP'],
             INSERT INTO `cidades` VALUES ('2002', '16', 'Guaraci', 'PR');
             INSERT INTO `cidades` VALUES ('2003', '25', 'Guaraci', 'SP');
             INSERT INTO `cidades` VALUES ('2004', '13', 'Guaraciaba', 'MG');

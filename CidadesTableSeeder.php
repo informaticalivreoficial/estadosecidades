@@ -1961,106 +1961,106 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 1898, 'estado_id' => 21, 'cidade_nome' => 'General Câmara', 'cidade_uf' => 'RS'],
             ['cidade_id' => 1899, 'estado_id' => 11, 'cidade_nome' => 'General Carneiro', 'cidade_uf' => 'MT'],
             ['cidade_id' => 1900, 'estado_id' => 16, 'cidade_nome' => 'General Carneiro', 'cidade_uf' => 'PR'],
-            INSERT INTO `cidades` VALUES ('1901', '26', 'General Maynard', 'SE');
-            INSERT INTO `cidades` VALUES ('1902', '25', 'General Salgado', 'SP');
-            INSERT INTO `cidades` VALUES ('1903', '6', 'General Sampaio', 'CE');
-            INSERT INTO `cidades` VALUES ('1904', '21', 'Gentil', 'RS');
-            INSERT INTO `cidades` VALUES ('1905', '5', 'Gentio do Ouro', 'BA');
-            INSERT INTO `cidades` VALUES ('1906', '25', 'Getulina', 'SP');
-            INSERT INTO `cidades` VALUES ('1907', '21', 'Getúlio Vargas', 'RS');
-            INSERT INTO `cidades` VALUES ('1908', '18', 'Gilbués', 'PI');
-            INSERT INTO `cidades` VALUES ('1909', '2', 'Girau do Ponciano', 'AL');
-            INSERT INTO `cidades` VALUES ('1910', '21', 'Giruá', 'RS');
-            INSERT INTO `cidades` VALUES ('1911', '13', 'Glaucilândia', 'MG');
-            INSERT INTO `cidades` VALUES ('1912', '25', 'Glicério', 'SP');
-            INSERT INTO `cidades` VALUES ('1913', '5', 'Glória', 'BA');
-            INSERT INTO `cidades` VALUES ('1914', '12', 'Glória de Dourados', 'MS');
-            INSERT INTO `cidades` VALUES ('1915', '17', 'Glória do Goitá', 'PE');
-            INSERT INTO `cidades` VALUES ('1916', '11', 'Glória D\'Oeste', 'MT');
-            INSERT INTO `cidades` VALUES ('1917', '21', 'Glorinha', 'RS');
-            INSERT INTO `cidades` VALUES ('1918', '10', 'Godofredo Viana', 'MA');
-            INSERT INTO `cidades` VALUES ('1919', '16', 'Godoy Moreira', 'PR');
-            INSERT INTO `cidades` VALUES ('1920', '13', 'Goiabeira', 'MG');
-            INSERT INTO `cidades` VALUES ('1921', '17', 'Goiana', 'PE');
-            INSERT INTO `cidades` VALUES ('1922', '13', 'Goianá', 'MG');
-            INSERT INTO `cidades` VALUES ('1923', '9', 'Goianápolis', 'GO');
-            INSERT INTO `cidades` VALUES ('1924', '9', 'Goiandira', 'GO');
-            INSERT INTO `cidades` VALUES ('1925', '9', 'Goianésia', 'GO');
-            INSERT INTO `cidades` VALUES ('1926', '14', 'Goianésia do Pará', 'PA');
-            INSERT INTO `cidades` VALUES ('1927', '9', 'Goiânia', 'GO');
-            INSERT INTO `cidades` VALUES ('1928', '20', 'Goianinha', 'RN');
-            INSERT INTO `cidades` VALUES ('1929', '9', 'Goianira', 'GO');
-            INSERT INTO `cidades` VALUES ('1930', '27', 'Goianorte', 'TO');
-            INSERT INTO `cidades` VALUES ('1931', '9', 'Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('1932', '27', 'Goiatins', 'TO');
-            INSERT INTO `cidades` VALUES ('1933', '9', 'Goiatuba', 'GO');
-            INSERT INTO `cidades` VALUES ('1934', '16', 'Goioerê', 'PR');
-            INSERT INTO `cidades` VALUES ('1935', '16', 'Goioxim', 'PR');
-            INSERT INTO `cidades` VALUES ('1936', '13', 'Gonçalves', 'MG');
-            INSERT INTO `cidades` VALUES ('1937', '10', 'Gonçalves Dias', 'MA');
-            INSERT INTO `cidades` VALUES ('1938', '5', 'Gongogi', 'BA');
-            INSERT INTO `cidades` VALUES ('1939', '13', 'Gonzaga', 'MG');
-            INSERT INTO `cidades` VALUES ('1940', '13', 'Gouveia', 'MG');
-            INSERT INTO `cidades` VALUES ('1941', '9', 'Gouvelândia', 'GO');
-            INSERT INTO `cidades` VALUES ('1942', '10', 'Governador Archer', 'MA');
-            INSERT INTO `cidades` VALUES ('1943', '24', 'Governador Celso Ramos', 'SC');
-            INSERT INTO `cidades` VALUES ('1944', '20', 'Governador Dix-Sept Rosado', 'RN');
-            INSERT INTO `cidades` VALUES ('1945', '10', 'Governador Edison Lobão', 'MA');
-            INSERT INTO `cidades` VALUES ('1946', '10', 'Governador Eugênio Barros', 'MA');
-            INSERT INTO `cidades` VALUES ('1947', '22', 'Governador Jorge Teixeira', 'RO');
-            INSERT INTO `cidades` VALUES ('1948', '8', 'Governador Lindenberg', 'ES');
-            INSERT INTO `cidades` VALUES ('1949', '10', 'Governador Luiz Rocha', 'MA');
-            INSERT INTO `cidades` VALUES ('1950', '5', 'Governador Mangabeira', 'BA');
-            INSERT INTO `cidades` VALUES ('1951', '10', 'Governador Newton Bello', 'MA');
-            INSERT INTO `cidades` VALUES ('1952', '10', 'Governador Nunes Freire', 'MA');
-            INSERT INTO `cidades` VALUES ('1953', '13', 'Governador Valadares', 'MG');
-            INSERT INTO `cidades` VALUES ('1954', '6', 'Graça', 'CE');
-            INSERT INTO `cidades` VALUES ('1955', '10', 'Graça Aranha', 'MA');
-            INSERT INTO `cidades` VALUES ('1956', '26', 'Gracho Cardoso', 'SE');
-            INSERT INTO `cidades` VALUES ('1957', '10', 'Grajaú', 'MA');
-            INSERT INTO `cidades` VALUES ('1958', '21', 'Gramado', 'RS');
-            INSERT INTO `cidades` VALUES ('1959', '21', 'Gramado dos Loureiros', 'RS');
-            INSERT INTO `cidades` VALUES ('1960', '21', 'Gramado Xavier', 'RS');
-            INSERT INTO `cidades` VALUES ('1961', '16', 'Grandes Rios', 'PR');
-            INSERT INTO `cidades` VALUES ('1962', '17', 'Granito', 'PE');
-            INSERT INTO `cidades` VALUES ('1963', '6', 'Granja', 'CE');
-            INSERT INTO `cidades` VALUES ('1964', '6', 'Granjeiro', 'CE');
-            INSERT INTO `cidades` VALUES ('1965', '13', 'Grão Mogol', 'MG');
-            INSERT INTO `cidades` VALUES ('1966', '24', 'Grão Pará', 'SC');
-            INSERT INTO `cidades` VALUES ('1967', '17', 'Gravatá', 'PE');
-            INSERT INTO `cidades` VALUES ('1968', '21', 'Gravataí', 'RS');
-            INSERT INTO `cidades` VALUES ('1969', '24', 'Gravatal', 'SC');
-            INSERT INTO `cidades` VALUES ('1970', '6', 'Groaíras', 'CE');
-            INSERT INTO `cidades` VALUES ('1971', '20', 'Grossos', 'RN');
-            INSERT INTO `cidades` VALUES ('1972', '13', 'Grupiara', 'MG');
-            INSERT INTO `cidades` VALUES ('1973', '21', 'Guabiju', 'RS');
-            INSERT INTO `cidades` VALUES ('1974', '24', 'Guabiruba', 'SC');
-            INSERT INTO `cidades` VALUES ('1975', '8', 'Guaçuí', 'ES');
-            INSERT INTO `cidades` VALUES ('1976', '18', 'Guadalupe', 'PI');
-            INSERT INTO `cidades` VALUES ('1977', '21', 'Guaíba', 'RS');
-            INSERT INTO `cidades` VALUES ('1978', '25', 'Guaiçara', 'SP');
-            INSERT INTO `cidades` VALUES ('1979', '25', 'Guaimbê', 'SP');
-            INSERT INTO `cidades` VALUES ('1980', '16', 'Guaíra', 'PR');
-            INSERT INTO `cidades` VALUES ('1981', '25', 'Guaíra', 'SP');
-            INSERT INTO `cidades` VALUES ('1982', '16', 'Guairaçá', 'PR');
-            INSERT INTO `cidades` VALUES ('1983', '6', 'Guaiúba', 'CE');
-            INSERT INTO `cidades` VALUES ('1984', '4', 'Guajará', 'AM');
-            INSERT INTO `cidades` VALUES ('1985', '22', 'Guajará-Mirim', 'RO');
-            INSERT INTO `cidades` VALUES ('1986', '5', 'Guajeru', 'BA');
-            INSERT INTO `cidades` VALUES ('1987', '20', 'Guamaré', 'RN');
-            INSERT INTO `cidades` VALUES ('1988', '16', 'Guamiranga', 'PR');
-            INSERT INTO `cidades` VALUES ('1989', '5', 'Guanambi', 'BA');
-            INSERT INTO `cidades` VALUES ('1990', '13', 'Guanhães', 'MG');
-            INSERT INTO `cidades` VALUES ('1991', '13', 'Guapé', 'MG');
-            INSERT INTO `cidades` VALUES ('1992', '25', 'Guapiaçu', 'SP');
-            INSERT INTO `cidades` VALUES ('1993', '25', 'Guapiara', 'SP');
-            INSERT INTO `cidades` VALUES ('1994', '19', 'Guapimirim', 'RJ');
-            INSERT INTO `cidades` VALUES ('1995', '16', 'Guapirama', 'PR');
-            INSERT INTO `cidades` VALUES ('1996', '9', 'Guapó', 'GO');
-            INSERT INTO `cidades` VALUES ('1997', '21', 'Guaporé', 'RS');
-            INSERT INTO `cidades` VALUES ('1998', '16', 'Guaporema', 'PR');
-            INSERT INTO `cidades` VALUES ('1999', '25', 'Guará', 'SP');
-            INSERT INTO `cidades` VALUES ('2000', '15', 'Guarabira', 'PB');
+            ['cidade_id' => 1901, 'estado_id' => 26, 'cidade_nome' => 'General Maynard', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1902, 'estado_id' => 25, 'cidade_nome' => 'General Salgado', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1903, 'estado_id' => 6, 'cidade_nome' => 'General Sampaio', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1904, 'estado_id' => 21, 'cidade_nome' => 'Gentil', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1905, 'estado_id' => 5, 'cidade_nome' => 'Gentio do Ouro', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1906, 'estado_id' => 25, 'cidade_nome' => 'Getulina', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1907, 'estado_id' => 21, 'cidade_nome' => 'Getúlio Vargas', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1908, 'estado_id' => 18, 'cidade_nome' => 'Gilbués', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1909, 'estado_id' => 2, 'cidade_nome' => 'Girau do Ponciano', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 1910, 'estado_id' => 21, 'cidade_nome' => 'Giruá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1911, 'estado_id' => 13, 'cidade_nome' => 'Glaucilândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1912, 'estado_id' => 25, 'cidade_nome' => 'Glicério', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1913, 'estado_id' => 5, 'cidade_nome' => 'Glória', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1914, 'estado_id' => 12, 'cidade_nome' => 'Glória de Dourados', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 1915, 'estado_id' => 17, 'cidade_nome' => 'Glória do Goitá', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1916, 'estado_id' => 11, 'cidade_nome' => 'Glória D\'Oeste', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 1917, 'estado_id' => 21, 'cidade_nome' => 'Glorinha', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1918, 'estado_id' => 10, 'cidade_nome' => 'Godofredo Viana', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1919, 'estado_id' => 16, 'cidade_nome' => 'Godoy Moreira', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1920, 'estado_id' => 13, 'cidade_nome' => 'Goiabeira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1921, 'estado_id' => 17, 'cidade_nome' => 'Goiana', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1922, 'estado_id' => 13, 'cidade_nome' => 'Goianá', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1923, 'estado_id' => 9, 'cidade_nome' => 'Goianápolis', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1924, 'estado_id' => 9, 'cidade_nome' => 'Goiandira', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1925, 'estado_id' => 9, 'cidade_nome' => 'Goianésia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1926, 'estado_id' => 14, 'cidade_nome' => 'Goianésia do Pará', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 1927, 'estado_id' => 9, 'cidade_nome' => 'Goiânia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1928, 'estado_id' => 20, 'cidade_nome' => 'Goianinha', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1929, 'estado_id' => 9, 'cidade_nome' => 'Goianira', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1930, 'estado_id' => 27, 'cidade_nome' => 'Goianorte', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1931, 'estado_id' => 9, 'cidade_nome' => 'Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1932, 'estado_id' => 27, 'cidade_nome' => 'Goiatins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 1933, 'estado_id' => 9, 'cidade_nome' => 'Goiatuba', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1934, 'estado_id' => 16, 'cidade_nome' => 'Goioerê', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1935, 'estado_id' => 16, 'cidade_nome' => 'Goioxim', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1936, 'estado_id' => 13, 'cidade_nome' => 'Gonçalves', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1937, 'estado_id' => 10, 'cidade_nome' => 'Gonçalves Dias', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1938, 'estado_id' => 5, 'cidade_nome' => 'Gongogi', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1939, 'estado_id' => 13, 'cidade_nome' => 'Gonzaga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1940, 'estado_id' => 13, 'cidade_nome' => 'Gouveia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1941, 'estado_id' => 9, 'cidade_nome' => 'Gouvelândia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1942, 'estado_id' => 10, 'cidade_nome' => 'Governador Archer', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1943, 'estado_id' => 24, 'cidade_nome' => 'Governador Celso Ramos', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1944, 'estado_id' => 20, 'cidade_nome' => 'Governador Dix-Sept Rosado', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1945, 'estado_id' => 10, 'cidade_nome' => 'Governador Edison Lobão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1946, 'estado_id' => 10, 'cidade_nome' => 'Governador Eugênio Barros', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1947, 'estado_id' => 22, 'cidade_nome' => 'Governador Jorge Teixeira', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 1948, 'estado_id' => 8, 'cidade_nome' => 'Governador Lindenberg', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 1949, 'estado_id' => 10, 'cidade_nome' => 'Governador Luiz Rocha', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1950, 'estado_id' => 5, 'cidade_nome' => 'Governador Mangabeira', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1951, 'estado_id' => 10, 'cidade_nome' => 'Governador Newton Bello', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1952, 'estado_id' => 10, 'cidade_nome' => 'Governador Nunes Freire', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1953, 'estado_id' => 13, 'cidade_nome' => 'Governador Valadares', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1954, 'estado_id' => 6, 'cidade_nome' => 'Graça', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1955, 'estado_id' => 10, 'cidade_nome' => 'Graça Aranha', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1956, 'estado_id' => 26, 'cidade_nome' => 'Gracho Cardoso', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 1957, 'estado_id' => 10, 'cidade_nome' => 'Grajaú', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 1958, 'estado_id' => 21, 'cidade_nome' => 'Gramado', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1959, 'estado_id' => 21, 'cidade_nome' => 'Gramado dos Loureiros', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1960, 'estado_id' => 21, 'cidade_nome' => 'Gramado Xavier', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1961, 'estado_id' => 16, 'cidade_nome' => 'Grandes Rios', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1962, 'estado_id' => 17, 'cidade_nome' => 'Granito', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1963, 'estado_id' => 6, 'cidade_nome' => 'Granja', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1964, 'estado_id' => 6, 'cidade_nome' => 'Granjeiro', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1965, 'estado_id' => 13, 'cidade_nome' => 'Grão Mogol', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1966, 'estado_id' => 24, 'cidade_nome' => 'Grão Pará', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1967, 'estado_id' => 17, 'cidade_nome' => 'Gravatá', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 1968, 'estado_id' => 21, 'cidade_nome' => 'Gravataí', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1969, 'estado_id' => 24, 'cidade_nome' => 'Gravatal', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1970, 'estado_id' => 6, 'cidade_nome' => 'Groaíras', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1971, 'estado_id' => 20, 'cidade_nome' => 'Grossos', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1972, 'estado_id' => 13, 'cidade_nome' => 'Grupiara', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1973, 'estado_id' => 21, 'cidade_nome' => 'Guabiju', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1974, 'estado_id' => 24, 'cidade_nome' => 'Guabiruba', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 1975, 'estado_id' => 8, 'cidade_nome' => 'Guaçuí', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 1976, 'estado_id' => 18, 'cidade_nome' => 'Guadalupe', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 1977, 'estado_id' => 21, 'cidade_nome' => 'Guaíba', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1978, 'estado_id' => 25, 'cidade_nome' => 'Guaiçara', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1979, 'estado_id' => 25, 'cidade_nome' => 'Guaimbê', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1980, 'estado_id' => 16, 'cidade_nome' => 'Guaíra', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1981, 'estado_id' => 25, 'cidade_nome' => 'Guaíra', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1982, 'estado_id' => 16, 'cidade_nome' => 'Guairaçá', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1983, 'estado_id' => 6, 'cidade_nome' => 'Guaiúba', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 1984, 'estado_id' => 4, 'cidade_nome' => 'Guajará', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 1985, 'estado_id' => 22, 'cidade_nome' => 'Guajará-Mirim', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 1986, 'estado_id' => 5, 'cidade_nome' => 'Guajeru', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1987, 'estado_id' => 20, 'cidade_nome' => 'Guamaré', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 1988, 'estado_id' => 16, 'cidade_nome' => 'Guamiranga', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1989, 'estado_id' => 5, 'cidade_nome' => 'Guanambi', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 1990, 'estado_id' => 13, 'cidade_nome' => 'Guanhães', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1991, 'estado_id' => 13, 'cidade_nome' => 'Guapé', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 1992, 'estado_id' => 25, 'cidade_nome' => 'Guapiaçu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1993, 'estado_id' => 25, 'cidade_nome' => 'Guapiara', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 1994, 'estado_id' => 19, 'cidade_nome' => 'Guapimirim', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 1995, 'estado_id' => 16, 'cidade_nome' => 'Guapirama', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1996, 'estado_id' => 9, 'cidade_nome' => 'Guapó', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 1997, 'estado_id' => 21, 'cidade_nome' => 'Guaporé', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 1998, 'estado_id' => 16, 'cidade_nome' => 'Guaporema', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 1999, 'estado_id' => 25, 'cidade_nome' => 'Guará', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2000, 'estado_id' => 15, 'cidade_nome' => 'Guarabira', 'cidade_uf' => 'PB'],
             INSERT INTO `cidades` VALUES ('2001', '25', 'Guaraçaí', 'SP');
             INSERT INTO `cidades` VALUES ('2002', '16', 'Guaraci', 'PR');
             INSERT INTO `cidades` VALUES ('2003', '25', 'Guaraci', 'SP');

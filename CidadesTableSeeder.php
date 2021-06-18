@@ -2263,7 +2263,7 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 2200, 'esdado_id' => 26, 'cidade_nome' => 'Indiaroba', 'cidade_uf' => 'SE'],
             ['cidade_id' => 2201, 'esdado_id' => 11, 'cidade_nome' => 'Indiavaí', 'cidade_uf' => 'MT'],
             ['cidade_id' => 2202, 'esdado_id' => 15, 'cidade_nome' => 'Ingá', 'cidade_uf' => 'PB'],
-            INSERT INTO `cidades` VALUES ('2203', '13', 'Ingaí', 'MG');
+            ['cidade_id' => 2203, 'esdado_id' => 13, 'cidade_nome' => 'Ingaí', 'cidade_uf' => 'MG'],
             INSERT INTO `cidades` VALUES ('2204', '17', 'Ingazeira', 'PE');
             INSERT INTO `cidades` VALUES ('2205', '21', 'Inhacorá', 'RS');
             INSERT INTO `cidades` VALUES ('2206', '5', 'Inhambupe', 'BA');

@@ -2264,115 +2264,115 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 2201, 'esdado_id' => 11, 'cidade_nome' => 'Indiavaí', 'cidade_uf' => 'MT'],
             ['cidade_id' => 2202, 'esdado_id' => 15, 'cidade_nome' => 'Ingá', 'cidade_uf' => 'PB'],
             ['cidade_id' => 2203, 'esdado_id' => 13, 'cidade_nome' => 'Ingaí', 'cidade_uf' => 'MG'],
-            INSERT INTO `cidades` VALUES ('2204', '17', 'Ingazeira', 'PE');
-            INSERT INTO `cidades` VALUES ('2205', '21', 'Inhacorá', 'RS');
-            INSERT INTO `cidades` VALUES ('2206', '5', 'Inhambupe', 'BA');
-            INSERT INTO `cidades` VALUES ('2207', '14', 'Inhangapi', 'PA');
-            INSERT INTO `cidades` VALUES ('2208', '2', 'Inhapi', 'AL');
-            INSERT INTO `cidades` VALUES ('2209', '13', 'Inhapim', 'MG');
-            INSERT INTO `cidades` VALUES ('2210', '13', 'Inhaúma', 'MG');
-            INSERT INTO `cidades` VALUES ('2211', '18', 'Inhuma', 'PI');
-            INSERT INTO `cidades` VALUES ('2212', '9', 'Inhumas', 'GO');
-            INSERT INTO `cidades` VALUES ('2213', '13', 'Inimutaba', 'MG');
-            INSERT INTO `cidades` VALUES ('2214', '12', 'Inocência', 'MS');
-            INSERT INTO `cidades` VALUES ('2215', '25', 'Inúbia Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('2216', '24', 'Iomerê', 'SC');
-            INSERT INTO `cidades` VALUES ('2217', '13', 'Ipaba', 'MG');
-            INSERT INTO `cidades` VALUES ('2218', '9', 'Ipameri', 'GO');
-            INSERT INTO `cidades` VALUES ('2219', '13', 'Ipanema', 'MG');
-            INSERT INTO `cidades` VALUES ('2220', '20', 'Ipanguaçu', 'RN');
-            INSERT INTO `cidades` VALUES ('2221', '6', 'Ipaporanga', 'CE');
-            INSERT INTO `cidades` VALUES ('2222', '13', 'Ipatinga', 'MG');
-            INSERT INTO `cidades` VALUES ('2223', '6', 'Ipaumirim', 'CE');
-            INSERT INTO `cidades` VALUES ('2224', '25', 'Ipaussu', 'SP');
-            INSERT INTO `cidades` VALUES ('2225', '21', 'Ipê', 'RS');
-            INSERT INTO `cidades` VALUES ('2226', '5', 'Ipecaetá', 'BA');
-            INSERT INTO `cidades` VALUES ('2227', '25', 'Iperó', 'SP');
-            INSERT INTO `cidades` VALUES ('2228', '25', 'Ipeúna', 'SP');
-            INSERT INTO `cidades` VALUES ('2229', '13', 'Ipiaçu', 'MG');
-            INSERT INTO `cidades` VALUES ('2230', '5', 'Ipiaú', 'BA');
-            INSERT INTO `cidades` VALUES ('2231', '25', 'Ipiguá', 'SP');
-            INSERT INTO `cidades` VALUES ('2232', '24', 'Ipira', 'SC');
-            INSERT INTO `cidades` VALUES ('2233', '5', 'Ipirá', 'BA');
-            INSERT INTO `cidades` VALUES ('2234', '16', 'Ipiranga', 'PR');
-            INSERT INTO `cidades` VALUES ('2235', '9', 'Ipiranga de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('2236', '11', 'Ipiranga do Norte', 'MT');
-            INSERT INTO `cidades` VALUES ('2237', '18', 'Ipiranga do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('2238', '21', 'Ipiranga do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('2239', '4', 'Ipixuna', 'AM');
-            INSERT INTO `cidades` VALUES ('2240', '14', 'Ipixuna do Pará', 'PA');
-            INSERT INTO `cidades` VALUES ('2241', '17', 'Ipojuca', 'PE');
-            INSERT INTO `cidades` VALUES ('2242', '9', 'Iporá', 'GO');
-            INSERT INTO `cidades` VALUES ('2243', '16', 'Iporã', 'PR');
-            INSERT INTO `cidades` VALUES ('2244', '24', 'Iporã do Oeste', 'SC');
-            INSERT INTO `cidades` VALUES ('2245', '25', 'Iporanga', 'SP');
-            INSERT INTO `cidades` VALUES ('2246', '6', 'Ipu', 'CE');
-            INSERT INTO `cidades` VALUES ('2247', '25', 'Ipuã', 'SP');
-            INSERT INTO `cidades` VALUES ('2248', '24', 'Ipuaçu', 'SC');
-            INSERT INTO `cidades` VALUES ('2249', '17', 'Ipubi', 'PE');
-            INSERT INTO `cidades` VALUES ('2250', '20', 'Ipueira', 'RN');
-            INSERT INTO `cidades` VALUES ('2251', '6', 'Ipueiras', 'CE');
-            INSERT INTO `cidades` VALUES ('2252', '27', 'Ipueiras', 'TO');
-            INSERT INTO `cidades` VALUES ('2253', '13', 'Ipuiúna', 'MG');
-            INSERT INTO `cidades` VALUES ('2254', '24', 'Ipumirim', 'SC');
-            INSERT INTO `cidades` VALUES ('2255', '5', 'Ipupiara', 'BA');
-            INSERT INTO `cidades` VALUES ('2256', '6', 'Iracema', 'CE');
-            INSERT INTO `cidades` VALUES ('2257', '23', 'Iracema', 'RR');
-            INSERT INTO `cidades` VALUES ('2258', '16', 'Iracema do Oeste', 'PR');
-            INSERT INTO `cidades` VALUES ('2259', '25', 'Iracemápolis', 'SP');
-            INSERT INTO `cidades` VALUES ('2260', '24', 'Iraceminha', 'SC');
-            INSERT INTO `cidades` VALUES ('2261', '21', 'Iraí', 'RS');
-            INSERT INTO `cidades` VALUES ('2262', '13', 'Iraí de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('2263', '5', 'Irajuba', 'BA');
-            INSERT INTO `cidades` VALUES ('2264', '5', 'Iramaia', 'BA');
-            INSERT INTO `cidades` VALUES ('2265', '4', 'Iranduba', 'AM');
-            INSERT INTO `cidades` VALUES ('2266', '24', 'Irani', 'SC');
-            INSERT INTO `cidades` VALUES ('2267', '25', 'Irapuã', 'SP');
-            INSERT INTO `cidades` VALUES ('2268', '25', 'Irapuru', 'SP');
-            INSERT INTO `cidades` VALUES ('2269', '5', 'Iraquara', 'BA');
-            INSERT INTO `cidades` VALUES ('2270', '5', 'Irará', 'BA');
-            INSERT INTO `cidades` VALUES ('2271', '16', 'Irati', 'PR');
-            INSERT INTO `cidades` VALUES ('2272', '24', 'Irati', 'SC');
-            INSERT INTO `cidades` VALUES ('2273', '6', 'Irauçuba', 'CE');
-            INSERT INTO `cidades` VALUES ('2274', '5', 'Irecê', 'BA');
-            INSERT INTO `cidades` VALUES ('2275', '16', 'Iretama', 'PR');
-            INSERT INTO `cidades` VALUES ('2276', '24', 'Irineópolis', 'SC');
-            INSERT INTO `cidades` VALUES ('2277', '14', 'Irituia', 'PA');
-            INSERT INTO `cidades` VALUES ('2278', '8', 'Irupi', 'ES');
-            INSERT INTO `cidades` VALUES ('2279', '18', 'Isaías Coelho', 'PI');
-            INSERT INTO `cidades` VALUES ('2280', '9', 'Israelândia', 'GO');
-            INSERT INTO `cidades` VALUES ('2281', '24', 'Itá', 'SC');
-            INSERT INTO `cidades` VALUES ('2282', '21', 'Itaara', 'RS');
-            INSERT INTO `cidades` VALUES ('2283', '15', 'Itabaiana', 'PB');
-            INSERT INTO `cidades` VALUES ('2284', '26', 'Itabaiana', 'SE');
-            INSERT INTO `cidades` VALUES ('2285', '26', 'Itabaianinha', 'SE');
-            INSERT INTO `cidades` VALUES ('2286', '5', 'Itabela', 'BA');
-            INSERT INTO `cidades` VALUES ('2287', '25', 'Itaberá', 'SP');
-            INSERT INTO `cidades` VALUES ('2288', '5', 'Itaberaba', 'BA');
-            INSERT INTO `cidades` VALUES ('2289', '9', 'Itaberaí', 'GO');
-            INSERT INTO `cidades` VALUES ('2290', '26', 'Itabi', 'SE');
-            INSERT INTO `cidades` VALUES ('2291', '13', 'Itabira', 'MG');
-            INSERT INTO `cidades` VALUES ('2292', '13', 'Itabirinha', 'MG');
-            INSERT INTO `cidades` VALUES ('2293', '13', 'Itabirito', 'MG');
-            INSERT INTO `cidades` VALUES ('2294', '19', 'Itaboraí', 'RJ');
-            INSERT INTO `cidades` VALUES ('2295', '5', 'Itabuna', 'BA');
-            INSERT INTO `cidades` VALUES ('2296', '27', 'Itacajá', 'TO');
-            INSERT INTO `cidades` VALUES ('2297', '13', 'Itacambira', 'MG');
-            INSERT INTO `cidades` VALUES ('2298', '13', 'Itacarambi', 'MG');
-            INSERT INTO `cidades` VALUES ('2299', '5', 'Itacaré', 'BA');
-            INSERT INTO `cidades` VALUES ('2300', '4', 'Itacoatiara', 'AM');
-            INSERT INTO `cidades` VALUES ('2301', '17', 'Itacuruba', 'PE');
-            INSERT INTO `cidades` VALUES ('2302', '21', 'Itacurubi', 'RS');
-            INSERT INTO `cidades` VALUES ('2303', '5', 'Itaeté', 'BA');
-            INSERT INTO `cidades` VALUES ('2304', '5', 'Itagi', 'BA');
-            INSERT INTO `cidades` VALUES ('2305', '5', 'Itagibá', 'BA');
-            INSERT INTO `cidades` VALUES ('2306', '5', 'Itagimirim', 'BA');
-            INSERT INTO `cidades` VALUES ('2307', '8', 'Itaguaçu', 'ES');
-            INSERT INTO `cidades` VALUES ('2308', '5', 'Itaguaçu da Bahia', 'BA');
-            INSERT INTO `cidades` VALUES ('2309', '19', 'Itaguaí', 'RJ');
-            INSERT INTO `cidades` VALUES ('2310', '16', 'Itaguajé', 'PR');
-            INSERT INTO `cidades` VALUES ('2311', '13', 'Itaguara', 'MG');
-            INSERT INTO `cidades` VALUES ('2312', '9', 'Itaguari', 'GO');
+            ['cidade_id' => 2204, 'estado_id' => 17, 'cidade_nome' => 'Ingazeira', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 2205, 'estado_id' => 21, 'cidade_nome' => 'Inhacorá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2206, 'estado_id' => 5, 'cidade_nome' => 'Inhambupe', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2207, 'estado_id' => 14, 'cidade_nome' => 'Inhangapi', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2208, 'estado_id' => 2, 'cidade_nome' => 'Inhapi', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2209, 'estado_id' => 13, 'cidade_nome' => 'Inhapim', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2210, 'estado_id' => 13, 'cidade_nome' => 'Inhaúma', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2211, 'estado_id' => 18, 'cidade_nome' => 'Inhuma', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2212, 'estado_id' => 9, 'cidade_nome' => 'Inhumas', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2213, 'estado_id' => 13, 'cidade_nome' => 'Inimutaba', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2214, 'estado_id' => 12, 'cidade_nome' => 'Inocência', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 2215, 'estado_id' => 25, 'cidade_nome' => 'Inúbia Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2216, 'estado_id' => 24, 'cidade_nome' => 'Iomerê', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2217, 'estado_id' => 13, 'cidade_nome' => 'Ipaba', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2218, 'estado_id' => 9, 'cidade_nome' => 'Ipameri', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2219, 'estado_id' => 13, 'cidade_nome' => 'Ipanema', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2220, 'estado_id' => 20, 'cidade_nome' => 'Ipanguaçu', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 2221, 'estado_id' => 6, 'cidade_nome' => 'Ipaporanga', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2222, 'estado_id' => 13, 'cidade_nome' => 'Ipatinga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2223, 'estado_id' => 6, 'cidade_nome' => 'Ipaumirim', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2224, 'estado_id' => 25, 'cidade_nome' => 'Ipaussu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2225, 'estado_id' => 21, 'cidade_nome' => 'Ipê', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2226, 'estado_id' => 5, 'cidade_nome' => 'Ipecaetá', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2227, 'estado_id' => 25, 'cidade_nome' => 'Iperó', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2228, 'estado_id' => 25, 'cidade_nome' => 'Ipeúna', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2229, 'estado_id' => 13, 'cidade_nome' => 'Ipiaçu', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2230, 'estado_id' => 5, 'cidade_nome' => 'Ipiaú', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2231, 'estado_id' => 25, 'cidade_nome' => 'Ipiguá', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2232, 'estado_id' => 24, 'cidade_nome' => 'Ipira', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2233, 'estado_id' => 5, 'cidade_nome' => 'Ipirá', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2234, 'estado_id' => 16, 'cidade_nome' => 'Ipiranga', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2235, 'estado_id' => 9, 'cidade_nome' => 'Ipiranga de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2236, 'estado_id' => 11, 'cidade_nome' => 'Ipiranga do Norte', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 2237, 'estado_id' => 18, 'cidade_nome' => 'Ipiranga do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2238, 'estado_id' => 21, 'cidade_nome' => 'Ipiranga do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2239, 'estado_id' => 4, 'cidade_nome' => 'Ipixuna', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2240, 'estado_id' => 14, 'cidade_nome' => 'Ipixuna do Pará', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2241, 'estado_id' => 17, 'cidade_nome' => 'Ipojuca', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 2242, 'estado_id' => 9, 'cidade_nome' => 'Iporá', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2243, 'estado_id' => 16, 'cidade_nome' => 'Iporã', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2244, 'estado_id' => 24, 'cidade_nome' => 'Iporã do Oeste', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2245, 'estado_id' => 25, 'cidade_nome' => 'Iporanga', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2246, 'estado_id' => 6, 'cidade_nome' => 'Ipu', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2247, 'estado_id' => 25, 'cidade_nome' => 'Ipuã', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2248, 'estado_id' => 24, 'cidade_nome' => 'Ipuaçu', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2249, 'estado_id' => 17, 'cidade_nome' => 'Ipubi', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 2250, 'estado_id' => 20, 'cidade_nome' => 'Ipueira', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 2251, 'estado_id' => 6, 'cidade_nome' => 'Ipueiras', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2252, 'estado_id' => 27, 'cidade_nome' => 'Ipueiras', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 2253, 'estado_id' => 13, 'cidade_nome' => 'Ipuiúna', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2254, 'estado_id' => 24, 'cidade_nome' => 'Ipumirim', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2255, 'estado_id' => 5, 'cidade_nome' => 'Ipupiara', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2256, 'estado_id' => 6, 'cidade_nome' => 'Iracema', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2257, 'estado_id' => 23, 'cidade_nome' => 'Iracema', 'cidade_uf' => 'RR'],
+            ['cidade_id' => 2258, 'estado_id' => 16, 'cidade_nome' => 'Iracema do Oeste', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2259, 'estado_id' => 25, 'cidade_nome' => 'Iracemápolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2260, 'estado_id' => 24, 'cidade_nome' => 'Iraceminha', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2261, 'estado_id' => 21, 'cidade_nome' => 'Iraí', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2262, 'estado_id' => 13, 'cidade_nome' => 'Iraí de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2263, 'estado_id' => 5, 'cidade_nome' => 'Irajuba', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2264, 'estado_id' => 5, 'cidade_nome' => 'Iramaia', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2265, 'estado_id' => 4, 'cidade_nome' => 'Iranduba', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2266, 'estado_id' => 24, 'cidade_nome' => 'Irani', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2267, 'estado_id' => 25, 'cidade_nome' => 'Irapuã', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2268, 'estado_id' => 25, 'cidade_nome' => 'Irapuru', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2269, 'estado_id' => 5, 'cidade_nome' => 'Iraquara', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2270, 'estado_id' => 5, 'cidade_nome' => 'Irará', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2271, 'estado_id' => 16, 'cidade_nome' => 'Irati', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2272, 'estado_id' => 24, 'cidade_nome' => 'Irati', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2273, 'estado_id' => 6, 'cidade_nome' => 'Irauçuba', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2274, 'estado_id' => 5, 'cidade_nome' => 'Irecê', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2275, 'estado_id' => 16, 'cidade_nome' => 'Iretama', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2276, 'estado_id' => 24, 'cidade_nome' => 'Irineópolis', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2277, 'estado_id' => 14, 'cidade_nome' => 'Irituia', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2278, 'estado_id' => 8, 'cidade_nome' => 'Irupi', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 2279, 'estado_id' => 18, 'cidade_nome' => 'Isaías Coelho', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2280, 'estado_id' => 9, 'cidade_nome' => 'Israelândia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2281, 'estado_id' => 24, 'cidade_nome' => 'Itá', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2282, 'estado_id' => 21, 'cidade_nome' => 'Itaara', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2283, 'estado_id' => 15, 'cidade_nome' => 'Itabaiana', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2284, 'estado_id' => 26, 'cidade_nome' => 'Itabaiana', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 2285, 'estado_id' => 26, 'cidade_nome' => 'Itabaianinha', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 2286, 'estado_id' => 5, 'cidade_nome' => 'Itabela', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2287, 'estado_id' => 25, 'cidade_nome' => 'Itaberá', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2288, 'estado_id' => 5, 'cidade_nome' => 'Itaberaba', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2289, 'estado_id' => 9, 'cidade_nome' => 'Itaberaí', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2290, 'estado_id' => 26, 'cidade_nome' => 'Itabi', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 2291, 'estado_id' => 13, 'cidade_nome' => 'Itabira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2292, 'estado_id' => 13, 'cidade_nome' => 'Itabirinha', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2293, 'estado_id' => 13, 'cidade_nome' => 'Itabirito', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2294, 'estado_id' => 19, 'cidade_nome' => 'Itaboraí', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 2295, 'estado_id' => 5, 'cidade_nome' => 'Itabuna', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2296, 'estado_id' => 27, 'cidade_nome' => 'Itacajá', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 2297, 'estado_id' => 13, 'cidade_nome' => 'Itacambira', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2298, 'estado_id' => 13, 'cidade_nome' => 'Itacarambi', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2299, 'estado_id' => 5, 'cidade_nome' => 'Itacaré', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2300, 'estado_id' => 4, 'cidade_nome' => 'Itacoatiara', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2301, 'estado_id' => 17, 'cidade_nome' => 'Itacuruba', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 2302, 'estado_id' => 21, 'cidade_nome' => 'Itacurubi', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2303, 'estado_id' => 5, 'cidade_nome' => 'Itaeté', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2304, 'estado_id' => 5, 'cidade_nome' => 'Itagi', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2305, 'estado_id' => 5, 'cidade_nome' => 'Itagibá', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2306, 'estado_id' => 5, 'cidade_nome' => 'Itagimirim', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2307, 'estado_id' => 8, 'cidade_nome' => 'Itaguaçu', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 2308, 'estado_id' => 5, 'cidade_nome' => 'Itaguaçu da Bahia', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2309, 'estado_id' => 19, 'cidade_nome' => 'Itaguaí', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 2310, 'estado_id' => 16, 'cidade_nome' => 'Itaguajé', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2311, 'estado_id' => 13, 'cidade_nome' => 'Itaguara', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2312, 'estado_id' => 9, 'cidade_nome' => 'Itaguari', 'cidade_uf' => 'GO'],
             INSERT INTO `cidades` VALUES ('2313', '9', 'Itaguaru', 'GO');
             INSERT INTO `cidades` VALUES ('2314', '27', 'Itaguatins', 'TO');
             INSERT INTO `cidades` VALUES ('2315', '25', 'Itaí', 'SP');

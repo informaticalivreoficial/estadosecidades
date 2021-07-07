@@ -2911,356 +2911,356 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 2848, 'estado_id' => 6, 'cidade_nome' => 'Madalena', 'cidade_uf' => 'CE'],
             ['cidade_id' => 2849, 'estado_id' => 18, 'cidade_nome' => 'Madeiro', 'cidade_uf' => 'PI'],
             ['cidade_id' => 2850, 'estado_id' => 5, 'cidade_nome' => 'Madre de Deus', 'cidade_uf' => 'BA'],
-            INSERT INTO `cidades` VALUES ('2851', '13', 'Madre de Deus de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('2852', '15', 'Mãe d\'Água', 'PB');
-            INSERT INTO `cidades` VALUES ('2853', '14', 'Mãe do Rio', 'PA');
-            INSERT INTO `cidades` VALUES ('2854', '5', 'Maetinga', 'BA');
-            INSERT INTO `cidades` VALUES ('2855', '24', 'Mafra', 'SC');
-            INSERT INTO `cidades` VALUES ('2856', '14', 'Magalhães Barata', 'PA');
-            INSERT INTO `cidades` VALUES ('2857', '10', 'Magalhães de Almeida', 'MA');
-            INSERT INTO `cidades` VALUES ('2858', '25', 'Magda', 'SP');
-            INSERT INTO `cidades` VALUES ('2859', '19', 'Magé', 'RJ');
-            INSERT INTO `cidades` VALUES ('2860', '5', 'Maiquinique', 'BA');
-            INSERT INTO `cidades` VALUES ('2861', '5', 'Mairi', 'BA');
-            INSERT INTO `cidades` VALUES ('2862', '25', 'Mairinque', 'SP');
-            INSERT INTO `cidades` VALUES ('2863', '25', 'Mairiporã', 'SP');
-            INSERT INTO `cidades` VALUES ('2864', '9', 'Mairipotaba', 'GO');
-            INSERT INTO `cidades` VALUES ('2865', '24', 'Major Gercino', 'SC');
-            INSERT INTO `cidades` VALUES ('2866', '2', 'Major Isidoro', 'AL');
-            INSERT INTO `cidades` VALUES ('2867', '20', 'Major Sales', 'RN');
-            INSERT INTO `cidades` VALUES ('2868', '24', 'Major Vieira', 'SC');
-            INSERT INTO `cidades` VALUES ('2869', '13', 'Malacacheta', 'MG');
-            INSERT INTO `cidades` VALUES ('2870', '5', 'Malhada', 'BA');
-            INSERT INTO `cidades` VALUES ('2871', '5', 'Malhada de Pedras', 'BA');
-            INSERT INTO `cidades` VALUES ('2872', '26', 'Malhada dos Bois', 'SE');
-            INSERT INTO `cidades` VALUES ('2873', '26', 'Malhador', 'SE');
-            INSERT INTO `cidades` VALUES ('2874', '16', 'Mallet', 'PR');
-            INSERT INTO `cidades` VALUES ('2875', '15', 'Malta', 'PB');
-            INSERT INTO `cidades` VALUES ('2876', '15', 'Mamanguape', 'PB');
-            INSERT INTO `cidades` VALUES ('2877', '9', 'Mambaí', 'GO');
-            INSERT INTO `cidades` VALUES ('2878', '16', 'Mamborê', 'PR');
-            INSERT INTO `cidades` VALUES ('2879', '13', 'Mamonas', 'MG');
-            INSERT INTO `cidades` VALUES ('2880', '21', 'Mampituba', 'RS');
-            INSERT INTO `cidades` VALUES ('2881', '4', 'Manacapuru', 'AM');
-            INSERT INTO `cidades` VALUES ('2882', '15', 'Manaíra', 'PB');
-            INSERT INTO `cidades` VALUES ('2883', '4', 'Manaquiri', 'AM');
-            INSERT INTO `cidades` VALUES ('2884', '17', 'Manari', 'PE');
-            INSERT INTO `cidades` VALUES ('2885', '4', 'Manaus', 'AM');
-            INSERT INTO `cidades` VALUES ('2886', '1', 'Mâncio Lima', 'AC');
-            INSERT INTO `cidades` VALUES ('2887', '16', 'Mandaguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('2888', '16', 'Mandaguari', 'PR');
-            INSERT INTO `cidades` VALUES ('2889', '16', 'Mandirituba', 'PR');
-            INSERT INTO `cidades` VALUES ('2890', '25', 'Manduri', 'SP');
-            INSERT INTO `cidades` VALUES ('2891', '16', 'Manfrinópolis', 'PR');
-            INSERT INTO `cidades` VALUES ('2892', '13', 'Manga', 'MG');
-            INSERT INTO `cidades` VALUES ('2893', '19', 'Mangaratiba', 'RJ');
-            INSERT INTO `cidades` VALUES ('2894', '16', 'Mangueirinha', 'PR');
-            INSERT INTO `cidades` VALUES ('2895', '13', 'Manhuaçu', 'MG');
-            INSERT INTO `cidades` VALUES ('2896', '13', 'Manhumirim', 'MG');
-            INSERT INTO `cidades` VALUES ('2897', '4', 'Manicoré', 'AM');
-            INSERT INTO `cidades` VALUES ('2898', '18', 'Manoel Emídio', 'PI');
-            INSERT INTO `cidades` VALUES ('2899', '16', 'Manoel Ribas', 'PR');
-            INSERT INTO `cidades` VALUES ('2900', '1', 'Manoel Urbano', 'AC');
-            INSERT INTO `cidades` VALUES ('2901', '21', 'Manoel Viana', 'RS');
-            INSERT INTO `cidades` VALUES ('2902', '5', 'Manoel Vitorino', 'BA');
-            INSERT INTO `cidades` VALUES ('2903', '5', 'Mansidão', 'BA');
-            INSERT INTO `cidades` VALUES ('2904', '13', 'Mantena', 'MG');
-            INSERT INTO `cidades` VALUES ('2905', '8', 'Mantenópolis', 'ES');
-            INSERT INTO `cidades` VALUES ('2906', '21', 'Maquiné', 'RS');
-            INSERT INTO `cidades` VALUES ('2907', '13', 'Mar de Espanha', 'MG');
-            INSERT INTO `cidades` VALUES ('2908', '2', 'Mar Vermelho', 'AL');
-            INSERT INTO `cidades` VALUES ('2909', '9', 'Mara Rosa', 'GO');
-            INSERT INTO `cidades` VALUES ('2910', '4', 'Maraã', 'AM');
-            INSERT INTO `cidades` VALUES ('2911', '14', 'Marabá', 'PA');
-            INSERT INTO `cidades` VALUES ('2912', '25', 'Marabá Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('2913', '10', 'Maracaçumé', 'MA');
-            INSERT INTO `cidades` VALUES ('2914', '25', 'Maracaí', 'SP');
-            INSERT INTO `cidades` VALUES ('2915', '24', 'Maracajá', 'SC');
-            INSERT INTO `cidades` VALUES ('2916', '12', 'Maracaju', 'MS');
-            INSERT INTO `cidades` VALUES ('2917', '14', 'Maracanã', 'PA');
-            INSERT INTO `cidades` VALUES ('2918', '6', 'Maracanaú', 'CE');
-            INSERT INTO `cidades` VALUES ('2919', '5', 'Maracás', 'BA');
-            INSERT INTO `cidades` VALUES ('2920', '2', 'Maragogi', 'AL');
-            INSERT INTO `cidades` VALUES ('2921', '5', 'Maragogipe', 'BA');
-            INSERT INTO `cidades` VALUES ('2922', '17', 'Maraial', 'PE');
-            INSERT INTO `cidades` VALUES ('2923', '10', 'Marajá do Sena', 'MA');
-            INSERT INTO `cidades` VALUES ('2924', '6', 'Maranguape', 'CE');
-            INSERT INTO `cidades` VALUES ('2925', '10', 'Maranhãozinho', 'MA');
-            INSERT INTO `cidades` VALUES ('2926', '14', 'Marapanim', 'PA');
-            INSERT INTO `cidades` VALUES ('2927', '25', 'Marapoama', 'SP');
-            INSERT INTO `cidades` VALUES ('2928', '21', 'Maratá', 'RS');
-            INSERT INTO `cidades` VALUES ('2929', '8', 'Marataízes', 'ES');
-            INSERT INTO `cidades` VALUES ('2930', '21', 'Marau', 'RS');
-            INSERT INTO `cidades` VALUES ('2931', '5', 'Maraú', 'BA');
-            INSERT INTO `cidades` VALUES ('2932', '2', 'Maravilha', 'AL');
-            INSERT INTO `cidades` VALUES ('2933', '24', 'Maravilha', 'SC');
-            INSERT INTO `cidades` VALUES ('2934', '13', 'Maravilhas', 'MG');
-            INSERT INTO `cidades` VALUES ('2935', '15', 'Marcação', 'PB');
-            INSERT INTO `cidades` VALUES ('2936', '11', 'Marcelândia', 'MT');
-            INSERT INTO `cidades` VALUES ('2937', '21', 'Marcelino Ramos', 'RS');
-            INSERT INTO `cidades` VALUES ('2938', '20', 'Marcelino Vieira', 'RN');
-            INSERT INTO `cidades` VALUES ('2939', '5', 'Marcionílio Souza', 'BA');
-            INSERT INTO `cidades` VALUES ('2940', '6', 'Marco', 'CE');
-            INSERT INTO `cidades` VALUES ('2941', '18', 'Marcolândia', 'PI');
-            INSERT INTO `cidades` VALUES ('2942', '18', 'Marcos Parente', 'PI');
-            INSERT INTO `cidades` VALUES ('2943', '16', 'Marechal Cândido Rondon', 'PR');
-            INSERT INTO `cidades` VALUES ('2944', '2', 'Marechal Deodoro', 'AL');
-            INSERT INTO `cidades` VALUES ('2945', '8', 'Marechal Floriano', 'ES');
-            INSERT INTO `cidades` VALUES ('2946', '1', 'Marechal Thaumaturgo', 'AC');
-            INSERT INTO `cidades` VALUES ('2947', '24', 'Marema', 'SC');
-            INSERT INTO `cidades` VALUES ('2948', '15', 'Mari', 'PB');
-            INSERT INTO `cidades` VALUES ('2949', '13', 'Maria da Fé', 'MG');
-            INSERT INTO `cidades` VALUES ('2950', '16', 'Maria Helena', 'PR');
-            INSERT INTO `cidades` VALUES ('2951', '16', 'Marialva', 'PR');
-            INSERT INTO `cidades` VALUES ('2952', '13', 'Mariana', 'MG');
-            INSERT INTO `cidades` VALUES ('2953', '21', 'Mariana Pimentel', 'RS');
-            INSERT INTO `cidades` VALUES ('2954', '21', 'Mariano Moro', 'RS');
-            INSERT INTO `cidades` VALUES ('2955', '27', 'Marianópolis do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('2956', '25', 'Mariápolis', 'SP');
-            INSERT INTO `cidades` VALUES ('2957', '2', 'Maribondo', 'AL');
-            INSERT INTO `cidades` VALUES ('2958', '19', 'Maricá', 'RJ');
-            INSERT INTO `cidades` VALUES ('2959', '13', 'Marilac', 'MG');
-            INSERT INTO `cidades` VALUES ('2960', '8', 'Marilândia', 'ES');
-            INSERT INTO `cidades` VALUES ('2961', '16', 'Marilândia do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('2962', '16', 'Marilena', 'PR');
-            INSERT INTO `cidades` VALUES ('2963', '25', 'Marília', 'SP');
-            INSERT INTO `cidades` VALUES ('2964', '16', 'Mariluz', 'PR');
-            INSERT INTO `cidades` VALUES ('2965', '16', 'Maringá', 'PR');
-            INSERT INTO `cidades` VALUES ('2966', '25', 'Marinópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('2967', '13', 'Mário Campos', 'MG');
-            INSERT INTO `cidades` VALUES ('2968', '16', 'Mariópolis', 'PR');
-            INSERT INTO `cidades` VALUES ('2969', '16', 'Maripá', 'PR');
-            INSERT INTO `cidades` VALUES ('2970', '13', 'Maripá de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('2971', '14', 'Marituba', 'PA');
-            INSERT INTO `cidades` VALUES ('2972', '15', 'Marizópolis', 'PB');
-            INSERT INTO `cidades` VALUES ('2973', '13', 'Marliéria', 'MG');
-            INSERT INTO `cidades` VALUES ('2974', '16', 'Marmeleiro', 'PR');
-            INSERT INTO `cidades` VALUES ('2975', '13', 'Marmelópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('2976', '21', 'Marques de Souza', 'RS');
-            INSERT INTO `cidades` VALUES ('2977', '16', 'Marquinho', 'PR');
-            INSERT INTO `cidades` VALUES ('2978', '13', 'Martinho Campos', 'MG');
-            INSERT INTO `cidades` VALUES ('2979', '6', 'Martinópole', 'CE');
-            INSERT INTO `cidades` VALUES ('2980', '25', 'Martinópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('2981', '20', 'Martins', 'RN');
-            INSERT INTO `cidades` VALUES ('2982', '13', 'Martins Soares', 'MG');
-            INSERT INTO `cidades` VALUES ('2983', '26', 'Maruim', 'SE');
-            INSERT INTO `cidades` VALUES ('2984', '16', 'Marumbi', 'PR');
-            INSERT INTO `cidades` VALUES ('2985', '9', 'Marzagão', 'GO');
-            INSERT INTO `cidades` VALUES ('2986', '5', 'Mascote', 'BA');
-            INSERT INTO `cidades` VALUES ('2987', '6', 'Massapê', 'CE');
-            INSERT INTO `cidades` VALUES ('2988', '18', 'Massapê do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('2989', '15', 'Massaranduba', 'PB');
-            INSERT INTO `cidades` VALUES ('2990', '24', 'Massaranduba', 'SC');
-            INSERT INTO `cidades` VALUES ('2991', '21', 'Mata', 'RS');
-            INSERT INTO `cidades` VALUES ('2992', '5', 'Mata de São João', 'BA');
-            INSERT INTO `cidades` VALUES ('2993', '2', 'Mata Grande', 'AL');
-            INSERT INTO `cidades` VALUES ('2994', '10', 'Mata Roma', 'MA');
-            INSERT INTO `cidades` VALUES ('2995', '13', 'Mata Verde', 'MG');
-            INSERT INTO `cidades` VALUES ('2996', '25', 'Matão', 'SP');
-            INSERT INTO `cidades` VALUES ('2997', '15', 'Mataraca', 'PB');
-            INSERT INTO `cidades` VALUES ('2998', '27', 'Mateiros', 'TO');
-            INSERT INTO `cidades` VALUES ('2999', '16', 'Matelândia', 'PR');
-            INSERT INTO `cidades` VALUES ('3000', '13', 'Materlândia', 'MG');
-            INSERT INTO `cidades` VALUES ('3001', '13', 'Mateus Leme', 'MG');
-            INSERT INTO `cidades` VALUES ('3002', '13', 'Mathias Lobato', 'MG');
-            INSERT INTO `cidades` VALUES ('3003', '13', 'Matias Barbosa', 'MG');
-            INSERT INTO `cidades` VALUES ('3004', '13', 'Matias Cardoso', 'MG');
-            INSERT INTO `cidades` VALUES ('3005', '18', 'Matias Olímpio', 'PI');
-            INSERT INTO `cidades` VALUES ('3006', '5', 'Matina', 'BA');
-            INSERT INTO `cidades` VALUES ('3007', '10', 'Matinha', 'MA');
-            INSERT INTO `cidades` VALUES ('3008', '15', 'Matinhas', 'PB');
-            INSERT INTO `cidades` VALUES ('3009', '16', 'Matinhos', 'PR');
-            INSERT INTO `cidades` VALUES ('3010', '13', 'Matipó', 'MG');
-            INSERT INTO `cidades` VALUES ('3011', '21', 'Mato Castelhano', 'RS');
-            INSERT INTO `cidades` VALUES ('3012', '15', 'Mato Grosso', 'PB');
-            INSERT INTO `cidades` VALUES ('3013', '21', 'Mato Leitão', 'RS');
-            INSERT INTO `cidades` VALUES ('3014', '21', 'Mato Queimado', 'RS');
-            INSERT INTO `cidades` VALUES ('3015', '16', 'Mato Rico', 'PR');
-            INSERT INTO `cidades` VALUES ('3016', '13', 'Mato Verde', 'MG');
-            INSERT INTO `cidades` VALUES ('3017', '10', 'Matões', 'MA');
-            INSERT INTO `cidades` VALUES ('3018', '10', 'Matões do Norte', 'MA');
-            INSERT INTO `cidades` VALUES ('3019', '24', 'Matos Costa', 'SC');
-            INSERT INTO `cidades` VALUES ('3020', '13', 'Matozinhos', 'MG');
-            INSERT INTO `cidades` VALUES ('3021', '9', 'Matrinchã', 'GO');
-            INSERT INTO `cidades` VALUES ('3022', '2', 'Matriz de Camaragibe', 'AL');
-            INSERT INTO `cidades` VALUES ('3023', '11', 'Matupá', 'MT');
-            INSERT INTO `cidades` VALUES ('3024', '15', 'Maturéia', 'PB');
-            INSERT INTO `cidades` VALUES ('3025', '13', 'Matutina', 'MG');
-            INSERT INTO `cidades` VALUES ('3026', '25', 'Mauá', 'SP');
-            INSERT INTO `cidades` VALUES ('3027', '16', 'Mauá da Serra', 'PR');
-            INSERT INTO `cidades` VALUES ('3028', '4', 'Maués', 'AM');
-            INSERT INTO `cidades` VALUES ('3029', '9', 'Maurilândia', 'GO');
-            INSERT INTO `cidades` VALUES ('3030', '27', 'Maurilândia do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3031', '6', 'Mauriti', 'CE');
-            INSERT INTO `cidades` VALUES ('3032', '20', 'Maxaranguape', 'RN');
-            INSERT INTO `cidades` VALUES ('3033', '21', 'Maximiliano de Almeida', 'RS');
-            INSERT INTO `cidades` VALUES ('3034', '3', 'Mazagão', 'AP');
-            INSERT INTO `cidades` VALUES ('3035', '13', 'Medeiros', 'MG');
-            INSERT INTO `cidades` VALUES ('3036', '5', 'Medeiros Neto', 'BA');
-            INSERT INTO `cidades` VALUES ('3037', '16', 'Medianeira', 'PR');
-            INSERT INTO `cidades` VALUES ('3038', '14', 'Medicilândia', 'PA');
-            INSERT INTO `cidades` VALUES ('3039', '13', 'Medina', 'MG');
-            INSERT INTO `cidades` VALUES ('3040', '24', 'Meleiro', 'SC');
-            INSERT INTO `cidades` VALUES ('3041', '14', 'Melgaço', 'PA');
-            INSERT INTO `cidades` VALUES ('3042', '19', 'Mendes', 'RJ');
-            INSERT INTO `cidades` VALUES ('3043', '13', 'Mendes Pimentel', 'MG');
-            INSERT INTO `cidades` VALUES ('3044', '25', 'Mendonça', 'SP');
-            INSERT INTO `cidades` VALUES ('3045', '16', 'Mercedes', 'PR');
-            INSERT INTO `cidades` VALUES ('3046', '13', 'Mercês', 'MG');
-            INSERT INTO `cidades` VALUES ('3047', '25', 'Meridiano', 'SP');
-            INSERT INTO `cidades` VALUES ('3048', '6', 'Meruoca', 'CE');
-            INSERT INTO `cidades` VALUES ('3049', '25', 'Mesópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('3050', '13', 'Mesquita', 'MG');
-            INSERT INTO `cidades` VALUES ('3051', '19', 'Mesquita', 'RJ');
-            INSERT INTO `cidades` VALUES ('3052', '2', 'Messias', 'AL');
-            INSERT INTO `cidades` VALUES ('3053', '20', 'Messias Targino', 'RN');
-            INSERT INTO `cidades` VALUES ('3054', '18', 'Miguel Alves', 'PI');
-            INSERT INTO `cidades` VALUES ('3055', '5', 'Miguel Calmon', 'BA');
-            INSERT INTO `cidades` VALUES ('3056', '18', 'Miguel Leão', 'PI');
-            INSERT INTO `cidades` VALUES ('3057', '19', 'Miguel Pereira', 'RJ');
-            INSERT INTO `cidades` VALUES ('3058', '25', 'Miguelópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('3059', '5', 'Milagres', 'BA');
-            INSERT INTO `cidades` VALUES ('3060', '6', 'Milagres', 'CE');
-            INSERT INTO `cidades` VALUES ('3061', '10', 'Milagres do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('3062', '6', 'Milhã', 'CE');
-            INSERT INTO `cidades` VALUES ('3063', '18', 'Milton Brandão', 'PI');
-            INSERT INTO `cidades` VALUES ('3064', '9', 'Mimoso de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3065', '8', 'Mimoso do Sul', 'ES');
-            INSERT INTO `cidades` VALUES ('3066', '9', 'Minaçu', 'GO');
-            INSERT INTO `cidades` VALUES ('3067', '2', 'Minador do Negrão', 'AL');
-            INSERT INTO `cidades` VALUES ('3068', '21', 'Minas do Leão', 'RS');
-            INSERT INTO `cidades` VALUES ('3069', '13', 'Minas Novas', 'MG');
-            INSERT INTO `cidades` VALUES ('3070', '13', 'Minduri', 'MG');
-            INSERT INTO `cidades` VALUES ('3071', '9', 'Mineiros', 'GO');
-            INSERT INTO `cidades` VALUES ('3072', '25', 'Mineiros do Tietê', 'SP');
-            INSERT INTO `cidades` VALUES ('3073', '22', 'Ministro Andreazza', 'RO');
-            INSERT INTO `cidades` VALUES ('3074', '25', 'Mira Estrela', 'SP');
-            INSERT INTO `cidades` VALUES ('3075', '13', 'Mirabela', 'MG');
-            INSERT INTO `cidades` VALUES ('3076', '25', 'Miracatu', 'SP');
-            INSERT INTO `cidades` VALUES ('3077', '19', 'Miracema', 'RJ');
-            INSERT INTO `cidades` VALUES ('3078', '27', 'Miracema do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3079', '10', 'Mirador', 'MA');
-            INSERT INTO `cidades` VALUES ('3080', '16', 'Mirador', 'PR');
-            INSERT INTO `cidades` VALUES ('3081', '13', 'Miradouro', 'MG');
-            INSERT INTO `cidades` VALUES ('3082', '21', 'Miraguaí', 'RS');
-            INSERT INTO `cidades` VALUES ('3083', '13', 'Miraí', 'MG');
-            INSERT INTO `cidades` VALUES ('3084', '6', 'Miraíma', 'CE');
-            INSERT INTO `cidades` VALUES ('3085', '12', 'Miranda', 'MS');
-            INSERT INTO `cidades` VALUES ('3086', '10', 'Miranda do Norte', 'MA');
-            INSERT INTO `cidades` VALUES ('3087', '17', 'Mirandiba', 'PE');
-            INSERT INTO `cidades` VALUES ('3088', '25', 'Mirandópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('3089', '5', 'Mirangaba', 'BA');
-            INSERT INTO `cidades` VALUES ('3090', '27', 'Miranorte', 'TO');
-            INSERT INTO `cidades` VALUES ('3091', '5', 'Mirante', 'BA');
-            INSERT INTO `cidades` VALUES ('3092', '22', 'Mirante da Serra', 'RO');
-            INSERT INTO `cidades` VALUES ('3093', '25', 'Mirante do Paranapanema', 'SP');
-            INSERT INTO `cidades` VALUES ('3094', '16', 'Miraselva', 'PR');
-            INSERT INTO `cidades` VALUES ('3095', '25', 'Mirassol', 'SP');
-            INSERT INTO `cidades` VALUES ('3096', '11', 'Mirassol d\'Oeste', 'MT');
-            INSERT INTO `cidades` VALUES ('3097', '25', 'Mirassolândia', 'SP');
-            INSERT INTO `cidades` VALUES ('3098', '13', 'Miravânia', 'MG');
-            INSERT INTO `cidades` VALUES ('3099', '24', 'Mirim Doce', 'SC');
-            INSERT INTO `cidades` VALUES ('3100', '10', 'Mirinzal', 'MA');
-            INSERT INTO `cidades` VALUES ('3101', '16', 'Missal', 'PR');
-            INSERT INTO `cidades` VALUES ('3102', '6', 'Missão Velha', 'CE');
-            INSERT INTO `cidades` VALUES ('3103', '14', 'Mocajuba', 'PA');
-            INSERT INTO `cidades` VALUES ('3104', '25', 'Mococa', 'SP');
-            INSERT INTO `cidades` VALUES ('3105', '24', 'Modelo', 'SC');
-            INSERT INTO `cidades` VALUES ('3106', '13', 'Moeda', 'MG');
-            INSERT INTO `cidades` VALUES ('3107', '13', 'Moema', 'MG');
-            INSERT INTO `cidades` VALUES ('3108', '15', 'Mogeiro', 'PB');
-            INSERT INTO `cidades` VALUES ('3109', '25', 'Mogi das Cruzes', 'SP');
-            INSERT INTO `cidades` VALUES ('3110', '25', 'Mogi Guaçu', 'SP');
-            INSERT INTO `cidades` VALUES ('3111', '9', 'Moiporá', 'GO');
-            INSERT INTO `cidades` VALUES ('3112', '26', 'Moita Bonita', 'SE');
-            INSERT INTO `cidades` VALUES ('3113', '25', 'Moji Mirim', 'SP');
-            INSERT INTO `cidades` VALUES ('3114', '14', 'Moju', 'PA');
-            INSERT INTO `cidades` VALUES ('3115', '6', 'Mombaça', 'CE');
-            INSERT INTO `cidades` VALUES ('3116', '25', 'Mombuca', 'SP');
-            INSERT INTO `cidades` VALUES ('3117', '10', 'Monção', 'MA');
-            INSERT INTO `cidades` VALUES ('3118', '25', 'Monções', 'SP');
-            INSERT INTO `cidades` VALUES ('3119', '24', 'Mondaí', 'SC');
-            INSERT INTO `cidades` VALUES ('3120', '25', 'Mongaguá', 'SP');
-            INSERT INTO `cidades` VALUES ('3121', '13', 'Monjolos', 'MG');
-            INSERT INTO `cidades` VALUES ('3122', '18', 'Monsenhor Gil', 'PI');
-            INSERT INTO `cidades` VALUES ('3123', '18', 'Monsenhor Hipólito', 'PI');
-            INSERT INTO `cidades` VALUES ('3124', '13', 'Monsenhor Paulo', 'MG');
-            INSERT INTO `cidades` VALUES ('3125', '6', 'Monsenhor Tabosa', 'CE');
-            INSERT INTO `cidades` VALUES ('3126', '15', 'Montadas', 'PB');
-            INSERT INTO `cidades` VALUES ('3127', '13', 'Montalvânia', 'MG');
-            INSERT INTO `cidades` VALUES ('3128', '8', 'Montanha', 'ES');
-            INSERT INTO `cidades` VALUES ('3129', '20', 'Montanhas', 'RN');
-            INSERT INTO `cidades` VALUES ('3130', '21', 'Montauri', 'RS');
-            INSERT INTO `cidades` VALUES ('3131', '14', 'Monte Alegre', 'PA');
-            INSERT INTO `cidades` VALUES ('3132', '20', 'Monte Alegre', 'RN');
-            INSERT INTO `cidades` VALUES ('3133', '9', 'Monte Alegre de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3134', '13', 'Monte Alegre de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3135', '26', 'Monte Alegre de Sergipe', 'SE');
-            INSERT INTO `cidades` VALUES ('3136', '18', 'Monte Alegre do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3137', '25', 'Monte Alegre do Sul', 'SP');
-            INSERT INTO `cidades` VALUES ('3138', '21', 'Monte Alegre dos Campos', 'RS');
-            INSERT INTO `cidades` VALUES ('3139', '25', 'Monte Alto', 'SP');
-            INSERT INTO `cidades` VALUES ('3140', '25', 'Monte Aprazível', 'SP');
-            INSERT INTO `cidades` VALUES ('3141', '13', 'Monte Azul', 'MG');
-            INSERT INTO `cidades` VALUES ('3142', '25', 'Monte Azul Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3143', '13', 'Monte Belo', 'MG');
-            INSERT INTO `cidades` VALUES ('3144', '21', 'Monte Belo do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('3145', '24', 'Monte Carlo', 'SC');
-            INSERT INTO `cidades` VALUES ('3146', '13', 'Monte Carmelo', 'MG');
-            INSERT INTO `cidades` VALUES ('3147', '24', 'Monte Castelo', 'SC');
-            INSERT INTO `cidades` VALUES ('3148', '25', 'Monte Castelo', 'SP');
-            INSERT INTO `cidades` VALUES ('3149', '20', 'Monte das Gameleiras', 'RN');
-            INSERT INTO `cidades` VALUES ('3150', '27', 'Monte do Carmo', 'TO');
-            INSERT INTO `cidades` VALUES ('3151', '13', 'Monte Formoso', 'MG');
-            INSERT INTO `cidades` VALUES ('3152', '15', 'Monte Horebe', 'PB');
-            INSERT INTO `cidades` VALUES ('3153', '25', 'Monte Mor', 'SP');
-            INSERT INTO `cidades` VALUES ('3154', '22', 'Monte Negro', 'RO');
-            INSERT INTO `cidades` VALUES ('3155', '5', 'Monte Santo', 'BA');
-            INSERT INTO `cidades` VALUES ('3156', '13', 'Monte Santo de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3157', '27', 'Monte Santo do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3158', '13', 'Monte Sião', 'MG');
-            INSERT INTO `cidades` VALUES ('3159', '15', 'Monteiro', 'PB');
-            INSERT INTO `cidades` VALUES ('3160', '25', 'Monteiro Lobato', 'SP');
-            INSERT INTO `cidades` VALUES ('3161', '2', 'Monteirópolis', 'AL');
-            INSERT INTO `cidades` VALUES ('3162', '21', 'Montenegro', 'RS');
-            INSERT INTO `cidades` VALUES ('3163', '10', 'Montes Altos', 'MA');
-            INSERT INTO `cidades` VALUES ('3164', '13', 'Montes Claros', 'MG');
-            INSERT INTO `cidades` VALUES ('3165', '9', 'Montes Claros de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3166', '13', 'Montezuma', 'MG');
-            INSERT INTO `cidades` VALUES ('3167', '9', 'Montividiu', 'GO');
-            INSERT INTO `cidades` VALUES ('3168', '9', 'Montividiu do Norte', 'GO');
-            INSERT INTO `cidades` VALUES ('3169', '6', 'Morada Nova', 'CE');
-            INSERT INTO `cidades` VALUES ('3170', '13', 'Morada Nova de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3171', '6', 'Moraújo', 'CE');
-            INSERT INTO `cidades` VALUES ('3172', '17', 'Moreilândia', 'PE');
-            INSERT INTO `cidades` VALUES ('3173', '16', 'Moreira Sales', 'PR');
-            INSERT INTO `cidades` VALUES ('3174', '17', 'Moreno', 'PE');
-            INSERT INTO `cidades` VALUES ('3175', '21', 'Mormaço', 'RS');
-            INSERT INTO `cidades` VALUES ('3176', '5', 'Morpará', 'BA');
-            INSERT INTO `cidades` VALUES ('3177', '16', 'Morretes', 'PR');
-            INSERT INTO `cidades` VALUES ('3178', '6', 'Morrinhos', 'CE');
-            INSERT INTO `cidades` VALUES ('3179', '9', 'Morrinhos', 'GO');
-            INSERT INTO `cidades` VALUES ('3180', '21', 'Morrinhos do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('3181', '25', 'Morro Agudo', 'SP');
-            INSERT INTO `cidades` VALUES ('3182', '9', 'Morro Agudo de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3183', '18', 'Morro Cabeça no Tempo', 'PI');
-            INSERT INTO `cidades` VALUES ('3184', '24', 'Morro da Fumaça', 'SC');
-            INSERT INTO `cidades` VALUES ('3185', '13', 'Morro da Garça', 'MG');
-            INSERT INTO `cidades` VALUES ('3186', '5', 'Morro do Chapéu', 'BA');
-            INSERT INTO `cidades` VALUES ('3187', '18', 'Morro do Chapéu do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3188', '13', 'Morro do Pilar', 'MG');
-            INSERT INTO `cidades` VALUES ('3189', '24', 'Morro Grande', 'SC');
-            INSERT INTO `cidades` VALUES ('3190', '21', 'Morro Redondo', 'RS');
-            INSERT INTO `cidades` VALUES ('3191', '21', 'Morro Reuter', 'RS');
-            INSERT INTO `cidades` VALUES ('3192', '10', 'Morros', 'MA');
-            INSERT INTO `cidades` VALUES ('3193', '5', 'Mortugaba', 'BA');
-            INSERT INTO `cidades` VALUES ('3194', '25', 'Morungaba', 'SP');
-            INSERT INTO `cidades` VALUES ('3195', '9', 'Mossâmedes', 'GO');
-            INSERT INTO `cidades` VALUES ('3196', '20', 'Mossoró', 'RN');
-            INSERT INTO `cidades` VALUES ('3197', '21', 'Mostardas', 'RS');
-            INSERT INTO `cidades` VALUES ('3198', '25', 'Motuca', 'SP');
-            INSERT INTO `cidades` VALUES ('3199', '9', 'Mozarlândia', 'GO');
-            INSERT INTO `cidades` VALUES ('3200', '14', 'Muaná', 'PA');
+            ['cidade_id' => 2851, 'estado_id' => 13, 'cidade_nome' => 'Madre de Deus de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2852, 'estado_id' => 15, 'cidade_nome' => 'Mãe d\'Água', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2853, 'estado_id' => 14, 'cidade_nome' => 'Mãe do Rio', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2854, 'estado_id' => 5, 'cidade_nome' => 'Maetinga', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2855, 'estado_id' => 24, 'cidade_nome' => 'Mafra', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2856, 'estado_id' => 14, 'cidade_nome' => 'Magalhães Barata', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2857, 'estado_id' => 10, 'cidade_nome' => 'Magalhães de Almeida', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 2858, 'estado_id' => 25, 'cidade_nome' => 'Magda', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2859, 'estado_id' => 19, 'cidade_nome' => 'Magé', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 2860, 'estado_id' => 5, 'cidade_nome' => 'Maiquinique', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2861, 'estado_id' => 5, 'cidade_nome' => 'Mairi', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2862, 'estado_id' => 25, 'cidade_nome' => 'Mairinque', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2863, 'estado_id' => 25, 'cidade_nome' => 'Mairiporã', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2864, 'estado_id' => 9, 'cidade_nome' => 'Mairipotaba', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2865, 'estado_id' => 24, 'cidade_nome' => 'Major Gercino', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2866, 'estado_id' => 2, 'cidade_nome' => 'Major Isidoro', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2867, 'estado_id' => 20, 'cidade_nome' => 'Major Sales', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 2868, 'estado_id' => 24, 'cidade_nome' => 'Major Vieira', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2869, 'estado_id' => 13, 'cidade_nome' => 'Malacacheta', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2870, 'estado_id' => 5, 'cidade_nome' => 'Malhada', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2871, 'estado_id' => 5, 'cidade_nome' => 'Malhada de Pedras', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2872, 'estado_id' => 26, 'cidade_nome' => 'Malhada dos Bois', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 2873, 'estado_id' => 26, 'cidade_nome' => 'Malhador', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 2874, 'estado_id' => 16, 'cidade_nome' => 'Mallet', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2875, 'estado_id' => 15, 'cidade_nome' => 'Malta', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2876, 'estado_id' => 15, 'cidade_nome' => 'Mamanguape', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2877, 'estado_id' => 9, 'cidade_nome' => 'Mambaí', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2878, 'estado_id' => 16, 'cidade_nome' => 'Mamborê', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2879, 'estado_id' => 13, 'cidade_nome' => 'Mamonas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2880, 'estado_id' => 21, 'cidade_nome' => 'Mampituba', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2881, 'estado_id' => 4, 'cidade_nome' => 'Manacapuru', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2882, 'estado_id' => 15, 'cidade_nome' => 'Manaíra', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2883, 'estado_id' => 4, 'cidade_nome' => 'Manaquiri', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2884, 'estado_id' => 17, 'cidade_nome' => 'Manari', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 2885, 'estado_id' => 4, 'cidade_nome' => 'Manaus', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2886, 'estado_id' => 1, 'cidade_nome' => 'Mâncio Lima', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 2887, 'estado_id' => 16, 'cidade_nome' => 'Mandaguaçu', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2888, 'estado_id' => 16, 'cidade_nome' => 'Mandaguari', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2889, 'estado_id' => 16, 'cidade_nome' => 'Mandirituba', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2890, 'estado_id' => 25, 'cidade_nome' => 'Manduri', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2891, 'estado_id' => 16, 'cidade_nome' => 'Manfrinópolis', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2892, 'estado_id' => 13, 'cidade_nome' => 'Manga', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2893, 'estado_id' => 19, 'cidade_nome' => 'Mangaratiba', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 2894, 'estado_id' => 16, 'cidade_nome' => 'Mangueirinha', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2895, 'estado_id' => 13, 'cidade_nome' => 'Manhuaçu', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2896, 'estado_id' => 13, 'cidade_nome' => 'Manhumirim', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2897, 'estado_id' => 4, 'cidade_nome' => 'Manicoré', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2898, 'estado_id' => 18, 'cidade_nome' => 'Manoel Emídio', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2899, 'estado_id' => 16, 'cidade_nome' => 'Manoel Ribas', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2900, 'estado_id' => 1, 'cidade_nome' => 'Manoel Urbano', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 2901, 'estado_id' => 21, 'cidade_nome' => 'Manoel Viana', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2902, 'estado_id' => 5, 'cidade_nome' => 'Manoel Vitorino', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2903, 'estado_id' => 5, 'cidade_nome' => 'Mansidão', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2904, 'estado_id' => 13, 'cidade_nome' => 'Mantena', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2905, 'estado_id' => 8, 'cidade_nome' => 'Mantenópolis', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 2906, 'estado_id' => 21, 'cidade_nome' => 'Maquiné', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2907, 'estado_id' => 13, 'cidade_nome' => 'Mar de Espanha', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2908, 'estado_id' => 2, 'cidade_nome' => 'Mar Vermelho', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2909, 'estado_id' => 9, 'cidade_nome' => 'Mara Rosa', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2910, 'estado_id' => 4, 'cidade_nome' => 'Maraã', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 2911, 'estado_id' => 14, 'cidade_nome' => 'Marabá', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2912, 'estado_id' => 25, 'cidade_nome' => 'Marabá Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2913, 'estado_id' => 10, 'cidade_nome' => 'Maracaçumé', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 2914, 'estado_id' => 25, 'cidade_nome' => 'Maracaí', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2915, 'estado_id' => 24, 'cidade_nome' => 'Maracajá', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2916, 'estado_id' => 12, 'cidade_nome' => 'Maracaju', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 2917, 'estado_id' => 14, 'cidade_nome' => 'Maracanã', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2918, 'estado_id' => 6, 'cidade_nome' => 'Maracanaú', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2919, 'estado_id' => 5, 'cidade_nome' => 'Maracás', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2920, 'estado_id' => 2, 'cidade_nome' => 'Maragogi', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2921, 'estado_id' => 5, 'cidade_nome' => 'Maragogipe', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2922, 'estado_id' => 17, 'cidade_nome' => 'Maraial', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 2923, 'estado_id' => 10, 'cidade_nome' => 'Marajá do Sena', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 2924, 'estado_id' => 6, 'cidade_nome' => 'Maranguape', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2925, 'estado_id' => 10, 'cidade_nome' => 'Maranhãozinho', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 2926, 'estado_id' => 14, 'cidade_nome' => 'Marapanim', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2927, 'estado_id' => 25, 'cidade_nome' => 'Marapoama', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2928, 'estado_id' => 21, 'cidade_nome' => 'Maratá', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2929, 'estado_id' => 8, 'cidade_nome' => 'Marataízes', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 2930, 'estado_id' => 21, 'cidade_nome' => 'Marau', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2931, 'estado_id' => 5, 'cidade_nome' => 'Maraú', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2932, 'estado_id' => 2, 'cidade_nome' => 'Maravilha', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2933, 'estado_id' => 24, 'cidade_nome' => 'Maravilha', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2934, 'estado_id' => 13, 'cidade_nome' => 'Maravilhas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2935, 'estado_id' => 15, 'cidade_nome' => 'Marcação', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2936, 'estado_id' => 11, 'cidade_nome' => 'Marcelândia', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 2937, 'estado_id' => 21, 'cidade_nome' => 'Marcelino Ramos', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2938, 'estado_id' => 20, 'cidade_nome' => 'Marcelino Vieira', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 2939, 'estado_id' => 5, 'cidade_nome' => 'Marcionílio Souza', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2940, 'estado_id' => 6, 'cidade_nome' => 'Marco', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2941, 'estado_id' => 18, 'cidade_nome' => 'Marcolândia', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2942, 'estado_id' => 18, 'cidade_nome' => 'Marcos Parente', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2943, 'estado_id' => 16, 'cidade_nome' => 'Marechal Cândido Rondon', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2944, 'estado_id' => 2, 'cidade_nome' => 'Marechal Deodoro', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2945, 'estado_id' => 8, 'cidade_nome' => 'Marechal Floriano', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 2946, 'estado_id' => 1, 'cidade_nome' => 'Marechal Thaumaturgo', 'cidade_uf' => 'AC'],
+            ['cidade_id' => 2947, 'estado_id' => 24, 'cidade_nome' => 'Marema', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2948, 'estado_id' => 15, 'cidade_nome' => 'Mari', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2949, 'estado_id' => 13, 'cidade_nome' => 'Maria da Fé', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2950, 'estado_id' => 16, 'cidade_nome' => 'Maria Helena', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2951, 'estado_id' => 16, 'cidade_nome' => 'Marialva', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2952, 'estado_id' => 13, 'cidade_nome' => 'Mariana', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2953, 'estado_id' => 21, 'cidade_nome' => 'Mariana Pimentel', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2954, 'estado_id' => 21, 'cidade_nome' => 'Mariano Moro', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2955, 'estado_id' => 27, 'cidade_nome' => 'Marianópolis do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 2956, 'estado_id' => 25, 'cidade_nome' => 'Mariápolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2957, 'estado_id' => 2, 'cidade_nome' => 'Maribondo', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2958, 'estado_id' => 19, 'cidade_nome' => 'Maricá', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 2959, 'estado_id' => 13, 'cidade_nome' => 'Marilac', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2960, 'estado_id' => 8, 'cidade_nome' => 'Marilândia', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 2961, 'estado_id' => 16, 'cidade_nome' => 'Marilândia do Sul', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2962, 'estado_id' => 16, 'cidade_nome' => 'Marilena', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2963, 'estado_id' => 25, 'cidade_nome' => 'Marília', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2964, 'estado_id' => 16, 'cidade_nome' => 'Mariluz', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2965, 'estado_id' => 16, 'cidade_nome' => 'Maringá', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2966, 'estado_id' => 25, 'cidade_nome' => 'Marinópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2967, 'estado_id' => 13, 'cidade_nome' => 'Mário Campos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2968, 'estado_id' => 16, 'cidade_nome' => 'Mariópolis', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2969, 'estado_id' => 16, 'cidade_nome' => 'Maripá', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2970, 'estado_id' => 13, 'cidade_nome' => 'Maripá de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2971, 'estado_id' => 14, 'cidade_nome' => 'Marituba', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 2972, 'estado_id' => 15, 'cidade_nome' => 'Marizópolis', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2973, 'estado_id' => 13, 'cidade_nome' => 'Marliéria', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2974, 'estado_id' => 16, 'cidade_nome' => 'Marmeleiro', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2975, 'estado_id' => 13, 'cidade_nome' => 'Marmelópolis', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2976, 'estado_id' => 21, 'cidade_nome' => 'Marques de Souza', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2977, 'estado_id' => 16, 'cidade_nome' => 'Marquinho', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2978, 'estado_id' => 13, 'cidade_nome' => 'Martinho Campos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2979, 'estado_id' => 6, 'cidade_nome' => 'Martinópole', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2980, 'estado_id' => 25, 'cidade_nome' => 'Martinópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2981, 'estado_id' => 20, 'cidade_nome' => 'Martins', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 2982, 'estado_id' => 13, 'cidade_nome' => 'Martins Soares', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2983, 'estado_id' => 26, 'cidade_nome' => 'Maruim', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 2984, 'estado_id' => 16, 'cidade_nome' => 'Marumbi', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 2985, 'estado_id' => 9, 'cidade_nome' => 'Marzagão', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 2986, 'estado_id' => 5, 'cidade_nome' => 'Mascote', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2987, 'estado_id' => 6, 'cidade_nome' => 'Massapê', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 2988, 'estado_id' => 18, 'cidade_nome' => 'Massapê do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 2989, 'estado_id' => 15, 'cidade_nome' => 'Massaranduba', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2990, 'estado_id' => 24, 'cidade_nome' => 'Massaranduba', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 2991, 'estado_id' => 21, 'cidade_nome' => 'Mata', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 2992, 'estado_id' => 5, 'cidade_nome' => 'Mata de São João', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 2993, 'estado_id' => 2, 'cidade_nome' => 'Mata Grande', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 2994, 'estado_id' => 10, 'cidade_nome' => 'Mata Roma', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 2995, 'estado_id' => 13, 'cidade_nome' => 'Mata Verde', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 2996, 'estado_id' => 25, 'cidade_nome' => 'Matão', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 2997, 'estado_id' => 15, 'cidade_nome' => 'Mataraca', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 2998, 'estado_id' => 27, 'cidade_nome' => 'Mateiros', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 2999, 'estado_id' => 16, 'cidade_nome' => 'Matelândia', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3000, 'estado_id' => 13, 'cidade_nome' => 'Materlândia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3001, 'estado_id' => 13, 'cidade_nome' => 'Mateus Leme', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3002, 'estado_id' => 13, 'cidade_nome' => 'Mathias Lobato', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3003, 'estado_id' => 13, 'cidade_nome' => 'Matias Barbosa', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3004, 'estado_id' => 13, 'cidade_nome' => 'Matias Cardoso', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3005, 'estado_id' => 18, 'cidade_nome' => 'Matias Olímpio', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3006, 'estado_id' => 5, 'cidade_nome' => 'Matina', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3007, 'estado_id' => 10, 'cidade_nome' => 'Matinha', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3008, 'estado_id' => 15, 'cidade_nome' => 'Matinhas', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3009, 'estado_id' => 16, 'cidade_nome' => 'Matinhos', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3010, 'estado_id' => 13, 'cidade_nome' => 'Matipó', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3011, 'estado_id' => 21, 'cidade_nome' => 'Mato Castelhano', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3012, 'estado_id' => 15, 'cidade_nome' => 'Mato Grosso', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3013, 'estado_id' => 21, 'cidade_nome' => 'Mato Leitão', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3014, 'estado_id' => 21, 'cidade_nome' => 'Mato Queimado', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3015, 'estado_id' => 16, 'cidade_nome' => 'Mato Rico', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3016, 'estado_id' => 13, 'cidade_nome' => 'Mato Verde', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3017, 'estado_id' => 10, 'cidade_nome' => 'Matões', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3018, 'estado_id' => 10, 'cidade_nome' => 'Matões do Norte', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3019, 'estado_id' => 24, 'cidade_nome' => 'Matos Costa', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3020, 'estado_id' => 13, 'cidade_nome' => 'Matozinhos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3021, 'estado_id' => 9, 'cidade_nome' => 'Matrinchã', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3022, 'estado_id' => 2, 'cidade_nome' => 'Matriz de Camaragibe', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 3023, 'estado_id' => 11, 'cidade_nome' => 'Matupá', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 3024, 'estado_id' => 15, 'cidade_nome' => 'Maturéia', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3025, 'estado_id' => 13, 'cidade_nome' => 'Matutina', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3026, 'estado_id' => 25, 'cidade_nome' => 'Mauá', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3027, 'estado_id' => 16, 'cidade_nome' => 'Mauá da Serra', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3028, 'estado_id' => 4, 'cidade_nome' => 'Maués', 'cidade_uf' => 'AM'],
+            ['cidade_id' => 3029, 'estado_id' => 9, 'cidade_nome' => 'Maurilândia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3030, 'estado_id' => 27, 'cidade_nome' => 'Maurilândia do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 3031, 'estado_id' => 6, 'cidade_nome' => 'Mauriti', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3032, 'estado_id' => 20, 'cidade_nome' => 'Maxaranguape', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 3033, 'estado_id' => 21, 'cidade_nome' => 'Maximiliano de Almeida', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3034, 'estado_id' => 3, 'cidade_nome' => 'Mazagão', 'cidade_uf' => 'AP'],
+            ['cidade_id' => 3035, 'estado_id' => 13, 'cidade_nome' => 'Medeiros', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3036, 'estado_id' => 5, 'cidade_nome' => 'Medeiros Neto', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3037, 'estado_id' => 16, 'cidade_nome' => 'Medianeira', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3038, 'estado_id' => 14, 'cidade_nome' => 'Medicilândia', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 3039, 'estado_id' => 13, 'cidade_nome' => 'Medina', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3040, 'estado_id' => 24, 'cidade_nome' => 'Meleiro', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3041, 'estado_id' => 14, 'cidade_nome' => 'Melgaço', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 3042, 'estado_id' => 19, 'cidade_nome' => 'Mendes', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 3043, 'estado_id' => 13, 'cidade_nome' => 'Mendes Pimentel', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3044, 'estado_id' => 25, 'cidade_nome' => 'Mendonça', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3045, 'estado_id' => 16, 'cidade_nome' => 'Mercedes', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3046, 'estado_id' => 13, 'cidade_nome' => 'Mercês', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3047, 'estado_id' => 25, 'cidade_nome' => 'Meridiano', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3048, 'estado_id' => 6, 'cidade_nome' => 'Meruoca', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3049, 'estado_id' => 25, 'cidade_nome' => 'Mesópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3050, 'estado_id' => 13, 'cidade_nome' => 'Mesquita', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3051, 'estado_id' => 19, 'cidade_nome' => 'Mesquita', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 3052, 'estado_id' => 2, 'cidade_nome' => 'Messias', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 3053, 'estado_id' => 20, 'cidade_nome' => 'Messias Targino', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 3054, 'estado_id' => 18, 'cidade_nome' => 'Miguel Alves', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3055, 'estado_id' => 5, 'cidade_nome' => 'Miguel Calmon', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3056, 'estado_id' => 18, 'cidade_nome' => 'Miguel Leão', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3057, 'estado_id' => 19, 'cidade_nome' => 'Miguel Pereira', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 3058, 'estado_id' => 25, 'cidade_nome' => 'Miguelópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3059, 'estado_id' => 5, 'cidade_nome' => 'Milagres', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3060, 'estado_id' => 6, 'cidade_nome' => 'Milagres', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3061, 'estado_id' => 10, 'cidade_nome' => 'Milagres do Maranhão', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3062, 'estado_id' => 6, 'cidade_nome' => 'Milhã', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3063, 'estado_id' => 18, 'cidade_nome' => 'Milton Brandão', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3064, 'estado_id' => 9, 'cidade_nome' => 'Mimoso de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3065, 'estado_id' => 8, 'cidade_nome' => 'Mimoso do Sul', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 3066, 'estado_id' => 9, 'cidade_nome' => 'Minaçu', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3067, 'estado_id' => 2, 'cidade_nome' => 'Minador do Negrão', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 3068, 'estado_id' => 21, 'cidade_nome' => 'Minas do Leão', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3069, 'estado_id' => 13, 'cidade_nome' => 'Minas Novas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3070, 'estado_id' => 13, 'cidade_nome' => 'Minduri', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3071, 'estado_id' => 9, 'cidade_nome' => 'Mineiros', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3072, 'estado_id' => 25, 'cidade_nome' => 'Mineiros do Tietê', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3073, 'estado_id' => 22, 'cidade_nome' => 'Ministro Andreazza', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 3074, 'estado_id' => 25, 'cidade_nome' => 'Mira Estrela', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3075, 'estado_id' => 13, 'cidade_nome' => 'Mirabela', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3076, 'estado_id' => 25, 'cidade_nome' => 'Miracatu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3077, 'estado_id' => 19, 'cidade_nome' => 'Miracema', 'cidade_uf' => 'RJ'],
+            ['cidade_id' => 3078, 'estado_id' => 27, 'cidade_nome' => 'Miracema do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 3079, 'estado_id' => 10, 'cidade_nome' => 'Mirador', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3080, 'estado_id' => 16, 'cidade_nome' => 'Mirador', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3081, 'estado_id' => 13, 'cidade_nome' => 'Miradouro', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3082, 'estado_id' => 21, 'cidade_nome' => 'Miraguaí', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3083, 'estado_id' => 13, 'cidade_nome' => 'Miraí', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3084, 'estado_id' => 6, 'cidade_nome' => 'Miraíma', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3085, 'estado_id' => 12, 'cidade_nome' => 'Miranda', 'cidade_uf' => 'MS'],
+            ['cidade_id' => 3086, 'estado_id' => 10, 'cidade_nome' => 'Miranda do Norte', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3087, 'estado_id' => 17, 'cidade_nome' => 'Mirandiba', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 3088, 'estado_id' => 25, 'cidade_nome' => 'Mirandópolis', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3089, 'estado_id' => 5, 'cidade_nome' => 'Mirangaba', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3090, 'estado_id' => 27, 'cidade_nome' => 'Miranorte', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 3091, 'estado_id' => 5, 'cidade_nome' => 'Mirante', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3092, 'estado_id' => 22, 'cidade_nome' => 'Mirante da Serra', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 3093, 'estado_id' => 25, 'cidade_nome' => 'Mirante do Paranapanema', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3094, 'estado_id' => 16, 'cidade_nome' => 'Miraselva', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3095, 'estado_id' => 25, 'cidade_nome' => 'Mirassol', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3096, 'estado_id' => 11, 'cidade_nome' => 'Mirassol d\'Oeste', 'cidade_uf' => 'MT'],
+            ['cidade_id' => 3097, 'estado_id' => 25, 'cidade_nome' => 'Mirassolândia', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3098, 'estado_id' => 13, 'cidade_nome' => 'Miravânia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3099, 'estado_id' => 24, 'cidade_nome' => 'Mirim Doce', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3100, 'estado_id' => 10, 'cidade_nome' => 'Mirinzal', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3101, 'estado_id' => 16, 'cidade_nome' => 'Missal', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3102, 'estado_id' => 6, 'cidade_nome' => 'Missão Velha', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3103, 'estado_id' => 14, 'cidade_nome' => 'Mocajuba', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 3104, 'estado_id' => 25, 'cidade_nome' => 'Mococa', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3105, 'estado_id' => 24, 'cidade_nome' => 'Modelo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3106, 'estado_id' => 13, 'cidade_nome' => 'Moeda', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3107, 'estado_id' => 13, 'cidade_nome' => 'Moema', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3108, 'estado_id' => 15, 'cidade_nome' => 'Mogeiro', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3109, 'estado_id' => 25, 'cidade_nome' => 'Mogi das Cruzes', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3110, 'estado_id' => 25, 'cidade_nome' => 'Mogi Guaçu', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3111, 'estado_id' => 9, 'cidade_nome' => 'Moiporá', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3112, 'estado_id' => 26, 'cidade_nome' => 'Moita Bonita', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 3113, 'estado_id' => 25, 'cidade_nome' => 'Moji Mirim', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3114, 'estado_id' => 14, 'cidade_nome' => 'Moju', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 3115, 'estado_id' => 6, 'cidade_nome' => 'Mombaça', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3116, 'estado_id' => 25, 'cidade_nome' => 'Mombuca', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3117, 'estado_id' => 10, 'cidade_nome' => 'Monção', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3118, 'estado_id' => 25, 'cidade_nome' => 'Monções', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3119, 'estado_id' => 24, 'cidade_nome' => 'Mondaí', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3120, 'estado_id' => 25, 'cidade_nome' => 'Mongaguá', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3121, 'estado_id' => 13, 'cidade_nome' => 'Monjolos', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3122, 'estado_id' => 18, 'cidade_nome' => 'Monsenhor Gil', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3123, 'estado_id' => 18, 'cidade_nome' => 'Monsenhor Hipólito', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3124, 'estado_id' => 13, 'cidade_nome' => 'Monsenhor Paulo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3125, 'estado_id' => 6, 'cidade_nome' => 'Monsenhor Tabosa', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3126, 'estado_id' => 15, 'cidade_nome' => 'Montadas', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3127, 'estado_id' => 13, 'cidade_nome' => 'Montalvânia', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3128, 'estado_id' => 8, 'cidade_nome' => 'Montanha', 'cidade_uf' => 'ES'],
+            ['cidade_id' => 3129, 'estado_id' => 20, 'cidade_nome' => 'Montanhas', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 3130, 'estado_id' => 21, 'cidade_nome' => 'Montauri', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3131, 'estado_id' => 14, 'cidade_nome' => 'Monte Alegre', 'cidade_uf' => 'PA'],
+            ['cidade_id' => 3132, 'estado_id' => 20, 'cidade_nome' => 'Monte Alegre', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 3133, 'estado_id' => 9, 'cidade_nome' => 'Monte Alegre de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3134, 'estado_id' => 13, 'cidade_nome' => 'Monte Alegre de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3135, 'estado_id' => 26, 'cidade_nome' => 'Monte Alegre de Sergipe', 'cidade_uf' => 'SE'],
+            ['cidade_id' => 3136, 'estado_id' => 18, 'cidade_nome' => 'Monte Alegre do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3137, 'estado_id' => 25, 'cidade_nome' => 'Monte Alegre do Sul', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3138, 'estado_id' => 21, 'cidade_nome' => 'Monte Alegre dos Campos', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3139, 'estado_id' => 25, 'cidade_nome' => 'Monte Alto', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3140, 'estado_id' => 25, 'cidade_nome' => 'Monte Aprazível', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3141, 'estado_id' => 13, 'cidade_nome' => 'Monte Azul', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3142, 'estado_id' => 25, 'cidade_nome' => 'Monte Azul Paulista', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3143, 'estado_id' => 13, 'cidade_nome' => 'Monte Belo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3144, 'estado_id' => 21, 'cidade_nome' => 'Monte Belo do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3145, 'estado_id' => 24, 'cidade_nome' => 'Monte Carlo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3146, 'estado_id' => 13, 'cidade_nome' => 'Monte Carmelo', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3147, 'estado_id' => 24, 'cidade_nome' => 'Monte Castelo', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3148, 'estado_id' => 25, 'cidade_nome' => 'Monte Castelo', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3149, 'estado_id' => 20, 'cidade_nome' => 'Monte das Gameleiras', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 3150, 'estado_id' => 27, 'cidade_nome' => 'Monte do Carmo', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 3151, 'estado_id' => 13, 'cidade_nome' => 'Monte Formoso', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3152, 'estado_id' => 15, 'cidade_nome' => 'Monte Horebe', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3153, 'estado_id' => 25, 'cidade_nome' => 'Monte Mor', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3154, 'estado_id' => 22, 'cidade_nome' => 'Monte Negro', 'cidade_uf' => 'RO'],
+            ['cidade_id' => 3155, 'estado_id' => 5, 'cidade_nome' => 'Monte Santo', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3156, 'estado_id' => 13, 'cidade_nome' => 'Monte Santo de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3157, 'estado_id' => 27, 'cidade_nome' => 'Monte Santo do Tocantins', 'cidade_uf' => 'TO'],
+            ['cidade_id' => 3158, 'estado_id' => 13, 'cidade_nome' => 'Monte Sião', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3159, 'estado_id' => 15, 'cidade_nome' => 'Monteiro', 'cidade_uf' => 'PB'],
+            ['cidade_id' => 3160, 'estado_id' => 25, 'cidade_nome' => 'Monteiro Lobato', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3161, 'estado_id' => 2, 'cidade_nome' => 'Monteirópolis', 'cidade_uf' => 'AL'],
+            ['cidade_id' => 3162, 'estado_id' => 21, 'cidade_nome' => 'Montenegro', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3163, 'estado_id' => 10, 'cidade_nome' => 'Montes Altos', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3164, 'estado_id' => 13, 'cidade_nome' => 'Montes Claros', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3165, 'estado_id' => 9, 'cidade_nome' => 'Montes Claros de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3166, 'estado_id' => 13, 'cidade_nome' => 'Montezuma', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3167, 'estado_id' => 9, 'cidade_nome' => 'Montividiu', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3168, 'estado_id' => 9, 'cidade_nome' => 'Montividiu do Norte', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3169, 'estado_id' => 6, 'cidade_nome' => 'Morada Nova', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3170, 'estado_id' => 13, 'cidade_nome' => 'Morada Nova de Minas', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3171, 'estado_id' => 6, 'cidade_nome' => 'Moraújo', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3172, 'estado_id' => 17, 'cidade_nome' => 'Moreilândia', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 3173, 'estado_id' => 16, 'cidade_nome' => 'Moreira Sales', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3174, 'estado_id' => 17, 'cidade_nome' => 'Moreno', 'cidade_uf' => 'PE'],
+            ['cidade_id' => 3175, 'estado_id' => 21, 'cidade_nome' => 'Mormaço', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3176, 'estado_id' => 5, 'cidade_nome' => 'Morpará', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3177, 'estado_id' => 16, 'cidade_nome' => 'Morretes', 'cidade_uf' => 'PR'],
+            ['cidade_id' => 3178, 'estado_id' => 6, 'cidade_nome' => 'Morrinhos', 'cidade_uf' => 'CE'],
+            ['cidade_id' => 3179, 'estado_id' => 9, 'cidade_nome' => 'Morrinhos', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3180, 'estado_id' => 21, 'cidade_nome' => 'Morrinhos do Sul', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3181, 'estado_id' => 25, 'cidade_nome' => 'Morro Agudo', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3182, 'estado_id' => 9, 'cidade_nome' => 'Morro Agudo de Goiás', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3183, 'estado_id' => 18, 'cidade_nome' => 'Morro Cabeça no Tempo', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3184, 'estado_id' => 24, 'cidade_nome' => 'Morro da Fumaça', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3185, 'estado_id' => 13, 'cidade_nome' => 'Morro da Garça', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3186, 'estado_id' => 5, 'cidade_nome' => 'Morro do Chapéu', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3187, 'estado_id' => 18, 'cidade_nome' => 'Morro do Chapéu do Piauí', 'cidade_uf' => 'PI'],
+            ['cidade_id' => 3188, 'estado_id' => 13, 'cidade_nome' => 'Morro do Pilar', 'cidade_uf' => 'MG'],
+            ['cidade_id' => 3189, 'estado_id' => 24, 'cidade_nome' => 'Morro Grande', 'cidade_uf' => 'SC'],
+            ['cidade_id' => 3190, 'estado_id' => 21, 'cidade_nome' => 'Morro Redondo', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3191, 'estado_id' => 21, 'cidade_nome' => 'Morro Reuter', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3192, 'estado_id' => 10, 'cidade_nome' => 'Morros', 'cidade_uf' => 'MA'],
+            ['cidade_id' => 3193, 'estado_id' => 5, 'cidade_nome' => 'Mortugaba', 'cidade_uf' => 'BA'],
+            ['cidade_id' => 3194, 'estado_id' => 25, 'cidade_nome' => 'Morungaba', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3195, 'estado_id' => 9, 'cidade_nome' => 'Mossâmedes', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3196, 'estado_id' => 20, 'cidade_nome' => 'Mossoró', 'cidade_uf' => 'RN'],
+            ['cidade_id' => 3197, 'estado_id' => 21, 'cidade_nome' => 'Mostardas', 'cidade_uf' => 'RS'],
+            ['cidade_id' => 3198, 'estado_id' => 25, 'cidade_nome' => 'Motuca', 'cidade_uf' => 'SP'],
+            ['cidade_id' => 3199, 'estado_id' => 9, 'cidade_nome' => 'Mozarlândia', 'cidade_uf' => 'GO'],
+            ['cidade_id' => 3200, 'estado_id' => 14, 'cidade_nome' => 'Muaná', 'cidade_uf' => 'PA'],
             INSERT INTO `cidades` VALUES ('3201', '23', 'Mucajaí', 'RR');
             INSERT INTO `cidades` VALUES ('3202', '6', 'Mucambo', 'CE');
             INSERT INTO `cidades` VALUES ('3203', '5', 'Mucugê', 'BA');

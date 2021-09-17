@@ -3261,313 +3261,313 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 3198, 'estado_id' => 25, 'cidade_nome' => 'Motuca', 'cidade_uf' => 'SP'],
             ['cidade_id' => 3199, 'estado_id' => 9, 'cidade_nome' => 'Mozarlândia', 'cidade_uf' => 'GO'],
             ['cidade_id' => 3200, 'estado_id' => 14, 'cidade_nome' => 'Muaná', 'cidade_uf' => 'PA'],
-            INSERT INTO `cidades` VALUES ('3201', '23', 'Mucajaí', 'RR');
-            INSERT INTO `cidades` VALUES ('3202', '6', 'Mucambo', 'CE');
-            INSERT INTO `cidades` VALUES ('3203', '5', 'Mucugê', 'BA');
-            INSERT INTO `cidades` VALUES ('3204', '21', 'Muçum', 'RS');
-            INSERT INTO `cidades` VALUES ('3205', '5', 'Mucuri', 'BA');
-            INSERT INTO `cidades` VALUES ('3206', '8', 'Mucurici', 'ES');
-            INSERT INTO `cidades` VALUES ('3207', '21', 'Muitos Capões', 'RS');
-            INSERT INTO `cidades` VALUES ('3208', '21', 'Muliterno', 'RS');
-            INSERT INTO `cidades` VALUES ('3209', '6', 'Mulungu', 'CE');
-            INSERT INTO `cidades` VALUES ('3210', '15', 'Mulungu', 'PB');
-            INSERT INTO `cidades` VALUES ('3211', '5', 'Mulungu do Morro', 'BA');
-            INSERT INTO `cidades` VALUES ('3212', '5', 'Mundo Novo', 'BA');
-            INSERT INTO `cidades` VALUES ('3213', '9', 'Mundo Novo', 'GO');
-            INSERT INTO `cidades` VALUES ('3214', '12', 'Mundo Novo', 'MS');
-            INSERT INTO `cidades` VALUES ('3215', '13', 'Munhoz', 'MG');
-            INSERT INTO `cidades` VALUES ('3216', '16', 'Munhoz de Melo', 'PR');
-            INSERT INTO `cidades` VALUES ('3217', '5', 'Muniz Ferreira', 'BA');
-            INSERT INTO `cidades` VALUES ('3218', '8', 'Muniz Freire', 'ES');
-            INSERT INTO `cidades` VALUES ('3219', '5', 'Muquém de São Francisco', 'BA');
-            INSERT INTO `cidades` VALUES ('3220', '8', 'Muqui', 'ES');
-            INSERT INTO `cidades` VALUES ('3221', '13', 'Muriaé', 'MG');
-            INSERT INTO `cidades` VALUES ('3222', '26', 'Muribeca', 'SE');
-            INSERT INTO `cidades` VALUES ('3223', '2', 'Murici', 'AL');
-            INSERT INTO `cidades` VALUES ('3224', '18', 'Murici dos Portelas', 'PI');
-            INSERT INTO `cidades` VALUES ('3225', '27', 'Muricilândia', 'TO');
-            INSERT INTO `cidades` VALUES ('3226', '5', 'Muritiba', 'BA');
-            INSERT INTO `cidades` VALUES ('3227', '25', 'Murutinga do Sul', 'SP');
-            INSERT INTO `cidades` VALUES ('3228', '5', 'Mutuípe', 'BA');
-            INSERT INTO `cidades` VALUES ('3229', '13', 'Mutum', 'MG');
-            INSERT INTO `cidades` VALUES ('3230', '9', 'Mutunópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('3231', '13', 'Muzambinho', 'MG');
-            INSERT INTO `cidades` VALUES ('3232', '13', 'Nacip Raydan', 'MG');
-            INSERT INTO `cidades` VALUES ('3233', '25', 'Nantes', 'SP');
-            INSERT INTO `cidades` VALUES ('3234', '13', 'Nanuque', 'MG');
-            INSERT INTO `cidades` VALUES ('3235', '21', 'Não-Me-Toque', 'RS');
-            INSERT INTO `cidades` VALUES ('3236', '13', 'Naque', 'MG');
-            INSERT INTO `cidades` VALUES ('3237', '25', 'Narandiba', 'SP');
-            INSERT INTO `cidades` VALUES ('3238', '20', 'Natal', 'RN');
-            INSERT INTO `cidades` VALUES ('3239', '13', 'Natalândia', 'MG');
-            INSERT INTO `cidades` VALUES ('3240', '13', 'Natércia', 'MG');
-            INSERT INTO `cidades` VALUES ('3241', '19', 'Natividade', 'RJ');
-            INSERT INTO `cidades` VALUES ('3242', '27', 'Natividade', 'TO');
-            INSERT INTO `cidades` VALUES ('3243', '25', 'Natividade da Serra', 'SP');
-            INSERT INTO `cidades` VALUES ('3244', '15', 'Natuba', 'PB');
-            INSERT INTO `cidades` VALUES ('3245', '24', 'Navegantes', 'SC');
-            INSERT INTO `cidades` VALUES ('3246', '12', 'Naviraí', 'MS');
-            INSERT INTO `cidades` VALUES ('3247', '5', 'Nazaré', 'BA');
-            INSERT INTO `cidades` VALUES ('3248', '27', 'Nazaré', 'TO');
-            INSERT INTO `cidades` VALUES ('3249', '17', 'Nazaré da Mata', 'PE');
-            INSERT INTO `cidades` VALUES ('3250', '18', 'Nazaré do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3251', '25', 'Nazaré Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3252', '13', 'Nazareno', 'MG');
-            INSERT INTO `cidades` VALUES ('3253', '15', 'Nazarezinho', 'PB');
-            INSERT INTO `cidades` VALUES ('3254', '18', 'Nazária ', 'PI');
-            INSERT INTO `cidades` VALUES ('3255', '9', 'Nazário', 'GO');
-            INSERT INTO `cidades` VALUES ('3256', '26', 'Neópolis', 'SE');
-            INSERT INTO `cidades` VALUES ('3257', '13', 'Nepomuceno', 'MG');
-            INSERT INTO `cidades` VALUES ('3258', '9', 'Nerópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('3259', '25', 'Neves Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3260', '4', 'Nhamundá', 'AM');
-            INSERT INTO `cidades` VALUES ('3261', '25', 'Nhandeara', 'SP');
-            INSERT INTO `cidades` VALUES ('3262', '21', 'Nicolau Vergueiro', 'RS');
-            INSERT INTO `cidades` VALUES ('3263', '5', 'Nilo Peçanha', 'BA');
-            INSERT INTO `cidades` VALUES ('3264', '19', 'Nilópolis', 'RJ');
-            INSERT INTO `cidades` VALUES ('3265', '10', 'Nina Rodrigues', 'MA');
-            INSERT INTO `cidades` VALUES ('3266', '13', 'Ninheira', 'MG');
-            INSERT INTO `cidades` VALUES ('3267', '12', 'Nioaque', 'MS');
-            INSERT INTO `cidades` VALUES ('3268', '25', 'Nipoã', 'SP');
-            INSERT INTO `cidades` VALUES ('3269', '9', 'Niquelândia', 'GO');
-            INSERT INTO `cidades` VALUES ('3270', '20', 'Nísia Floresta', 'RN');
-            INSERT INTO `cidades` VALUES ('3271', '19', 'Niterói', 'RJ');
-            INSERT INTO `cidades` VALUES ('3272', '11', 'Nobres', 'MT');
-            INSERT INTO `cidades` VALUES ('3273', '21', 'Nonoai', 'RS');
-            INSERT INTO `cidades` VALUES ('3274', '5', 'Nordestina', 'BA');
-            INSERT INTO `cidades` VALUES ('3275', '23', 'Normandia', 'RR');
-            INSERT INTO `cidades` VALUES ('3276', '11', 'Nortelândia', 'MT');
-            INSERT INTO `cidades` VALUES ('3277', '26', 'Nossa Senhora Aparecida', 'SE');
-            INSERT INTO `cidades` VALUES ('3278', '26', 'Nossa Senhora da Glória', 'SE');
-            INSERT INTO `cidades` VALUES ('3279', '26', 'Nossa Senhora das Dores', 'SE');
-            INSERT INTO `cidades` VALUES ('3280', '16', 'Nossa Senhora das Graças', 'PR');
-            INSERT INTO `cidades` VALUES ('3281', '26', 'Nossa Senhora de Lourdes', 'SE');
-            INSERT INTO `cidades` VALUES ('3282', '18', 'Nossa Senhora de Nazaré', 'PI');
-            INSERT INTO `cidades` VALUES ('3283', '11', 'Nossa Senhora do Livramento', 'MT');
-            INSERT INTO `cidades` VALUES ('3284', '26', 'Nossa Senhora do Socorro', 'SE');
-            INSERT INTO `cidades` VALUES ('3285', '18', 'Nossa Senhora dos Remédios', 'PI');
-            INSERT INTO `cidades` VALUES ('3286', '25', 'Nova Aliança', 'SP');
-            INSERT INTO `cidades` VALUES ('3287', '16', 'Nova Aliança do Ivaí', 'PR');
-            INSERT INTO `cidades` VALUES ('3288', '21', 'Nova Alvorada', 'RS');
-            INSERT INTO `cidades` VALUES ('3289', '12', 'Nova Alvorada do Sul', 'MS');
-            INSERT INTO `cidades` VALUES ('3290', '9', 'Nova América', 'GO');
-            INSERT INTO `cidades` VALUES ('3291', '16', 'Nova América da Colina', 'PR');
-            INSERT INTO `cidades` VALUES ('3292', '12', 'Nova Andradina', 'MS');
-            INSERT INTO `cidades` VALUES ('3293', '21', 'Nova Araçá', 'RS');
-            INSERT INTO `cidades` VALUES ('3294', '9', 'Nova Aurora', 'GO');
-            INSERT INTO `cidades` VALUES ('3295', '16', 'Nova Aurora', 'PR');
-            INSERT INTO `cidades` VALUES ('3296', '11', 'Nova Bandeirantes', 'MT');
-            INSERT INTO `cidades` VALUES ('3297', '21', 'Nova Bassano', 'RS');
-            INSERT INTO `cidades` VALUES ('3298', '13', 'Nova Belém', 'MG');
-            INSERT INTO `cidades` VALUES ('3299', '21', 'Nova Boa Vista', 'RS');
-            INSERT INTO `cidades` VALUES ('3300', '11', 'Nova Brasilândia', 'MT');
-            INSERT INTO `cidades` VALUES ('3301', '22', 'Nova Brasilândia D\'Oeste', 'RO');
-            INSERT INTO `cidades` VALUES ('3302', '21', 'Nova Bréscia', 'RS');
-            INSERT INTO `cidades` VALUES ('3303', '25', 'Nova Campina', 'SP');
-            INSERT INTO `cidades` VALUES ('3304', '5', 'Nova Canaã', 'BA');
-            INSERT INTO `cidades` VALUES ('3305', '11', 'Nova Canaã do Norte', 'MT');
-            INSERT INTO `cidades` VALUES ('3306', '25', 'Nova Canaã Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3307', '21', 'Nova Candelária', 'RS');
-            INSERT INTO `cidades` VALUES ('3308', '16', 'Nova Cantu', 'PR');
-            INSERT INTO `cidades` VALUES ('3309', '25', 'Nova Castilho', 'SP');
-            INSERT INTO `cidades` VALUES ('3310', '10', 'Nova Colinas', 'MA');
-            INSERT INTO `cidades` VALUES ('3311', '9', 'Nova Crixás', 'GO');
-            INSERT INTO `cidades` VALUES ('3312', '20', 'Nova Cruz', 'RN');
-            INSERT INTO `cidades` VALUES ('3313', '13', 'Nova Era', 'MG');
-            INSERT INTO `cidades` VALUES ('3314', '24', 'Nova Erechim', 'SC');
-            INSERT INTO `cidades` VALUES ('3315', '16', 'Nova Esperança', 'PR');
-            INSERT INTO `cidades` VALUES ('3316', '14', 'Nova Esperança do Piriá', 'PA');
-            INSERT INTO `cidades` VALUES ('3317', '16', 'Nova Esperança do Sudoeste', 'PR');
-            INSERT INTO `cidades` VALUES ('3318', '21', 'Nova Esperança do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('3319', '25', 'Nova Europa', 'SP');
-            INSERT INTO `cidades` VALUES ('3320', '5', 'Nova Fátima', 'BA');
-            INSERT INTO `cidades` VALUES ('3321', '16', 'Nova Fátima', 'PR');
-            INSERT INTO `cidades` VALUES ('3322', '15', 'Nova Floresta', 'PB');
-            INSERT INTO `cidades` VALUES ('3323', '19', 'Nova Friburgo', 'RJ');
-            INSERT INTO `cidades` VALUES ('3324', '9', 'Nova Glória', 'GO');
-            INSERT INTO `cidades` VALUES ('3325', '25', 'Nova Granada', 'SP');
-            INSERT INTO `cidades` VALUES ('3326', '11', 'Nova Guarita', 'MT');
-            INSERT INTO `cidades` VALUES ('3327', '25', 'Nova Guataporanga', 'SP');
-            INSERT INTO `cidades` VALUES ('3328', '21', 'Nova Hartz', 'RS');
-            INSERT INTO `cidades` VALUES ('3329', '5', 'Nova Ibiá', 'BA');
-            INSERT INTO `cidades` VALUES ('3330', '19', 'Nova Iguaçu', 'RJ');
-            INSERT INTO `cidades` VALUES ('3331', '9', 'Nova Iguaçu de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3332', '25', 'Nova Independência', 'SP');
-            INSERT INTO `cidades` VALUES ('3333', '10', 'Nova Iorque', 'MA');
-            INSERT INTO `cidades` VALUES ('3334', '14', 'Nova Ipixuna', 'PA');
-            INSERT INTO `cidades` VALUES ('3335', '24', 'Nova Itaberaba', 'SC');
-            INSERT INTO `cidades` VALUES ('3336', '5', 'Nova Itarana', 'BA');
-            INSERT INTO `cidades` VALUES ('3337', '11', 'Nova Lacerda', 'MT');
-            INSERT INTO `cidades` VALUES ('3338', '16', 'Nova Laranjeiras', 'PR');
-            INSERT INTO `cidades` VALUES ('3339', '13', 'Nova Lima', 'MG');
-            INSERT INTO `cidades` VALUES ('3340', '16', 'Nova Londrina', 'PR');
-            INSERT INTO `cidades` VALUES ('3341', '25', 'Nova Luzitânia', 'SP');
-            INSERT INTO `cidades` VALUES ('3342', '22', 'Nova Mamoré', 'RO');
-            INSERT INTO `cidades` VALUES ('3343', '11', 'Nova Marilândia', 'MT');
-            INSERT INTO `cidades` VALUES ('3344', '11', 'Nova Maringá', 'MT');
-            INSERT INTO `cidades` VALUES ('3345', '13', 'Nova Módica', 'MG');
-            INSERT INTO `cidades` VALUES ('3346', '11', 'Nova Monte Verde', 'MT');
-            INSERT INTO `cidades` VALUES ('3347', '11', 'Nova Mutum', 'MT');
-            INSERT INTO `cidades` VALUES ('3348', '11', 'Nova Nazaré', 'MT');
-            INSERT INTO `cidades` VALUES ('3349', '25', 'Nova Odessa', 'SP');
-            INSERT INTO `cidades` VALUES ('3350', '11', 'Nova Olímpia', 'MT');
-            INSERT INTO `cidades` VALUES ('3351', '16', 'Nova Olímpia', 'PR');
-            INSERT INTO `cidades` VALUES ('3352', '6', 'Nova Olinda', 'CE');
-            INSERT INTO `cidades` VALUES ('3353', '15', 'Nova Olinda', 'PB');
-            INSERT INTO `cidades` VALUES ('3354', '27', 'Nova Olinda', 'TO');
-            INSERT INTO `cidades` VALUES ('3355', '10', 'Nova Olinda do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('3356', '4', 'Nova Olinda do Norte', 'AM');
-            INSERT INTO `cidades` VALUES ('3357', '21', 'Nova Pádua', 'RS');
-            INSERT INTO `cidades` VALUES ('3358', '21', 'Nova Palma', 'RS');
-            INSERT INTO `cidades` VALUES ('3359', '15', 'Nova Palmeira', 'PB');
-            INSERT INTO `cidades` VALUES ('3360', '21', 'Nova Petrópolis', 'RS');
-            INSERT INTO `cidades` VALUES ('3361', '13', 'Nova Ponte', 'MG');
-            INSERT INTO `cidades` VALUES ('3362', '13', 'Nova Porteirinha', 'MG');
-            INSERT INTO `cidades` VALUES ('3363', '21', 'Nova Prata', 'RS');
-            INSERT INTO `cidades` VALUES ('3364', '16', 'Nova Prata do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('3365', '21', 'Nova Ramada', 'RS');
-            INSERT INTO `cidades` VALUES ('3366', '5', 'Nova Redenção', 'BA');
-            INSERT INTO `cidades` VALUES ('3367', '13', 'Nova Resende', 'MG');
-            INSERT INTO `cidades` VALUES ('3368', '9', 'Nova Roma', 'GO');
-            INSERT INTO `cidades` VALUES ('3369', '21', 'Nova Roma do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('3370', '27', 'Nova Rosalândia', 'TO');
-            INSERT INTO `cidades` VALUES ('3371', '6', 'Nova Russas', 'CE');
-            INSERT INTO `cidades` VALUES ('3372', '16', 'Nova Santa Bárbara', 'PR');
-            INSERT INTO `cidades` VALUES ('3373', '11', 'Nova Santa Helena', 'MT');
-            INSERT INTO `cidades` VALUES ('3374', '18', 'Nova Santa Rita', 'PI');
-            INSERT INTO `cidades` VALUES ('3375', '21', 'Nova Santa Rita', 'RS');
-            INSERT INTO `cidades` VALUES ('3376', '16', 'Nova Santa Rosa', 'PR');
-            INSERT INTO `cidades` VALUES ('3377', '13', 'Nova Serrana', 'MG');
-            INSERT INTO `cidades` VALUES ('3378', '5', 'Nova Soure', 'BA');
-            INSERT INTO `cidades` VALUES ('3379', '16', 'Nova Tebas', 'PR');
-            INSERT INTO `cidades` VALUES ('3380', '14', 'Nova Timboteua', 'PA');
-            INSERT INTO `cidades` VALUES ('3381', '24', 'Nova Trento', 'SC');
-            INSERT INTO `cidades` VALUES ('3382', '11', 'Nova Ubiratã', 'MT');
-            INSERT INTO `cidades` VALUES ('3383', '13', 'Nova União', 'MG');
-            INSERT INTO `cidades` VALUES ('3384', '22', 'Nova União', 'RO');
-            INSERT INTO `cidades` VALUES ('3385', '8', 'Nova Venécia', 'ES');
-            INSERT INTO `cidades` VALUES ('3386', '9', 'Nova Veneza', 'GO');
-            INSERT INTO `cidades` VALUES ('3387', '24', 'Nova Veneza', 'SC');
-            INSERT INTO `cidades` VALUES ('3388', '5', 'Nova Viçosa', 'BA');
-            INSERT INTO `cidades` VALUES ('3389', '11', 'Nova Xavantina', 'MT');
-            INSERT INTO `cidades` VALUES ('3390', '25', 'Novais', 'SP');
-            INSERT INTO `cidades` VALUES ('3391', '27', 'Novo Acordo', 'TO');
-            INSERT INTO `cidades` VALUES ('3392', '4', 'Novo Airão', 'AM');
-            INSERT INTO `cidades` VALUES ('3393', '27', 'Novo Alegre', 'TO');
-            INSERT INTO `cidades` VALUES ('3394', '4', 'Novo Aripuanã', 'AM');
-            INSERT INTO `cidades` VALUES ('3395', '21', 'Novo Barreiro', 'RS');
-            INSERT INTO `cidades` VALUES ('3396', '9', 'Novo Brasil', 'GO');
-            INSERT INTO `cidades` VALUES ('3397', '21', 'Novo Cabrais', 'RS');
-            INSERT INTO `cidades` VALUES ('3398', '13', 'Novo Cruzeiro', 'MG');
-            INSERT INTO `cidades` VALUES ('3399', '9', 'Novo Gama', 'GO');
-            INSERT INTO `cidades` VALUES ('3400', '21', 'Novo Hamburgo', 'RS');
-            INSERT INTO `cidades` VALUES ('3401', '5', 'Novo Horizonte', 'BA');
-            INSERT INTO `cidades` VALUES ('3402', '24', 'Novo Horizonte', 'SC');
-            INSERT INTO `cidades` VALUES ('3403', '25', 'Novo Horizonte', 'SP');
-            INSERT INTO `cidades` VALUES ('3404', '11', 'Novo Horizonte do Norte', 'MT');
-            INSERT INTO `cidades` VALUES ('3405', '22', 'Novo Horizonte do Oeste', 'RO');
-            INSERT INTO `cidades` VALUES ('3406', '12', 'Novo Horizonte do Sul', 'MS');
-            INSERT INTO `cidades` VALUES ('3407', '16', 'Novo Itacolomi', 'PR');
-            INSERT INTO `cidades` VALUES ('3408', '27', 'Novo Jardim', 'TO');
-            INSERT INTO `cidades` VALUES ('3409', '2', 'Novo Lino', 'AL');
-            INSERT INTO `cidades` VALUES ('3410', '21', 'Novo Machado', 'RS');
-            INSERT INTO `cidades` VALUES ('3411', '11', 'Novo Mundo', 'MT');
-            INSERT INTO `cidades` VALUES ('3412', '6', 'Novo Oriente', 'CE');
-            INSERT INTO `cidades` VALUES ('3413', '13', 'Novo Oriente de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3414', '18', 'Novo Oriente do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3415', '9', 'Novo Planalto', 'GO');
-            INSERT INTO `cidades` VALUES ('3416', '14', 'Novo Progresso', 'PA');
-            INSERT INTO `cidades` VALUES ('3417', '14', 'Novo Repartimento', 'PA');
-            INSERT INTO `cidades` VALUES ('3418', '11', 'Novo Santo Antônio', 'MT');
-            INSERT INTO `cidades` VALUES ('3419', '18', 'Novo Santo Antônio', 'PI');
-            INSERT INTO `cidades` VALUES ('3420', '11', 'Novo São Joaquim', 'MT');
-            INSERT INTO `cidades` VALUES ('3421', '21', 'Novo Tiradentes', 'RS');
-            INSERT INTO `cidades` VALUES ('3422', '5', 'Novo Triunfo', 'BA');
-            INSERT INTO `cidades` VALUES ('3423', '21', 'Novo Xingu', 'RS');
-            INSERT INTO `cidades` VALUES ('3424', '13', 'Novorizonte', 'MG');
-            INSERT INTO `cidades` VALUES ('3425', '25', 'Nuporanga', 'SP');
-            INSERT INTO `cidades` VALUES ('3426', '14', 'Óbidos', 'PA');
-            INSERT INTO `cidades` VALUES ('3427', '6', 'Ocara', 'CE');
-            INSERT INTO `cidades` VALUES ('3428', '25', 'Ocauçu', 'SP');
-            INSERT INTO `cidades` VALUES ('3429', '18', 'Oeiras', 'PI');
-            INSERT INTO `cidades` VALUES ('3430', '14', 'Oeiras do Pará', 'PA');
-            INSERT INTO `cidades` VALUES ('3431', '3', 'Oiapoque', 'AP');
-            INSERT INTO `cidades` VALUES ('3432', '13', 'Olaria', 'MG');
-            INSERT INTO `cidades` VALUES ('3433', '25', 'Óleo', 'SP');
-            INSERT INTO `cidades` VALUES ('3434', '15', 'Olho d\'Água', 'PB');
-            INSERT INTO `cidades` VALUES ('3435', '10', 'Olho d\'Água das Cunhãs', 'MA');
-            INSERT INTO `cidades` VALUES ('3436', '2', 'Olho d\'Água das Flores', 'AL');
-            INSERT INTO `cidades` VALUES ('3437', '2', 'Olho d\'Água do Casado', 'AL');
-            INSERT INTO `cidades` VALUES ('3438', '18', 'Olho D\'Água do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3439', '2', 'Olho d\'Água Grande', 'AL');
-            INSERT INTO `cidades` VALUES ('3440', '20', 'Olho-d\'Água do Borges', 'RN');
-            INSERT INTO `cidades` VALUES ('3441', '13', 'Olhos-d\'Água', 'MG');
-            INSERT INTO `cidades` VALUES ('3442', '25', 'Olímpia', 'SP');
-            INSERT INTO `cidades` VALUES ('3443', '13', 'Olímpio Noronha', 'MG');
-            INSERT INTO `cidades` VALUES ('3444', '17', 'Olinda', 'PE');
-            INSERT INTO `cidades` VALUES ('3445', '10', 'Olinda Nova do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('3446', '5', 'Olindina', 'BA');
-            INSERT INTO `cidades` VALUES ('3447', '15', 'Olivedos', 'PB');
-            INSERT INTO `cidades` VALUES ('3448', '13', 'Oliveira', 'MG');
-            INSERT INTO `cidades` VALUES ('3449', '27', 'Oliveira de Fátima', 'TO');
-            INSERT INTO `cidades` VALUES ('3450', '5', 'Oliveira dos Brejinhos', 'BA');
-            INSERT INTO `cidades` VALUES ('3451', '13', 'Oliveira Fortes', 'MG');
-            INSERT INTO `cidades` VALUES ('3452', '2', 'Olivença', 'AL');
-            INSERT INTO `cidades` VALUES ('3453', '13', 'Onça de Pitangui', 'MG');
-            INSERT INTO `cidades` VALUES ('3454', '25', 'Onda Verde', 'SP');
-            INSERT INTO `cidades` VALUES ('3455', '13', 'Oratórios', 'MG');
-            INSERT INTO `cidades` VALUES ('3456', '25', 'Oriente', 'SP');
-            INSERT INTO `cidades` VALUES ('3457', '25', 'Orindiúva', 'SP');
-            INSERT INTO `cidades` VALUES ('3458', '14', 'Oriximiná', 'PA');
-            INSERT INTO `cidades` VALUES ('3459', '13', 'Orizânia', 'MG');
-            INSERT INTO `cidades` VALUES ('3460', '9', 'Orizona', 'GO');
-            INSERT INTO `cidades` VALUES ('3461', '25', 'Orlândia', 'SP');
-            INSERT INTO `cidades` VALUES ('3462', '24', 'Orleans', 'SC');
-            INSERT INTO `cidades` VALUES ('3463', '17', 'Orobó', 'PE');
-            INSERT INTO `cidades` VALUES ('3464', '17', 'Orocó', 'PE');
-            INSERT INTO `cidades` VALUES ('3465', '6', 'Orós', 'CE');
-            INSERT INTO `cidades` VALUES ('3466', '16', 'Ortigueira', 'PR');
-            INSERT INTO `cidades` VALUES ('3467', '25', 'Osasco', 'SP');
-            INSERT INTO `cidades` VALUES ('3468', '25', 'Oscar Bressane', 'SP');
-            INSERT INTO `cidades` VALUES ('3469', '21', 'Osório', 'RS');
-            INSERT INTO `cidades` VALUES ('3470', '25', 'Osvaldo Cruz', 'SP');
-            INSERT INTO `cidades` VALUES ('3471', '24', 'Otacílio Costa', 'SC');
-            INSERT INTO `cidades` VALUES ('3472', '14', 'Ourém', 'PA');
-            INSERT INTO `cidades` VALUES ('3473', '5', 'Ouriçangas', 'BA');
-            INSERT INTO `cidades` VALUES ('3474', '17', 'Ouricuri', 'PE');
-            INSERT INTO `cidades` VALUES ('3475', '14', 'Ourilândia do Norte', 'PA');
-            INSERT INTO `cidades` VALUES ('3476', '25', 'Ourinhos', 'SP');
-            INSERT INTO `cidades` VALUES ('3477', '16', 'Ourizona', 'PR');
-            INSERT INTO `cidades` VALUES ('3478', '24', 'Ouro', 'SC');
-            INSERT INTO `cidades` VALUES ('3479', '2', 'Ouro Branco', 'AL');
-            INSERT INTO `cidades` VALUES ('3480', '13', 'Ouro Branco', 'MG');
-            INSERT INTO `cidades` VALUES ('3481', '20', 'Ouro Branco', 'RN');
-            INSERT INTO `cidades` VALUES ('3482', '13', 'Ouro Fino', 'MG');
-            INSERT INTO `cidades` VALUES ('3483', '13', 'Ouro Preto', 'MG');
-            INSERT INTO `cidades` VALUES ('3484', '22', 'Ouro Preto do Oeste', 'RO');
-            INSERT INTO `cidades` VALUES ('3485', '15', 'Ouro Velho', 'PB');
-            INSERT INTO `cidades` VALUES ('3486', '24', 'Ouro Verde', 'SC');
-            INSERT INTO `cidades` VALUES ('3487', '25', 'Ouro Verde', 'SP');
-            INSERT INTO `cidades` VALUES ('3488', '9', 'Ouro Verde de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3489', '13', 'Ouro Verde de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3490', '16', 'Ouro Verde do Oeste', 'PR');
-            INSERT INTO `cidades` VALUES ('3491', '25', 'Ouroeste', 'SP');
-            INSERT INTO `cidades` VALUES ('3492', '5', 'Ourolândia', 'BA');
-            INSERT INTO `cidades` VALUES ('3493', '9', 'Ouvidor', 'GO');
-            INSERT INTO `cidades` VALUES ('3494', '25', 'Pacaembu', 'SP');
-            INSERT INTO `cidades` VALUES ('3495', '14', 'Pacajá', 'PA');
-            INSERT INTO `cidades` VALUES ('3496', '6', 'Pacajus', 'CE');
-            INSERT INTO `cidades` VALUES ('3497', '23', 'Pacaraima', 'RR');
-            INSERT INTO `cidades` VALUES ('3498', '6', 'Pacatuba', 'CE');
-            INSERT INTO `cidades` VALUES ('3499', '26', 'Pacatuba', 'SE');
-            INSERT INTO `cidades` VALUES ('3500', '10', 'Paço do Lumiar', 'MA');
-            INSERT INTO `cidades` VALUES ('3501', '6', 'Pacoti', 'CE');
-            INSERT INTO `cidades` VALUES ('3502', '6', 'Pacujá', 'CE');
-            INSERT INTO `cidades` VALUES ('3503', '9', 'Padre Bernardo', 'GO');
-            INSERT INTO `cidades` VALUES ('3504', '13', 'Padre Carvalho', 'MG');
-            INSERT INTO `cidades` VALUES ('3505', '18', 'Padre Marcos', 'PI');
-            INSERT INTO `cidades` VALUES ('3506', '13', 'Padre Paraíso', 'MG');
-            INSERT INTO `cidades` VALUES ('3507', '18', 'Paes Landim', 'PI');
+           ['cidade_id' => 3201, 'estado_id' => 23, 'cidade_nome' => 'Mucajaí', 'cidade_uf' => 'RR',
+            ['cidade_id' => 3202, 'estado_id' => 6, 'cidade_nome' => 'Mucambo', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3203, 'estado_id' => 5, 'cidade_nome' => 'Mucugê', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3204, 'estado_id' => 21, 'cidade_nome' => 'Muçum', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3205, 'estado_id' => 5, 'cidade_nome' => 'Mucuri', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3206, 'estado_id' => 8, 'cidade_nome' => 'Mucurici', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3207, 'estado_id' => 21, 'cidade_nome' => 'Muitos Capões', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3208, 'estado_id' => 21, 'cidade_nome' => 'Muliterno', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3209, 'estado_id' => 6, 'cidade_nome' => 'Mulungu', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3210, 'estado_id' => 15, 'cidade_nome' => 'Mulungu', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3211, 'estado_id' => 5, 'cidade_nome' => 'Mulungu do Morro', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3212, 'estado_id' => 5, 'cidade_nome' => 'Mundo Novo', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3213, 'estado_id' => 9, 'cidade_nome' => 'Mundo Novo', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3214, 'estado_id' => 12, 'cidade_nome' => 'Mundo Novo', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3215, 'estado_id' => 13, 'cidade_nome' => 'Munhoz', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3216, 'estado_id' => 16, 'cidade_nome' => 'Munhoz de Melo', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3217, 'estado_id' => 5, 'cidade_nome' => 'Muniz Ferreira', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3218, 'estado_id' => 8, 'cidade_nome' => 'Muniz Freire', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3219, 'estado_id' => 5, 'cidade_nome' => 'Muquém de São Francisco', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3220, 'estado_id' => 8, 'cidade_nome' => 'Muqui', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3221, 'estado_id' => 13, 'cidade_nome' => 'Muriaé', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3222, 'estado_id' => 26, 'cidade_nome' => 'Muribeca', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3223, 'estado_id' => 2, 'cidade_nome' => 'Murici', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3224, 'estado_id' => 18, 'cidade_nome' => 'Murici dos Portelas', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3225, 'estado_id' => 27, 'cidade_nome' => 'Muricilândia', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3226, 'estado_id' => 5, 'cidade_nome' => 'Muritiba', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3227, 'estado_id' => 25, 'cidade_nome' => 'Murutinga do Sul', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3228, 'estado_id' => 5, 'cidade_nome' => 'Mutuípe', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3229, 'estado_id' => 13, 'cidade_nome' => 'Mutum', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3230, 'estado_id' => 9, 'cidade_nome' => 'Mutunópolis', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3231, 'estado_id' => 13, 'cidade_nome' => 'Muzambinho', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3232, 'estado_id' => 13, 'cidade_nome' => 'Nacip Raydan', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3233, 'estado_id' => 25, 'cidade_nome' => 'Nantes', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3234, 'estado_id' => 13, 'cidade_nome' => 'Nanuque', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3235, 'estado_id' => 21, 'cidade_nome' => 'Não-Me-Toque', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3236, 'estado_id' => 13, 'cidade_nome' => 'Naque', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3237, 'estado_id' => 25, 'cidade_nome' => 'Narandiba', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3238, 'estado_id' => 20, 'cidade_nome' => 'Natal', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3239, 'estado_id' => 13, 'cidade_nome' => 'Natalândia', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3240, 'estado_id' => 13, 'cidade_nome' => 'Natércia', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3241, 'estado_id' => 19, 'cidade_nome' => 'Natividade', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3242, 'estado_id' => 27, 'cidade_nome' => 'Natividade', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3243, 'estado_id' => 25, 'cidade_nome' => 'Natividade da Serra', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3244, 'estado_id' => 15, 'cidade_nome' => 'Natuba', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3245, 'estado_id' => 24, 'cidade_nome' => 'Navegantes', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3246, 'estado_id' => 12, 'cidade_nome' => 'Naviraí', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3247, 'estado_id' => 5, 'cidade_nome' => 'Nazaré', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3248, 'estado_id' => 27, 'cidade_nome' => 'Nazaré', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3249, 'estado_id' => 17, 'cidade_nome' => 'Nazaré da Mata', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3250, 'estado_id' => 18, 'cidade_nome' => 'Nazaré do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3251, 'estado_id' => 25, 'cidade_nome' => 'Nazaré Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3252, 'estado_id' => 13, 'cidade_nome' => 'Nazareno', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3253, 'estado_id' => 15, 'cidade_nome' => 'Nazarezinho', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3254, 'estado_id' => 18, 'cidade_nome' => 'Nazária ', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3255, 'estado_id' => 9, 'cidade_nome' => 'Nazário', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3256, 'estado_id' => 26, 'cidade_nome' => 'Neópolis', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3257, 'estado_id' => 13, 'cidade_nome' => 'Nepomuceno', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3258, 'estado_id' => 9, 'cidade_nome' => 'Nerópolis', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3259, 'estado_id' => 25, 'cidade_nome' => 'Neves Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3260, 'estado_id' => 4, 'cidade_nome' => 'Nhamundá', 'cidade_uf' => 'AM',
+            ['cidade_id' => 3261, 'estado_id' => 25, 'cidade_nome' => 'Nhandeara', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3262, 'estado_id' => 21, 'cidade_nome' => 'Nicolau Vergueiro', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3263, 'estado_id' => 5, 'cidade_nome' => 'Nilo Peçanha', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3264, 'estado_id' => 19, 'cidade_nome' => 'Nilópolis', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3265, 'estado_id' => 10, 'cidade_nome' => 'Nina Rodrigues', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3266, 'estado_id' => 13, 'cidade_nome' => 'Ninheira', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3267, 'estado_id' => 12, 'cidade_nome' => 'Nioaque', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3268, 'estado_id' => 25, 'cidade_nome' => 'Nipoã', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3269, 'estado_id' => 9, 'cidade_nome' => 'Niquelândia', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3270, 'estado_id' => 20, 'cidade_nome' => 'Nísia Floresta', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3271, 'estado_id' => 19, 'cidade_nome' => 'Niterói', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3272, 'estado_id' => 11, 'cidade_nome' => 'Nobres', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3273, 'estado_id' => 21, 'cidade_nome' => 'Nonoai', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3274, 'estado_id' => 5, 'cidade_nome' => 'Nordestina', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3275, 'estado_id' => 23, 'cidade_nome' => 'Normandia', 'cidade_uf' => 'RR',
+            ['cidade_id' => 3276, 'estado_id' => 11, 'cidade_nome' => 'Nortelândia', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3277, 'estado_id' => 26, 'cidade_nome' => 'Nossa Senhora Aparecida', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3278, 'estado_id' => 26, 'cidade_nome' => 'Nossa Senhora da Glória', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3279, 'estado_id' => 26, 'cidade_nome' => 'Nossa Senhora das Dores', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3280, 'estado_id' => 16, 'cidade_nome' => 'Nossa Senhora das Graças', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3281, 'estado_id' => 26, 'cidade_nome' => 'Nossa Senhora de Lourdes', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3282, 'estado_id' => 18, 'cidade_nome' => 'Nossa Senhora de Nazaré', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3283, 'estado_id' => 11, 'cidade_nome' => 'Nossa Senhora do Livramento', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3284, 'estado_id' => 26, 'cidade_nome' => 'Nossa Senhora do Socorro', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3285, 'estado_id' => 18, 'cidade_nome' => 'Nossa Senhora dos Remédios', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3286, 'estado_id' => 25, 'cidade_nome' => 'Nova Aliança', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3287, 'estado_id' => 16, 'cidade_nome' => 'Nova Aliança do Ivaí', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3288, 'estado_id' => 21, 'cidade_nome' => 'Nova Alvorada', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3289, 'estado_id' => 12, 'cidade_nome' => 'Nova Alvorada do Sul', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3290, 'estado_id' => 9, 'cidade_nome' => 'Nova América', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3291, 'estado_id' => 16, 'cidade_nome' => 'Nova América da Colina', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3292, 'estado_id' => 12, 'cidade_nome' => 'Nova Andradina', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3293, 'estado_id' => 21, 'cidade_nome' => 'Nova Araçá', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3294, 'estado_id' => 9, 'cidade_nome' => 'Nova Aurora', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3295, 'estado_id' => 16, 'cidade_nome' => 'Nova Aurora', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3296, 'estado_id' => 11, 'cidade_nome' => 'Nova Bandeirantes', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3297, 'estado_id' => 21, 'cidade_nome' => 'Nova Bassano', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3298, 'estado_id' => 13, 'cidade_nome' => 'Nova Belém', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3299, 'estado_id' => 21, 'cidade_nome' => 'Nova Boa Vista', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3300, 'estado_id' => 11, 'cidade_nome' => 'Nova Brasilândia', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3301, 'estado_id' => 22, 'cidade_nome' => 'Nova Brasilândia D\'Oeste', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3302, 'estado_id' => 21, 'cidade_nome' => 'Nova Bréscia', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3303, 'estado_id' => 25, 'cidade_nome' => 'Nova Campina', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3304, 'estado_id' => 5, 'cidade_nome' => 'Nova Canaã', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3305, 'estado_id' => 11, 'cidade_nome' => 'Nova Canaã do Norte', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3306, 'estado_id' => 25, 'cidade_nome' => 'Nova Canaã Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3307, 'estado_id' => 21, 'cidade_nome' => 'Nova Candelária', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3308, 'estado_id' => 16, 'cidade_nome' => 'Nova Cantu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3309, 'estado_id' => 25, 'cidade_nome' => 'Nova Castilho', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3310, 'estado_id' => 10, 'cidade_nome' => 'Nova Colinas', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3311, 'estado_id' => 9, 'cidade_nome' => 'Nova Crixás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3312, 'estado_id' => 20, 'cidade_nome' => 'Nova Cruz', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3313, 'estado_id' => 13, 'cidade_nome' => 'Nova Era', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3314, 'estado_id' => 24, 'cidade_nome' => 'Nova Erechim', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3315, 'estado_id' => 16, 'cidade_nome' => 'Nova Esperança', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3316, 'estado_id' => 14, 'cidade_nome' => 'Nova Esperança do Piriá', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3317, 'estado_id' => 16, 'cidade_nome' => 'Nova Esperança do Sudoeste', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3318, 'estado_id' => 21, 'cidade_nome' => 'Nova Esperança do Sul', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3319, 'estado_id' => 25, 'cidade_nome' => 'Nova Europa', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3320, 'estado_id' => 5, 'cidade_nome' => 'Nova Fátima', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3321, 'estado_id' => 16, 'cidade_nome' => 'Nova Fátima', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3322, 'estado_id' => 15, 'cidade_nome' => 'Nova Floresta', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3323, 'estado_id' => 19, 'cidade_nome' => 'Nova Friburgo', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3324, 'estado_id' => 9, 'cidade_nome' => 'Nova Glória', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3325, 'estado_id' => 25, 'cidade_nome' => 'Nova Granada', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3326, 'estado_id' => 11, 'cidade_nome' => 'Nova Guarita', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3327, 'estado_id' => 25, 'cidade_nome' => 'Nova Guataporanga', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3328, 'estado_id' => 21, 'cidade_nome' => 'Nova Hartz', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3329, 'estado_id' => 5, 'cidade_nome' => 'Nova Ibiá', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3330, 'estado_id' => 19, 'cidade_nome' => 'Nova Iguaçu', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3331, 'estado_id' => 9, 'cidade_nome' => 'Nova Iguaçu de Goiás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3332, 'estado_id' => 25, 'cidade_nome' => 'Nova Independência', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3333, 'estado_id' => 10, 'cidade_nome' => 'Nova Iorque', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3334, 'estado_id' => 14, 'cidade_nome' => 'Nova Ipixuna', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3335, 'estado_id' => 24, 'cidade_nome' => 'Nova Itaberaba', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3336, 'estado_id' => 5, 'cidade_nome' => 'Nova Itarana', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3337, 'estado_id' => 11, 'cidade_nome' => 'Nova Lacerda', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3338, 'estado_id' => 16, 'cidade_nome' => 'Nova Laranjeiras', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3339, 'estado_id' => 13, 'cidade_nome' => 'Nova Lima', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3340, 'estado_id' => 16, 'cidade_nome' => 'Nova Londrina', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3341, 'estado_id' => 25, 'cidade_nome' => 'Nova Luzitânia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3342, 'estado_id' => 22, 'cidade_nome' => 'Nova Mamoré', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3343, 'estado_id' => 11, 'cidade_nome' => 'Nova Marilândia', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3344, 'estado_id' => 11, 'cidade_nome' => 'Nova Maringá', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3345, 'estado_id' => 13, 'cidade_nome' => 'Nova Módica', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3346, 'estado_id' => 11, 'cidade_nome' => 'Nova Monte Verde', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3347, 'estado_id' => 11, 'cidade_nome' => 'Nova Mutum', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3348, 'estado_id' => 11, 'cidade_nome' => 'Nova Nazaré', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3349, 'estado_id' => 25, 'cidade_nome' => 'Nova Odessa', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3350, 'estado_id' => 11, 'cidade_nome' => 'Nova Olímpia', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3351, 'estado_id' => 16, 'cidade_nome' => 'Nova Olímpia', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3352, 'estado_id' => 6, 'cidade_nome' => 'Nova Olinda', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3353, 'estado_id' => 15, 'cidade_nome' => 'Nova Olinda', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3354, 'estado_id' => 27, 'cidade_nome' => 'Nova Olinda', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3355, 'estado_id' => 10, 'cidade_nome' => 'Nova Olinda do Maranhão', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3356, 'estado_id' => 4, 'cidade_nome' => 'Nova Olinda do Norte', 'cidade_uf' => 'AM',
+            ['cidade_id' => 3357, 'estado_id' => 21, 'cidade_nome' => 'Nova Pádua', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3358, 'estado_id' => 21, 'cidade_nome' => 'Nova Palma', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3359, 'estado_id' => 15, 'cidade_nome' => 'Nova Palmeira', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3360, 'estado_id' => 21, 'cidade_nome' => 'Nova Petrópolis', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3361, 'estado_id' => 13, 'cidade_nome' => 'Nova Ponte', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3362, 'estado_id' => 13, 'cidade_nome' => 'Nova Porteirinha', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3363, 'estado_id' => 21, 'cidade_nome' => 'Nova Prata', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3364, 'estado_id' => 16, 'cidade_nome' => 'Nova Prata do Iguaçu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3365, 'estado_id' => 21, 'cidade_nome' => 'Nova Ramada', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3366, 'estado_id' => 5, 'cidade_nome' => 'Nova Redenção', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3367, 'estado_id' => 13, 'cidade_nome' => 'Nova Resende', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3368, 'estado_id' => 9, 'cidade_nome' => 'Nova Roma', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3369, 'estado_id' => 21, 'cidade_nome' => 'Nova Roma do Sul', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3370, 'estado_id' => 27, 'cidade_nome' => 'Nova Rosalândia', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3371, 'estado_id' => 6, 'cidade_nome' => 'Nova Russas', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3372, 'estado_id' => 16, 'cidade_nome' => 'Nova Santa Bárbara', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3373, 'estado_id' => 11, 'cidade_nome' => 'Nova Santa Helena', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3374, 'estado_id' => 18, 'cidade_nome' => 'Nova Santa Rita', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3375, 'estado_id' => 21, 'cidade_nome' => 'Nova Santa Rita', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3376, 'estado_id' => 16, 'cidade_nome' => 'Nova Santa Rosa', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3377, 'estado_id' => 13, 'cidade_nome' => 'Nova Serrana', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3378, 'estado_id' => 5, 'cidade_nome' => 'Nova Soure', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3379, 'estado_id' => 16, 'cidade_nome' => 'Nova Tebas', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3380, 'estado_id' => 14, 'cidade_nome' => 'Nova Timboteua', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3381, 'estado_id' => 24, 'cidade_nome' => 'Nova Trento', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3382, 'estado_id' => 11, 'cidade_nome' => 'Nova Ubiratã', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3383, 'estado_id' => 13, 'cidade_nome' => 'Nova União', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3384, 'estado_id' => 22, 'cidade_nome' => 'Nova União', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3385, 'estado_id' => 8, 'cidade_nome' => 'Nova Venécia', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3386, 'estado_id' => 9, 'cidade_nome' => 'Nova Veneza', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3387, 'estado_id' => 24, 'cidade_nome' => 'Nova Veneza', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3388, 'estado_id' => 5, 'cidade_nome' => 'Nova Viçosa', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3389, 'estado_id' => 11, 'cidade_nome' => 'Nova Xavantina', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3390, 'estado_id' => 25, 'cidade_nome' => 'Novais', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3391, 'estado_id' => 27, 'cidade_nome' => 'Novo Acordo', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3392, 'estado_id' => 4, 'cidade_nome' => 'Novo Airão', 'cidade_uf' => 'AM',
+            ['cidade_id' => 3393, 'estado_id' => 27, 'cidade_nome' => 'Novo Alegre', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3394, 'estado_id' => 4, 'cidade_nome' => 'Novo Aripuanã', 'cidade_uf' => 'AM',
+            ['cidade_id' => 3395, 'estado_id' => 21, 'cidade_nome' => 'Novo Barreiro', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3396, 'estado_id' => 9, 'cidade_nome' => 'Novo Brasil', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3397, 'estado_id' => 21, 'cidade_nome' => 'Novo Cabrais', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3398, 'estado_id' => 13, 'cidade_nome' => 'Novo Cruzeiro', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3399, 'estado_id' => 9, 'cidade_nome' => 'Novo Gama', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3400, 'estado_id' => 21, 'cidade_nome' => 'Novo Hamburgo', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3401, 'estado_id' => 5, 'cidade_nome' => 'Novo Horizonte', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3402, 'estado_id' => 24, 'cidade_nome' => 'Novo Horizonte', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3403, 'estado_id' => 25, 'cidade_nome' => 'Novo Horizonte', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3404, 'estado_id' => 11, 'cidade_nome' => 'Novo Horizonte do Norte', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3405, 'estado_id' => 22, 'cidade_nome' => 'Novo Horizonte do Oeste', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3406, 'estado_id' => 12, 'cidade_nome' => 'Novo Horizonte do Sul', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3407, 'estado_id' => 16, 'cidade_nome' => 'Novo Itacolomi', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3408, 'estado_id' => 27, 'cidade_nome' => 'Novo Jardim', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3409, 'estado_id' => 2, 'cidade_nome' => 'Novo Lino', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3410, 'estado_id' => 21, 'cidade_nome' => 'Novo Machado', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3411, 'estado_id' => 11, 'cidade_nome' => 'Novo Mundo', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3412, 'estado_id' => 6, 'cidade_nome' => 'Novo Oriente', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3413, 'estado_id' => 13, 'cidade_nome' => 'Novo Oriente de Minas', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3414, 'estado_id' => 18, 'cidade_nome' => 'Novo Oriente do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3415, 'estado_id' => 9, 'cidade_nome' => 'Novo Planalto', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3416, 'estado_id' => 14, 'cidade_nome' => 'Novo Progresso', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3417, 'estado_id' => 14, 'cidade_nome' => 'Novo Repartimento', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3418, 'estado_id' => 11, 'cidade_nome' => 'Novo Santo Antônio', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3419, 'estado_id' => 18, 'cidade_nome' => 'Novo Santo Antônio', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3420, 'estado_id' => 11, 'cidade_nome' => 'Novo São Joaquim', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3421, 'estado_id' => 21, 'cidade_nome' => 'Novo Tiradentes', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3422, 'estado_id' => 5, 'cidade_nome' => 'Novo Triunfo', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3423, 'estado_id' => 21, 'cidade_nome' => 'Novo Xingu', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3424, 'estado_id' => 13, 'cidade_nome' => 'Novorizonte', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3425, 'estado_id' => 25, 'cidade_nome' => 'Nuporanga', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3426, 'estado_id' => 14, 'cidade_nome' => 'Óbidos', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3427, 'estado_id' => 6, 'cidade_nome' => 'Ocara', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3428, 'estado_id' => 25, 'cidade_nome' => 'Ocauçu', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3429, 'estado_id' => 18, 'cidade_nome' => 'Oeiras', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3430, 'estado_id' => 14, 'cidade_nome' => 'Oeiras do Pará', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3431, 'estado_id' => 3, 'cidade_nome' => 'Oiapoque', 'cidade_uf' => 'AP',
+            ['cidade_id' => 3432, 'estado_id' => 13, 'cidade_nome' => 'Olaria', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3433, 'estado_id' => 25, 'cidade_nome' => 'Óleo', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3434, 'estado_id' => 15, 'cidade_nome' => 'Olho d\'Água', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3435, 'estado_id' => 10, 'cidade_nome' => 'Olho d\'Água das Cunhãs', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3436, 'estado_id' => 2, 'cidade_nome' => 'Olho d\'Água das Flores', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3437, 'estado_id' => 2, 'cidade_nome' => 'Olho d\'Água do Casado', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3438, 'estado_id' => 18, 'cidade_nome' => 'Olho D\'Água do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3439, 'estado_id' => 2, 'cidade_nome' => 'Olho d\'Água Grande', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3440, 'estado_id' => 20, 'cidade_nome' => 'Olho-d\'Água do Borges', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3441, 'estado_id' => 13, 'cidade_nome' => 'Olhos-d\'Água', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3442, 'estado_id' => 25, 'cidade_nome' => 'Olímpia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3443, 'estado_id' => 13, 'cidade_nome' => 'Olímpio Noronha', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3444, 'estado_id' => 17, 'cidade_nome' => 'Olinda', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3445, 'estado_id' => 10, 'cidade_nome' => 'Olinda Nova do Maranhão', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3446, 'estado_id' => 5, 'cidade_nome' => 'Olindina', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3447, 'estado_id' => 15, 'cidade_nome' => 'Olivedos', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3448, 'estado_id' => 13, 'cidade_nome' => 'Oliveira', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3449, 'estado_id' => 27, 'cidade_nome' => 'Oliveira de Fátima', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3450, 'estado_id' => 5, 'cidade_nome' => 'Oliveira dos Brejinhos', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3451, 'estado_id' => 13, 'cidade_nome' => 'Oliveira Fortes', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3452, 'estado_id' => 2, 'cidade_nome' => 'Olivença', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3453, 'estado_id' => 13, 'cidade_nome' => 'Onça de Pitangui', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3454, 'estado_id' => 25, 'cidade_nome' => 'Onda Verde', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3455, 'estado_id' => 13, 'cidade_nome' => 'Oratórios', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3456, 'estado_id' => 25, 'cidade_nome' => 'Oriente', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3457, 'estado_id' => 25, 'cidade_nome' => 'Orindiúva', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3458, 'estado_id' => 14, 'cidade_nome' => 'Oriximiná', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3459, 'estado_id' => 13, 'cidade_nome' => 'Orizânia', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3460, 'estado_id' => 9, 'cidade_nome' => 'Orizona', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3461, 'estado_id' => 25, 'cidade_nome' => 'Orlândia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3462, 'estado_id' => 24, 'cidade_nome' => 'Orleans', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3463, 'estado_id' => 17, 'cidade_nome' => 'Orobó', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3464, 'estado_id' => 17, 'cidade_nome' => 'Orocó', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3465, 'estado_id' => 6, 'cidade_nome' => 'Orós', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3466, 'estado_id' => 16, 'cidade_nome' => 'Ortigueira', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3467, 'estado_id' => 25, 'cidade_nome' => 'Osasco', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3468, 'estado_id' => 25, 'cidade_nome' => 'Oscar Bressane', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3469, 'estado_id' => 21, 'cidade_nome' => 'Osório', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3470, 'estado_id' => 25, 'cidade_nome' => 'Osvaldo Cruz', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3471, 'estado_id' => 24, 'cidade_nome' => 'Otacílio Costa', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3472, 'estado_id' => 14, 'cidade_nome' => 'Ourém', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3473, 'estado_id' => 5, 'cidade_nome' => 'Ouriçangas', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3474, 'estado_id' => 17, 'cidade_nome' => 'Ouricuri', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3475, 'estado_id' => 14, 'cidade_nome' => 'Ourilândia do Norte', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3476, 'estado_id' => 25, 'cidade_nome' => 'Ourinhos', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3477, 'estado_id' => 16, 'cidade_nome' => 'Ourizona', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3478, 'estado_id' => 24, 'cidade_nome' => 'Ouro', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3479, 'estado_id' => 2, 'cidade_nome' => 'Ouro Branco', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3480, 'estado_id' => 13, 'cidade_nome' => 'Ouro Branco', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3481, 'estado_id' => 20, 'cidade_nome' => 'Ouro Branco', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3482, 'estado_id' => 13, 'cidade_nome' => 'Ouro Fino', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3483, 'estado_id' => 13, 'cidade_nome' => 'Ouro Preto', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3484, 'estado_id' => 22, 'cidade_nome' => 'Ouro Preto do Oeste', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3485, 'estado_id' => 15, 'cidade_nome' => 'Ouro Velho', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3486, 'estado_id' => 24, 'cidade_nome' => 'Ouro Verde', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3487, 'estado_id' => 25, 'cidade_nome' => 'Ouro Verde', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3488, 'estado_id' => 9, 'cidade_nome' => 'Ouro Verde de Goiás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3489, 'estado_id' => 13, 'cidade_nome' => 'Ouro Verde de Minas', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3490, 'estado_id' => 16, 'cidade_nome' => 'Ouro Verde do Oeste', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3491, 'estado_id' => 25, 'cidade_nome' => 'Ouroeste', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3492, 'estado_id' => 5, 'cidade_nome' => 'Ourolândia', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3493, 'estado_id' => 9, 'cidade_nome' => 'Ouvidor', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3494, 'estado_id' => 25, 'cidade_nome' => 'Pacaembu', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3495, 'estado_id' => 14, 'cidade_nome' => 'Pacajá', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3496, 'estado_id' => 6, 'cidade_nome' => 'Pacajus', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3497, 'estado_id' => 23, 'cidade_nome' => 'Pacaraima', 'cidade_uf' => 'RR',
+            ['cidade_id' => 3498, 'estado_id' => 6, 'cidade_nome' => 'Pacatuba', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3499, 'estado_id' => 26, 'cidade_nome' => 'Pacatuba', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3500, 'estado_id' => 10, 'cidade_nome' => 'Paço do Lumiar', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3501, 'estado_id' => 6, 'cidade_nome' => 'Pacoti', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3502, 'estado_id' => 6, 'cidade_nome' => 'Pacujá', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3503, 'estado_id' => 9, 'cidade_nome' => 'Padre Bernardo', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3504, 'estado_id' => 13, 'cidade_nome' => 'Padre Carvalho', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3505, 'estado_id' => 18, 'cidade_nome' => 'Padre Marcos', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3506, 'estado_id' => 13, 'cidade_nome' => 'Padre Paraíso', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3507, 'estado_id' => 18, 'cidade_nome' => 'Paes Landim', 'cidade_uf' => 'PI',
             INSERT INTO `cidades` VALUES ('3508', '13', 'Pai Pedro', 'MG');
             INSERT INTO `cidades` VALUES ('3509', '24', 'Paial', 'SC');
             INSERT INTO `cidades` VALUES ('3510', '16', 'Paiçandu', 'PR');

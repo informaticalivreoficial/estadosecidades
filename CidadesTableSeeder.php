@@ -3568,699 +3568,699 @@ class CidadesTableSeeder extends Seeder
             ['cidade_id' => 3505, 'estado_id' => 18, 'cidade_nome' => 'Padre Marcos', 'cidade_uf' => 'PI',
             ['cidade_id' => 3506, 'estado_id' => 13, 'cidade_nome' => 'Padre Paraíso', 'cidade_uf' => 'MG',
             ['cidade_id' => 3507, 'estado_id' => 18, 'cidade_nome' => 'Paes Landim', 'cidade_uf' => 'PI',
-            INSERT INTO `cidades` VALUES ('3508', '13', 'Pai Pedro', 'MG');
-            INSERT INTO `cidades` VALUES ('3509', '24', 'Paial', 'SC');
-            INSERT INTO `cidades` VALUES ('3510', '16', 'Paiçandu', 'PR');
-            INSERT INTO `cidades` VALUES ('3511', '21', 'Paim Filho', 'RS');
-            INSERT INTO `cidades` VALUES ('3512', '13', 'Paineiras', 'MG');
-            INSERT INTO `cidades` VALUES ('3513', '24', 'Painel', 'SC');
-            INSERT INTO `cidades` VALUES ('3514', '13', 'Pains', 'MG');
-            INSERT INTO `cidades` VALUES ('3515', '13', 'Paiva', 'MG');
-            INSERT INTO `cidades` VALUES ('3516', '18', 'Pajeú do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3517', '2', 'Palestina', 'AL');
-            INSERT INTO `cidades` VALUES ('3518', '25', 'Palestina', 'SP');
-            INSERT INTO `cidades` VALUES ('3519', '9', 'Palestina de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3520', '14', 'Palestina do Pará', 'PA');
-            INSERT INTO `cidades` VALUES ('3521', '6', 'Palhano', 'CE');
-            INSERT INTO `cidades` VALUES ('3522', '24', 'Palhoça', 'SC');
-            INSERT INTO `cidades` VALUES ('3523', '13', 'Palma', 'MG');
-            INSERT INTO `cidades` VALUES ('3524', '24', 'Palma Sola', 'SC');
-            INSERT INTO `cidades` VALUES ('3525', '6', 'Palmácia', 'CE');
-            INSERT INTO `cidades` VALUES ('3526', '17', 'Palmares', 'PE');
-            INSERT INTO `cidades` VALUES ('3527', '21', 'Palmares do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('3528', '25', 'Palmares Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3529', '16', 'Palmas', 'PR');
-            INSERT INTO `cidades` VALUES ('3530', '27', 'Palmas', 'TO');
-            INSERT INTO `cidades` VALUES ('3531', '5', 'Palmas de Monte Alto', 'BA');
-            INSERT INTO `cidades` VALUES ('3532', '16', 'Palmeira', 'PR');
-            INSERT INTO `cidades` VALUES ('3533', '24', 'Palmeira', 'SC');
-            INSERT INTO `cidades` VALUES ('3534', '21', 'Palmeira das Missões', 'RS');
-            INSERT INTO `cidades` VALUES ('3535', '18', 'Palmeira do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3536', '25', 'Palmeira d\'Oeste', 'SP');
-            INSERT INTO `cidades` VALUES ('3537', '2', 'Palmeira dos Índios', 'AL');
-            INSERT INTO `cidades` VALUES ('3538', '18', 'Palmeirais', 'PI');
-            INSERT INTO `cidades` VALUES ('3539', '10', 'Palmeirândia', 'MA');
-            INSERT INTO `cidades` VALUES ('3540', '27', 'Palmeirante', 'TO');
-            INSERT INTO `cidades` VALUES ('3541', '5', 'Palmeiras', 'BA');
-            INSERT INTO `cidades` VALUES ('3542', '9', 'Palmeiras de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3543', '27', 'Palmeiras do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3544', '17', 'Palmeirina', 'PE');
-            INSERT INTO `cidades` VALUES ('3545', '27', 'Palmeirópolis', 'TO');
-            INSERT INTO `cidades` VALUES ('3546', '9', 'Palmelo', 'GO');
-            INSERT INTO `cidades` VALUES ('3547', '9', 'Palminópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('3548', '16', 'Palmital', 'PR');
-            INSERT INTO `cidades` VALUES ('3549', '25', 'Palmital', 'SP');
-            INSERT INTO `cidades` VALUES ('3550', '21', 'Palmitinho', 'RS');
-            INSERT INTO `cidades` VALUES ('3551', '24', 'Palmitos', 'SC');
-            INSERT INTO `cidades` VALUES ('3552', '13', 'Palmópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('3553', '16', 'Palotina', 'PR');
-            INSERT INTO `cidades` VALUES ('3554', '9', 'Panamá', 'GO');
-            INSERT INTO `cidades` VALUES ('3555', '21', 'Panambi', 'RS');
-            INSERT INTO `cidades` VALUES ('3556', '8', 'Pancas', 'ES');
-            INSERT INTO `cidades` VALUES ('3557', '17', 'Panelas', 'PE');
-            INSERT INTO `cidades` VALUES ('3558', '25', 'Panorama', 'SP');
-            INSERT INTO `cidades` VALUES ('3559', '21', 'Pantano Grande', 'RS');
-            INSERT INTO `cidades` VALUES ('3560', '2', 'Pão de Açúcar', 'AL');
-            INSERT INTO `cidades` VALUES ('3561', '13', 'Papagaios', 'MG');
-            INSERT INTO `cidades` VALUES ('3562', '24', 'Papanduva', 'SC');
-            INSERT INTO `cidades` VALUES ('3563', '18', 'Paquetá', 'PI');
-            INSERT INTO `cidades` VALUES ('3564', '13', 'Pará de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3565', '19', 'Paracambi', 'RJ');
-            INSERT INTO `cidades` VALUES ('3566', '13', 'Paracatu', 'MG');
-            INSERT INTO `cidades` VALUES ('3567', '6', 'Paracuru', 'CE');
-            INSERT INTO `cidades` VALUES ('3568', '14', 'Paragominas', 'PA');
-            INSERT INTO `cidades` VALUES ('3569', '13', 'Paraguaçu', 'MG');
-            INSERT INTO `cidades` VALUES ('3570', '25', 'Paraguaçu Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3571', '21', 'Paraí', 'RS');
-            INSERT INTO `cidades` VALUES ('3572', '19', 'Paraíba do Sul', 'RJ');
-            INSERT INTO `cidades` VALUES ('3573', '10', 'Paraibano', 'MA');
-            INSERT INTO `cidades` VALUES ('3574', '25', 'Paraibuna', 'SP');
-            INSERT INTO `cidades` VALUES ('3575', '6', 'Paraipaba', 'CE');
-            INSERT INTO `cidades` VALUES ('3576', '24', 'Paraíso', 'SC');
-            INSERT INTO `cidades` VALUES ('3577', '25', 'Paraíso', 'SP');
-            INSERT INTO `cidades` VALUES ('3578', '16', 'Paraíso do Norte', 'PR');
-            INSERT INTO `cidades` VALUES ('3579', '21', 'Paraíso do Sul', 'RS');
-            INSERT INTO `cidades` VALUES ('3580', '27', 'Paraíso do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3581', '13', 'Paraisópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('3582', '6', 'Parambu', 'CE');
-            INSERT INTO `cidades` VALUES ('3583', '5', 'Paramirim', 'BA');
-            INSERT INTO `cidades` VALUES ('3584', '6', 'Paramoti', 'CE');
-            INSERT INTO `cidades` VALUES ('3585', '20', 'Paraná', 'RN');
-            INSERT INTO `cidades` VALUES ('3586', '27', 'Paranã', 'TO');
-            INSERT INTO `cidades` VALUES ('3587', '16', 'Paranacity', 'PR');
-            INSERT INTO `cidades` VALUES ('3588', '16', 'Paranaguá', 'PR');
-            INSERT INTO `cidades` VALUES ('3589', '12', 'Paranaíba', 'MS');
-            INSERT INTO `cidades` VALUES ('3590', '9', 'Paranaiguara', 'GO');
-            INSERT INTO `cidades` VALUES ('3591', '11', 'Paranaíta', 'MT');
-            INSERT INTO `cidades` VALUES ('3592', '25', 'Paranapanema', 'SP');
-            INSERT INTO `cidades` VALUES ('3593', '16', 'Paranapoema', 'PR');
-            INSERT INTO `cidades` VALUES ('3594', '25', 'Paranapuã', 'SP');
-            INSERT INTO `cidades` VALUES ('3595', '17', 'Paranatama', 'PE');
-            INSERT INTO `cidades` VALUES ('3596', '11', 'Paranatinga', 'MT');
-            INSERT INTO `cidades` VALUES ('3597', '16', 'Paranavaí', 'PR');
-            INSERT INTO `cidades` VALUES ('3598', '12', 'Paranhos', 'MS');
-            INSERT INTO `cidades` VALUES ('3599', '13', 'Paraopeba', 'MG');
-            INSERT INTO `cidades` VALUES ('3600', '25', 'Parapuã', 'SP');
-            INSERT INTO `cidades` VALUES ('3601', '15', 'Parari', 'PB');
-            INSERT INTO `cidades` VALUES ('3602', '5', 'Paratinga', 'BA');
-            INSERT INTO `cidades` VALUES ('3603', '19', 'Paraty', 'RJ');
-            INSERT INTO `cidades` VALUES ('3604', '20', 'Paraú', 'RN');
-            INSERT INTO `cidades` VALUES ('3605', '14', 'Parauapebas', 'PA');
-            INSERT INTO `cidades` VALUES ('3606', '9', 'Paraúna', 'GO');
-            INSERT INTO `cidades` VALUES ('3607', '20', 'Parazinho', 'RN');
-            INSERT INTO `cidades` VALUES ('3608', '25', 'Pardinho', 'SP');
-            INSERT INTO `cidades` VALUES ('3609', '21', 'Pareci Novo', 'RS');
-            INSERT INTO `cidades` VALUES ('3610', '22', 'Parecis', 'RO');
-            INSERT INTO `cidades` VALUES ('3611', '20', 'Parelhas', 'RN');
-            INSERT INTO `cidades` VALUES ('3612', '2', 'Pariconha', 'AL');
-            INSERT INTO `cidades` VALUES ('3613', '4', 'Parintins', 'AM');
-            INSERT INTO `cidades` VALUES ('3614', '5', 'Paripiranga', 'BA');
-            INSERT INTO `cidades` VALUES ('3615', '2', 'Paripueira', 'AL');
-            INSERT INTO `cidades` VALUES ('3616', '25', 'Pariquera-Açu', 'SP');
-            INSERT INTO `cidades` VALUES ('3617', '25', 'Parisi', 'SP');
-            INSERT INTO `cidades` VALUES ('3618', '18', 'Parnaguá', 'PI');
-            INSERT INTO `cidades` VALUES ('3619', '18', 'Parnaíba', 'PI');
-            INSERT INTO `cidades` VALUES ('3620', '17', 'Parnamirim', 'PE');
-            INSERT INTO `cidades` VALUES ('3621', '20', 'Parnamirim', 'RN');
-            INSERT INTO `cidades` VALUES ('3622', '10', 'Parnarama', 'MA');
-            INSERT INTO `cidades` VALUES ('3623', '21', 'Parobé', 'RS');
-            INSERT INTO `cidades` VALUES ('3624', '20', 'Passa e Fica', 'RN');
-            INSERT INTO `cidades` VALUES ('3625', '13', 'Passa Quatro', 'MG');
-            INSERT INTO `cidades` VALUES ('3626', '21', 'Passa Sete', 'RS');
-            INSERT INTO `cidades` VALUES ('3627', '13', 'Passa Tempo', 'MG');
-            INSERT INTO `cidades` VALUES ('3628', '13', 'Passabém', 'MG');
-            INSERT INTO `cidades` VALUES ('3629', '15', 'Passagem', 'PB');
-            INSERT INTO `cidades` VALUES ('3630', '20', 'Passagem', 'RN');
-            INSERT INTO `cidades` VALUES ('3631', '10', 'Passagem Franca', 'MA');
-            INSERT INTO `cidades` VALUES ('3632', '18', 'Passagem Franca do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3633', '13', 'Passa-Vinte', 'MG');
-            INSERT INTO `cidades` VALUES ('3634', '17', 'Passira', 'PE');
-            INSERT INTO `cidades` VALUES ('3635', '2', 'Passo de Camaragibe', 'AL');
-            INSERT INTO `cidades` VALUES ('3636', '24', 'Passo de Torres', 'SC');
-            INSERT INTO `cidades` VALUES ('3637', '21', 'Passo do Sobrado', 'RS');
-            INSERT INTO `cidades` VALUES ('3638', '21', 'Passo Fundo', 'RS');
-            INSERT INTO `cidades` VALUES ('3639', '13', 'Passos', 'MG');
-            INSERT INTO `cidades` VALUES ('3640', '24', 'Passos Maia', 'SC');
-            INSERT INTO `cidades` VALUES ('3641', '10', 'Pastos Bons', 'MA');
-            INSERT INTO `cidades` VALUES ('3642', '13', 'Patis', 'MG');
-            INSERT INTO `cidades` VALUES ('3643', '16', 'Pato Bragado', 'PR');
-            INSERT INTO `cidades` VALUES ('3644', '16', 'Pato Branco', 'PR');
-            INSERT INTO `cidades` VALUES ('3645', '15', 'Patos', 'PB');
-            INSERT INTO `cidades` VALUES ('3646', '13', 'Patos de Minas', 'MG');
-            INSERT INTO `cidades` VALUES ('3647', '18', 'Patos do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3648', '13', 'Patrocínio', 'MG');
-            INSERT INTO `cidades` VALUES ('3649', '13', 'Patrocínio do Muriaé', 'MG');
-            INSERT INTO `cidades` VALUES ('3650', '25', 'Patrocínio Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3651', '20', 'Patu', 'RN');
-            INSERT INTO `cidades` VALUES ('3652', '19', 'Paty do Alferes', 'RJ');
-            INSERT INTO `cidades` VALUES ('3653', '5', 'Pau Brasil', 'BA');
-            INSERT INTO `cidades` VALUES ('3654', '14', 'Pau D\'Arco', 'PA');
-            INSERT INTO `cidades` VALUES ('3655', '27', 'Pau D\'Arco', 'TO');
-            INSERT INTO `cidades` VALUES ('3656', '18', 'Pau D\'Arco do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3657', '20', 'Pau dos Ferros', 'RN');
-            INSERT INTO `cidades` VALUES ('3658', '17', 'Paudalho', 'PE');
-            INSERT INTO `cidades` VALUES ('3659', '4', 'Pauini', 'AM');
-            INSERT INTO `cidades` VALUES ('3660', '13', 'Paula Cândido', 'MG');
-            INSERT INTO `cidades` VALUES ('3661', '16', 'Paula Freitas', 'PR');
-            INSERT INTO `cidades` VALUES ('3662', '25', 'Paulicéia', 'SP');
-            INSERT INTO `cidades` VALUES ('3663', '25', 'Paulínia', 'SP');
-            INSERT INTO `cidades` VALUES ('3664', '10', 'Paulino Neves', 'MA');
-            INSERT INTO `cidades` VALUES ('3665', '15', 'Paulista', 'PB');
-            INSERT INTO `cidades` VALUES ('3666', '17', 'Paulista', 'PE');
-            INSERT INTO `cidades` VALUES ('3667', '18', 'Paulistana', 'PI');
-            INSERT INTO `cidades` VALUES ('3668', '25', 'Paulistânia', 'SP');
-            INSERT INTO `cidades` VALUES ('3669', '13', 'Paulistas', 'MG');
-            INSERT INTO `cidades` VALUES ('3670', '5', 'Paulo Afonso', 'BA');
-            INSERT INTO `cidades` VALUES ('3671', '21', 'Paulo Bento', 'RS');
-            INSERT INTO `cidades` VALUES ('3672', '25', 'Paulo de Faria', 'SP');
-            INSERT INTO `cidades` VALUES ('3673', '16', 'Paulo Frontin', 'PR');
-            INSERT INTO `cidades` VALUES ('3674', '2', 'Paulo Jacinto', 'AL');
-            INSERT INTO `cidades` VALUES ('3675', '24', 'Paulo Lopes', 'SC');
-            INSERT INTO `cidades` VALUES ('3676', '10', 'Paulo Ramos', 'MA');
-            INSERT INTO `cidades` VALUES ('3677', '13', 'Pavão', 'MG');
-            INSERT INTO `cidades` VALUES ('3678', '21', 'Paverama', 'RS');
-            INSERT INTO `cidades` VALUES ('3679', '18', 'Pavussu', 'PI');
-            INSERT INTO `cidades` VALUES ('3680', '5', 'Pé de Serra', 'BA');
-            INSERT INTO `cidades` VALUES ('3681', '16', 'Peabiru', 'PR');
-            INSERT INTO `cidades` VALUES ('3682', '13', 'Peçanha', 'MG');
-            INSERT INTO `cidades` VALUES ('3683', '25', 'Pederneiras', 'SP');
-            INSERT INTO `cidades` VALUES ('3684', '17', 'Pedra', 'PE');
-            INSERT INTO `cidades` VALUES ('3685', '13', 'Pedra Azul', 'MG');
-            INSERT INTO `cidades` VALUES ('3686', '25', 'Pedra Bela', 'SP');
-            INSERT INTO `cidades` VALUES ('3687', '13', 'Pedra Bonita', 'MG');
-            INSERT INTO `cidades` VALUES ('3688', '6', 'Pedra Branca', 'CE');
-            INSERT INTO `cidades` VALUES ('3689', '15', 'Pedra Branca', 'PB');
-            INSERT INTO `cidades` VALUES ('3690', '3', 'Pedra Branca do Amapari', 'AP');
-            INSERT INTO `cidades` VALUES ('3691', '13', 'Pedra do Anta', 'MG');
-            INSERT INTO `cidades` VALUES ('3692', '13', 'Pedra do Indaiá', 'MG');
-            INSERT INTO `cidades` VALUES ('3693', '13', 'Pedra Dourada', 'MG');
-            INSERT INTO `cidades` VALUES ('3694', '20', 'Pedra Grande', 'RN');
-            INSERT INTO `cidades` VALUES ('3695', '15', 'Pedra Lavrada', 'PB');
-            INSERT INTO `cidades` VALUES ('3696', '26', 'Pedra Mole', 'SE');
-            INSERT INTO `cidades` VALUES ('3697', '11', 'Pedra Preta', 'MT');
-            INSERT INTO `cidades` VALUES ('3698', '20', 'Pedra Preta', 'RN');
-            INSERT INTO `cidades` VALUES ('3699', '13', 'Pedralva', 'MG');
-            INSERT INTO `cidades` VALUES ('3700', '25', 'Pedranópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('3701', '5', 'Pedrão', 'BA');
-            INSERT INTO `cidades` VALUES ('3702', '21', 'Pedras Altas', 'RS');
-            INSERT INTO `cidades` VALUES ('3703', '15', 'Pedras de Fogo', 'PB');
-            INSERT INTO `cidades` VALUES ('3704', '13', 'Pedras de Maria da Cruz', 'MG');
-            INSERT INTO `cidades` VALUES ('3705', '24', 'Pedras Grandes', 'SC');
-            INSERT INTO `cidades` VALUES ('3706', '25', 'Pedregulho', 'SP');
-            INSERT INTO `cidades` VALUES ('3707', '25', 'Pedreira', 'SP');
-            INSERT INTO `cidades` VALUES ('3708', '10', 'Pedreiras', 'MA');
-            INSERT INTO `cidades` VALUES ('3709', '26', 'Pedrinhas', 'SE');
-            INSERT INTO `cidades` VALUES ('3710', '25', 'Pedrinhas Paulista', 'SP');
-            INSERT INTO `cidades` VALUES ('3711', '13', 'Pedrinópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('3712', '27', 'Pedro Afonso', 'TO');
-            INSERT INTO `cidades` VALUES ('3713', '5', 'Pedro Alexandre', 'BA');
-            INSERT INTO `cidades` VALUES ('3714', '20', 'Pedro Avelino', 'RN');
-            INSERT INTO `cidades` VALUES ('3715', '8', 'Pedro Canário', 'ES');
-            INSERT INTO `cidades` VALUES ('3716', '25', 'Pedro de Toledo', 'SP');
-            INSERT INTO `cidades` VALUES ('3717', '10', 'Pedro do Rosário', 'MA');
-            INSERT INTO `cidades` VALUES ('3718', '12', 'Pedro Gomes', 'MS');
-            INSERT INTO `cidades` VALUES ('3719', '18', 'Pedro II', 'PI');
-            INSERT INTO `cidades` VALUES ('3720', '18', 'Pedro Laurentino', 'PI');
-            INSERT INTO `cidades` VALUES ('3721', '13', 'Pedro Leopoldo', 'MG');
-            INSERT INTO `cidades` VALUES ('3722', '21', 'Pedro Osório', 'RS');
-            INSERT INTO `cidades` VALUES ('3723', '15', 'Pedro Régis', 'PB');
-            INSERT INTO `cidades` VALUES ('3724', '13', 'Pedro Teixeira', 'MG');
-            INSERT INTO `cidades` VALUES ('3725', '20', 'Pedro Velho', 'RN');
-            INSERT INTO `cidades` VALUES ('3726', '27', 'Peixe', 'TO');
-            INSERT INTO `cidades` VALUES ('3727', '14', 'Peixe-Boi', 'PA');
-            INSERT INTO `cidades` VALUES ('3728', '11', 'Peixoto de Azevedo', 'MT');
-            INSERT INTO `cidades` VALUES ('3729', '21', 'Pejuçara', 'RS');
-            INSERT INTO `cidades` VALUES ('3730', '21', 'Pelotas', 'RS');
-            INSERT INTO `cidades` VALUES ('3731', '6', 'Penaforte', 'CE');
-            INSERT INTO `cidades` VALUES ('3732', '10', 'Penalva', 'MA');
-            INSERT INTO `cidades` VALUES ('3733', '25', 'Penápolis', 'SP');
-            INSERT INTO `cidades` VALUES ('3734', '20', 'Pendências', 'RN');
-            INSERT INTO `cidades` VALUES ('3735', '2', 'Penedo', 'AL');
-            INSERT INTO `cidades` VALUES ('3736', '24', 'Penha', 'SC');
-            INSERT INTO `cidades` VALUES ('3737', '6', 'Pentecoste', 'CE');
-            INSERT INTO `cidades` VALUES ('3738', '13', 'Pequeri', 'MG');
-            INSERT INTO `cidades` VALUES ('3739', '13', 'Pequi', 'MG');
-            INSERT INTO `cidades` VALUES ('3740', '27', 'Pequizeiro', 'TO');
-            INSERT INTO `cidades` VALUES ('3741', '13', 'Perdigão', 'MG');
-            INSERT INTO `cidades` VALUES ('3742', '13', 'Perdizes', 'MG');
-            INSERT INTO `cidades` VALUES ('3743', '13', 'Perdões', 'MG');
-            INSERT INTO `cidades` VALUES ('3744', '25', 'Pereira Barreto', 'SP');
-            INSERT INTO `cidades` VALUES ('3745', '25', 'Pereiras', 'SP');
-            INSERT INTO `cidades` VALUES ('3746', '6', 'Pereiro', 'CE');
-            INSERT INTO `cidades` VALUES ('3747', '10', 'Peri Mirim', 'MA');
-            INSERT INTO `cidades` VALUES ('3748', '13', 'Periquito', 'MG');
-            INSERT INTO `cidades` VALUES ('3749', '24', 'Peritiba', 'SC');
-            INSERT INTO `cidades` VALUES ('3750', '10', 'Peritoró', 'MA');
-            INSERT INTO `cidades` VALUES ('3751', '16', 'Perobal', 'PR');
-            INSERT INTO `cidades` VALUES ('3752', '16', 'Pérola', 'PR');
-            INSERT INTO `cidades` VALUES ('3753', '16', 'Pérola d\'Oeste', 'PR');
-            INSERT INTO `cidades` VALUES ('3754', '9', 'Perolândia', 'GO');
-            INSERT INTO `cidades` VALUES ('3755', '25', 'Peruíbe', 'SP');
-            INSERT INTO `cidades` VALUES ('3756', '13', 'Pescador', 'MG');
-            INSERT INTO `cidades` VALUES ('3757', '17', 'Pesqueira', 'PE');
-            INSERT INTO `cidades` VALUES ('3758', '17', 'Petrolândia', 'PE');
-            INSERT INTO `cidades` VALUES ('3759', '24', 'Petrolândia', 'SC');
-            INSERT INTO `cidades` VALUES ('3760', '17', 'Petrolina', 'PE');
-            INSERT INTO `cidades` VALUES ('3761', '9', 'Petrolina de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3762', '19', 'Petrópolis', 'RJ');
-            INSERT INTO `cidades` VALUES ('3763', '2', 'Piaçabuçu', 'AL');
-            INSERT INTO `cidades` VALUES ('3764', '25', 'Piacatu', 'SP');
-            INSERT INTO `cidades` VALUES ('3765', '15', 'Piancó', 'PB');
-            INSERT INTO `cidades` VALUES ('3766', '5', 'Piatã', 'BA');
-            INSERT INTO `cidades` VALUES ('3767', '13', 'Piau', 'MG');
-            INSERT INTO `cidades` VALUES ('3768', '21', 'Picada Café', 'RS');
-            INSERT INTO `cidades` VALUES ('3769', '14', 'Piçarra', 'PA');
-            INSERT INTO `cidades` VALUES ('3770', '18', 'Picos', 'PI');
-            INSERT INTO `cidades` VALUES ('3771', '15', 'Picuí', 'PB');
-            INSERT INTO `cidades` VALUES ('3772', '25', 'Piedade', 'SP');
-            INSERT INTO `cidades` VALUES ('3773', '13', 'Piedade de Caratinga', 'MG');
-            INSERT INTO `cidades` VALUES ('3774', '13', 'Piedade de Ponte Nova', 'MG');
-            INSERT INTO `cidades` VALUES ('3775', '13', 'Piedade do Rio Grande', 'MG');
-            INSERT INTO `cidades` VALUES ('3776', '13', 'Piedade dos Gerais', 'MG');
-            INSERT INTO `cidades` VALUES ('3777', '16', 'Piên', 'PR');
-            INSERT INTO `cidades` VALUES ('3778', '5', 'Pilão Arcado', 'BA');
-            INSERT INTO `cidades` VALUES ('3779', '2', 'Pilar', 'AL');
-            INSERT INTO `cidades` VALUES ('3780', '15', 'Pilar', 'PB');
-            INSERT INTO `cidades` VALUES ('3781', '9', 'Pilar de Goiás', 'GO');
-            INSERT INTO `cidades` VALUES ('3782', '25', 'Pilar do Sul', 'SP');
-            INSERT INTO `cidades` VALUES ('3783', '15', 'Pilões', 'PB');
-            INSERT INTO `cidades` VALUES ('3784', '20', 'Pilões', 'RN');
-            INSERT INTO `cidades` VALUES ('3785', '15', 'Pilõezinhos', 'PB');
-            INSERT INTO `cidades` VALUES ('3786', '13', 'Pimenta', 'MG');
-            INSERT INTO `cidades` VALUES ('3787', '22', 'Pimenta Bueno', 'RO');
-            INSERT INTO `cidades` VALUES ('3788', '18', 'Pimenteiras', 'PI');
-            INSERT INTO `cidades` VALUES ('3789', '22', 'Pimenteiras do Oeste', 'RO');
-            INSERT INTO `cidades` VALUES ('3790', '5', 'Pindaí', 'BA');
-            INSERT INTO `cidades` VALUES ('3791', '25', 'Pindamonhangaba', 'SP');
-            INSERT INTO `cidades` VALUES ('3792', '10', 'Pindaré-Mirim', 'MA');
-            INSERT INTO `cidades` VALUES ('3793', '2', 'Pindoba', 'AL');
-            INSERT INTO `cidades` VALUES ('3794', '5', 'Pindobaçu', 'BA');
-            INSERT INTO `cidades` VALUES ('3795', '25', 'Pindorama', 'SP');
-            INSERT INTO `cidades` VALUES ('3796', '27', 'Pindorama do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3797', '6', 'Pindoretama', 'CE');
-            INSERT INTO `cidades` VALUES ('3798', '13', 'Pingo-d\'Água', 'MG');
-            INSERT INTO `cidades` VALUES ('3799', '16', 'Pinhais', 'PR');
-            INSERT INTO `cidades` VALUES ('3800', '21', 'Pinhal', 'RS');
-            INSERT INTO `cidades` VALUES ('3801', '21', 'Pinhal da Serra', 'RS');
-            INSERT INTO `cidades` VALUES ('3802', '16', 'Pinhal de São Bento', 'PR');
-            INSERT INTO `cidades` VALUES ('3803', '21', 'Pinhal Grande', 'RS');
-            INSERT INTO `cidades` VALUES ('3804', '16', 'Pinhalão', 'PR');
-            INSERT INTO `cidades` VALUES ('3805', '24', 'Pinhalzinho', 'SC');
-            INSERT INTO `cidades` VALUES ('3806', '25', 'Pinhalzinho', 'SP');
-            INSERT INTO `cidades` VALUES ('3807', '16', 'Pinhão', 'PR');
-            INSERT INTO `cidades` VALUES ('3808', '26', 'Pinhão', 'SE');
-            INSERT INTO `cidades` VALUES ('3809', '19', 'Pinheiral', 'RJ');
-            INSERT INTO `cidades` VALUES ('3810', '21', 'Pinheirinho do Vale', 'RS');
-            INSERT INTO `cidades` VALUES ('3811', '10', 'Pinheiro', 'MA');
-            INSERT INTO `cidades` VALUES ('3812', '21', 'Pinheiro Machado', 'RS');
-            INSERT INTO `cidades` VALUES ('3813', '24', 'Pinheiro Preto', 'SC');
-            INSERT INTO `cidades` VALUES ('3814', '8', 'Pinheiros', 'ES');
-            INSERT INTO `cidades` VALUES ('3815', '5', 'Pintadas', 'BA');
-            INSERT INTO `cidades` VALUES ('3816', '13', 'Pintópolis', 'MG');
-            INSERT INTO `cidades` VALUES ('3817', '18', 'Pio IX', 'PI');
-            INSERT INTO `cidades` VALUES ('3818', '10', 'Pio XII', 'MA');
-            INSERT INTO `cidades` VALUES ('3819', '25', 'Piquerobi', 'SP');
-            INSERT INTO `cidades` VALUES ('3820', '6', 'Piquet Carneiro', 'CE');
-            INSERT INTO `cidades` VALUES ('3821', '25', 'Piquete', 'SP');
-            INSERT INTO `cidades` VALUES ('3822', '25', 'Piracaia', 'SP');
-            INSERT INTO `cidades` VALUES ('3823', '9', 'Piracanjuba', 'GO');
-            INSERT INTO `cidades` VALUES ('3824', '13', 'Piracema', 'MG');
-            INSERT INTO `cidades` VALUES ('3825', '25', 'Piracicaba', 'SP');
-            INSERT INTO `cidades` VALUES ('3826', '18', 'Piracuruca', 'PI');
-            INSERT INTO `cidades` VALUES ('3827', '19', 'Piraí', 'RJ');
-            INSERT INTO `cidades` VALUES ('3828', '5', 'Piraí do Norte', 'BA');
-            INSERT INTO `cidades` VALUES ('3829', '16', 'Piraí do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('3830', '25', 'Piraju', 'SP');
-            INSERT INTO `cidades` VALUES ('3831', '13', 'Pirajuba', 'MG');
-            INSERT INTO `cidades` VALUES ('3832', '25', 'Pirajuí', 'SP');
-            INSERT INTO `cidades` VALUES ('3833', '26', 'Pirambu', 'SE');
-            INSERT INTO `cidades` VALUES ('3834', '13', 'Piranga', 'MG');
-            INSERT INTO `cidades` VALUES ('3835', '25', 'Pirangi', 'SP');
-            INSERT INTO `cidades` VALUES ('3836', '13', 'Piranguçu', 'MG');
-            INSERT INTO `cidades` VALUES ('3837', '13', 'Piranguinho', 'MG');
-            INSERT INTO `cidades` VALUES ('3838', '2', 'Piranhas', 'AL');
-            INSERT INTO `cidades` VALUES ('3839', '9', 'Piranhas', 'GO');
-            INSERT INTO `cidades` VALUES ('3840', '10', 'Pirapemas', 'MA');
-            INSERT INTO `cidades` VALUES ('3841', '13', 'Pirapetinga', 'MG');
-            INSERT INTO `cidades` VALUES ('3842', '21', 'Pirapó', 'RS');
-            INSERT INTO `cidades` VALUES ('3843', '13', 'Pirapora', 'MG');
-            INSERT INTO `cidades` VALUES ('3844', '25', 'Pirapora do Bom Jesus', 'SP');
-            INSERT INTO `cidades` VALUES ('3845', '25', 'Pirapozinho', 'SP');
-            INSERT INTO `cidades` VALUES ('3846', '16', 'Piraquara', 'PR');
-            INSERT INTO `cidades` VALUES ('3847', '27', 'Piraquê', 'TO');
-            INSERT INTO `cidades` VALUES ('3848', '25', 'Pirassununga', 'SP');
-            INSERT INTO `cidades` VALUES ('3849', '21', 'Piratini', 'RS');
-            INSERT INTO `cidades` VALUES ('3850', '25', 'Piratininga', 'SP');
-            INSERT INTO `cidades` VALUES ('3851', '24', 'Piratuba', 'SC');
-            INSERT INTO `cidades` VALUES ('3852', '13', 'Piraúba', 'MG');
-            INSERT INTO `cidades` VALUES ('3853', '9', 'Pirenópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('3854', '9', 'Pires do Rio', 'GO');
-            INSERT INTO `cidades` VALUES ('3855', '6', 'Pires Ferreira', 'CE');
-            INSERT INTO `cidades` VALUES ('3856', '5', 'Piripá', 'BA');
-            INSERT INTO `cidades` VALUES ('3857', '18', 'Piripiri', 'PI');
-            INSERT INTO `cidades` VALUES ('3858', '5', 'Piritiba', 'BA');
-            INSERT INTO `cidades` VALUES ('3859', '15', 'Pirpirituba', 'PB');
-            INSERT INTO `cidades` VALUES ('3860', '16', 'Pitanga', 'PR');
-            INSERT INTO `cidades` VALUES ('3861', '16', 'Pitangueiras', 'PR');
-            INSERT INTO `cidades` VALUES ('3862', '25', 'Pitangueiras', 'SP');
-            INSERT INTO `cidades` VALUES ('3863', '13', 'Pitangui', 'MG');
-            INSERT INTO `cidades` VALUES ('3864', '15', 'Pitimbu', 'PB');
-            INSERT INTO `cidades` VALUES ('3865', '27', 'Pium', 'TO');
-            INSERT INTO `cidades` VALUES ('3866', '8', 'Piúma', 'ES');
-            INSERT INTO `cidades` VALUES ('3867', '13', 'Piumhi', 'MG');
-            INSERT INTO `cidades` VALUES ('3868', '14', 'Placas', 'PA');
-            INSERT INTO `cidades` VALUES ('3869', '1', 'Plácido de Castro', 'AC');
-            INSERT INTO `cidades` VALUES ('3870', '9', 'Planaltina', 'GO');
-            INSERT INTO `cidades` VALUES ('3871', '16', 'Planaltina do Paraná', 'PR');
-            INSERT INTO `cidades` VALUES ('3872', '5', 'Planaltino', 'BA');
-            INSERT INTO `cidades` VALUES ('3873', '5', 'Planalto', 'BA');
-            INSERT INTO `cidades` VALUES ('3874', '16', 'Planalto', 'PR');
-            INSERT INTO `cidades` VALUES ('3875', '21', 'Planalto', 'RS');
-            INSERT INTO `cidades` VALUES ('3876', '25', 'Planalto', 'SP');
-            INSERT INTO `cidades` VALUES ('3877', '24', 'Planalto Alegre', 'SC');
-            INSERT INTO `cidades` VALUES ('3878', '11', 'Planalto da Serra', 'MT');
-            INSERT INTO `cidades` VALUES ('3879', '13', 'Planura', 'MG');
-            INSERT INTO `cidades` VALUES ('3880', '25', 'Platina', 'SP');
-            INSERT INTO `cidades` VALUES ('3881', '25', 'Poá', 'SP');
-            INSERT INTO `cidades` VALUES ('3882', '17', 'Poção', 'PE');
-            INSERT INTO `cidades` VALUES ('3883', '10', 'Poção de Pedras', 'MA');
-            INSERT INTO `cidades` VALUES ('3884', '15', 'Pocinhos', 'PB');
-            INSERT INTO `cidades` VALUES ('3885', '20', 'Poço Branco', 'RN');
-            INSERT INTO `cidades` VALUES ('3886', '15', 'Poço Dantas', 'PB');
-            INSERT INTO `cidades` VALUES ('3887', '21', 'Poço das Antas', 'RS');
-            INSERT INTO `cidades` VALUES ('3888', '2', 'Poço das Trincheiras', 'AL');
-            INSERT INTO `cidades` VALUES ('3889', '15', 'Poço de José de Moura', 'PB');
-            INSERT INTO `cidades` VALUES ('3890', '13', 'Poço Fundo', 'MG');
-            INSERT INTO `cidades` VALUES ('3891', '26', 'Poço Redondo', 'SE');
-            INSERT INTO `cidades` VALUES ('3892', '26', 'Poço Verde', 'SE');
-            INSERT INTO `cidades` VALUES ('3893', '5', 'Poções', 'BA');
-            INSERT INTO `cidades` VALUES ('3894', '11', 'Poconé', 'MT');
-            INSERT INTO `cidades` VALUES ('3895', '13', 'Poços de Caldas', 'MG');
-            INSERT INTO `cidades` VALUES ('3896', '13', 'Pocrane', 'MG');
-            INSERT INTO `cidades` VALUES ('3897', '5', 'Pojuca', 'BA');
-            INSERT INTO `cidades` VALUES ('3898', '25', 'Poloni', 'SP');
-            INSERT INTO `cidades` VALUES ('3899', '15', 'Pombal', 'PB');
-            INSERT INTO `cidades` VALUES ('3900', '17', 'Pombos', 'PE');
-            INSERT INTO `cidades` VALUES ('3901', '24', 'Pomerode', 'SC');
-            INSERT INTO `cidades` VALUES ('3902', '25', 'Pompéia', 'SP');
-            INSERT INTO `cidades` VALUES ('3903', '13', 'Pompéu', 'MG');
-            INSERT INTO `cidades` VALUES ('3904', '25', 'Pongaí', 'SP');
-            INSERT INTO `cidades` VALUES ('3905', '14', 'Ponta de Pedras', 'PA');
-            INSERT INTO `cidades` VALUES ('3906', '16', 'Ponta Grossa', 'PR');
-            INSERT INTO `cidades` VALUES ('3907', '12', 'Ponta Porã', 'MS');
-            INSERT INTO `cidades` VALUES ('3908', '25', 'Pontal', 'SP');
-            INSERT INTO `cidades` VALUES ('3909', '11', 'Pontal do Araguaia', 'MT');
-            INSERT INTO `cidades` VALUES ('3910', '16', 'Pontal do Paraná', 'PR');
-            INSERT INTO `cidades` VALUES ('3911', '9', 'Pontalina', 'GO');
-            INSERT INTO `cidades` VALUES ('3912', '25', 'Pontalinda', 'SP');
-            INSERT INTO `cidades` VALUES ('3913', '21', 'Pontão', 'RS');
-            INSERT INTO `cidades` VALUES ('3914', '24', 'Ponte Alta', 'SC');
-            INSERT INTO `cidades` VALUES ('3915', '27', 'Ponte Alta do Bom Jesus', 'TO');
-            INSERT INTO `cidades` VALUES ('3916', '24', 'Ponte Alta do Norte', 'SC');
-            INSERT INTO `cidades` VALUES ('3917', '27', 'Ponte Alta do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3918', '11', 'Ponte Branca', 'MT');
-            INSERT INTO `cidades` VALUES ('3919', '13', 'Ponte Nova', 'MG');
-            INSERT INTO `cidades` VALUES ('3920', '21', 'Ponte Preta', 'RS');
-            INSERT INTO `cidades` VALUES ('3921', '24', 'Ponte Serrada', 'SC');
-            INSERT INTO `cidades` VALUES ('3922', '11', 'Pontes e Lacerda', 'MT');
-            INSERT INTO `cidades` VALUES ('3923', '25', 'Pontes Gestal', 'SP');
-            INSERT INTO `cidades` VALUES ('3924', '8', 'Ponto Belo', 'ES');
-            INSERT INTO `cidades` VALUES ('3925', '13', 'Ponto Chique', 'MG');
-            INSERT INTO `cidades` VALUES ('3926', '13', 'Ponto dos Volantes', 'MG');
-            INSERT INTO `cidades` VALUES ('3927', '5', 'Ponto Novo', 'BA');
-            INSERT INTO `cidades` VALUES ('3928', '25', 'Populina', 'SP');
-            INSERT INTO `cidades` VALUES ('3929', '6', 'Poranga', 'CE');
-            INSERT INTO `cidades` VALUES ('3930', '25', 'Porangaba', 'SP');
-            INSERT INTO `cidades` VALUES ('3931', '9', 'Porangatu', 'GO');
-            INSERT INTO `cidades` VALUES ('3932', '19', 'Porciúncula', 'RJ');
-            INSERT INTO `cidades` VALUES ('3933', '16', 'Porecatu', 'PR');
-            INSERT INTO `cidades` VALUES ('3934', '20', 'Portalegre', 'RN');
-            INSERT INTO `cidades` VALUES ('3935', '21', 'Portão', 'RS');
-            INSERT INTO `cidades` VALUES ('3936', '9', 'Porteirão', 'GO');
-            INSERT INTO `cidades` VALUES ('3937', '6', 'Porteiras', 'CE');
-            INSERT INTO `cidades` VALUES ('3938', '13', 'Porteirinha', 'MG');
-            INSERT INTO `cidades` VALUES ('3939', '14', 'Portel', 'PA');
-            INSERT INTO `cidades` VALUES ('3940', '9', 'Portelândia', 'GO');
-            INSERT INTO `cidades` VALUES ('3941', '18', 'Porto', 'PI');
-            INSERT INTO `cidades` VALUES ('3942', '1', 'Porto Acre', 'AC');
-            INSERT INTO `cidades` VALUES ('3943', '21', 'Porto Alegre', 'RS');
-            INSERT INTO `cidades` VALUES ('3944', '11', 'Porto Alegre do Norte', 'MT');
-            INSERT INTO `cidades` VALUES ('3945', '18', 'Porto Alegre do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('3946', '27', 'Porto Alegre do Tocantins', 'TO');
-            INSERT INTO `cidades` VALUES ('3947', '16', 'Porto Amazonas', 'PR');
-            INSERT INTO `cidades` VALUES ('3948', '16', 'Porto Barreiro', 'PR');
-            INSERT INTO `cidades` VALUES ('3949', '24', 'Porto Belo', 'SC');
-            INSERT INTO `cidades` VALUES ('3950', '2', 'Porto Calvo', 'AL');
-            INSERT INTO `cidades` VALUES ('3951', '26', 'Porto da Folha', 'SE');
-            INSERT INTO `cidades` VALUES ('3952', '14', 'Porto de Moz', 'PA');
-            INSERT INTO `cidades` VALUES ('3953', '2', 'Porto de Pedras', 'AL');
-            INSERT INTO `cidades` VALUES ('3954', '20', 'Porto do Mangue', 'RN');
-            INSERT INTO `cidades` VALUES ('3955', '11', 'Porto dos Gaúchos', 'MT');
-            INSERT INTO `cidades` VALUES ('3956', '11', 'Porto Esperidião', 'MT');
-            INSERT INTO `cidades` VALUES ('3957', '11', 'Porto Estrela', 'MT');
-            INSERT INTO `cidades` VALUES ('3958', '25', 'Porto Feliz', 'SP');
-            INSERT INTO `cidades` VALUES ('3959', '25', 'Porto Ferreira', 'SP');
-            INSERT INTO `cidades` VALUES ('3960', '13', 'Porto Firme', 'MG');
-            INSERT INTO `cidades` VALUES ('3961', '10', 'Porto Franco', 'MA');
-            INSERT INTO `cidades` VALUES ('3962', '3', 'Porto Grande', 'AP');
-            INSERT INTO `cidades` VALUES ('3963', '21', 'Porto Lucena', 'RS');
-            INSERT INTO `cidades` VALUES ('3964', '21', 'Porto Mauá', 'RS');
-            INSERT INTO `cidades` VALUES ('3965', '12', 'Porto Murtinho', 'MS');
-            INSERT INTO `cidades` VALUES ('3966', '27', 'Porto Nacional', 'TO');
-            INSERT INTO `cidades` VALUES ('3967', '19', 'Porto Real', 'RJ');
-            INSERT INTO `cidades` VALUES ('3968', '2', 'Porto Real do Colégio', 'AL');
-            INSERT INTO `cidades` VALUES ('3969', '16', 'Porto Rico', 'PR');
-            INSERT INTO `cidades` VALUES ('3970', '10', 'Porto Rico do Maranhão', 'MA');
-            INSERT INTO `cidades` VALUES ('3971', '5', 'Porto Seguro', 'BA');
-            INSERT INTO `cidades` VALUES ('3972', '24', 'Porto União', 'SC');
-            INSERT INTO `cidades` VALUES ('3973', '22', 'Porto Velho', 'RO');
-            INSERT INTO `cidades` VALUES ('3974', '21', 'Porto Vera Cruz', 'RS');
-            INSERT INTO `cidades` VALUES ('3975', '16', 'Porto Vitória', 'PR');
-            INSERT INTO `cidades` VALUES ('3976', '1', 'Porto Walter', 'AC');
-            INSERT INTO `cidades` VALUES ('3977', '21', 'Porto Xavier', 'RS');
-            INSERT INTO `cidades` VALUES ('3978', '9', 'Posse', 'GO');
-            INSERT INTO `cidades` VALUES ('3979', '13', 'Poté', 'MG');
-            INSERT INTO `cidades` VALUES ('3980', '6', 'Potengi', 'CE');
-            INSERT INTO `cidades` VALUES ('3981', '25', 'Potim', 'SP');
-            INSERT INTO `cidades` VALUES ('3982', '5', 'Potiraguá', 'BA');
-            INSERT INTO `cidades` VALUES ('3983', '25', 'Potirendaba', 'SP');
-            INSERT INTO `cidades` VALUES ('3984', '6', 'Potiretama', 'CE');
-            INSERT INTO `cidades` VALUES ('3985', '13', 'Pouso Alegre', 'MG');
-            INSERT INTO `cidades` VALUES ('3986', '13', 'Pouso Alto', 'MG');
-            INSERT INTO `cidades` VALUES ('3987', '21', 'Pouso Novo', 'RS');
-            INSERT INTO `cidades` VALUES ('3988', '24', 'Pouso Redondo', 'SC');
-            INSERT INTO `cidades` VALUES ('3989', '11', 'Poxoréo', 'MT');
-            INSERT INTO `cidades` VALUES ('3990', '25', 'Pracinha', 'SP');
-            INSERT INTO `cidades` VALUES ('3991', '3', 'Pracuúba', 'AP');
-            INSERT INTO `cidades` VALUES ('3992', '5', 'Prado', 'BA');
-            INSERT INTO `cidades` VALUES ('3993', '16', 'Prado Ferreira', 'PR');
-            INSERT INTO `cidades` VALUES ('3994', '25', 'Pradópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('3995', '13', 'Prados', 'MG');
-            INSERT INTO `cidades` VALUES ('3996', '24', 'Praia Grande', 'SC');
-            INSERT INTO `cidades` VALUES ('3997', '25', 'Praia Grande', 'SP');
-            INSERT INTO `cidades` VALUES ('3998', '27', 'Praia Norte', 'TO');
-            INSERT INTO `cidades` VALUES ('3999', '14', 'Prainha', 'PA');
-            INSERT INTO `cidades` VALUES ('4000', '16', 'Pranchita', 'PR');
-            INSERT INTO `cidades` VALUES ('4001', '13', 'Prata', 'MG');
-            INSERT INTO `cidades` VALUES ('4002', '15', 'Prata', 'PB');
-            INSERT INTO `cidades` VALUES ('4003', '18', 'Prata do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('4004', '25', 'Pratânia', 'SP');
-            INSERT INTO `cidades` VALUES ('4005', '13', 'Pratápolis', 'MG');
-            INSERT INTO `cidades` VALUES ('4006', '13', 'Pratinha', 'MG');
-            INSERT INTO `cidades` VALUES ('4007', '25', 'Presidente Alves', 'SP');
-            INSERT INTO `cidades` VALUES ('4008', '13', 'Presidente Bernardes', 'MG');
-            INSERT INTO `cidades` VALUES ('4009', '25', 'Presidente Bernardes', 'SP');
-            INSERT INTO `cidades` VALUES ('4010', '24', 'Presidente Castello Branco', 'SC');
-            INSERT INTO `cidades` VALUES ('4011', '16', 'Presidente Castelo Branco', 'PR');
-            INSERT INTO `cidades` VALUES ('4012', '5', 'Presidente Dutra', 'BA');
-            INSERT INTO `cidades` VALUES ('4013', '10', 'Presidente Dutra', 'MA');
-            INSERT INTO `cidades` VALUES ('4014', '25', 'Presidente Epitácio', 'SP');
-            INSERT INTO `cidades` VALUES ('4015', '4', 'Presidente Figueiredo', 'AM');
-            INSERT INTO `cidades` VALUES ('4016', '24', 'Presidente Getúlio', 'SC');
-            INSERT INTO `cidades` VALUES ('4017', '5', 'Presidente Jânio Quadros', 'BA');
-            INSERT INTO `cidades` VALUES ('4018', '10', 'Presidente Juscelino', 'MA');
-            INSERT INTO `cidades` VALUES ('4019', '13', 'Presidente Juscelino', 'MG');
-            INSERT INTO `cidades` VALUES ('4020', '20', 'Presidente Juscelino', 'RN');
-            INSERT INTO `cidades` VALUES ('4021', '8', 'Presidente Kennedy', 'ES');
-            INSERT INTO `cidades` VALUES ('4022', '27', 'Presidente Kennedy', 'TO');
-            INSERT INTO `cidades` VALUES ('4023', '13', 'Presidente Kubitschek', 'MG');
-            INSERT INTO `cidades` VALUES ('4024', '21', 'Presidente Lucena', 'RS');
-            INSERT INTO `cidades` VALUES ('4025', '10', 'Presidente Médici', 'MA');
-            INSERT INTO `cidades` VALUES ('4026', '22', 'Presidente Médici', 'RO');
-            INSERT INTO `cidades` VALUES ('4027', '24', 'Presidente Nereu', 'SC');
-            INSERT INTO `cidades` VALUES ('4028', '13', 'Presidente Olegário', 'MG');
-            INSERT INTO `cidades` VALUES ('4029', '25', 'Presidente Prudente', 'SP');
-            INSERT INTO `cidades` VALUES ('4030', '10', 'Presidente Sarney', 'MA');
-            INSERT INTO `cidades` VALUES ('4031', '5', 'Presidente Tancredo Neves', 'BA');
-            INSERT INTO `cidades` VALUES ('4032', '10', 'Presidente Vargas', 'MA');
-            INSERT INTO `cidades` VALUES ('4033', '25', 'Presidente Venceslau', 'SP');
-            INSERT INTO `cidades` VALUES ('4034', '14', 'Primavera', 'PA');
-            INSERT INTO `cidades` VALUES ('4035', '17', 'Primavera', 'PE');
-            INSERT INTO `cidades` VALUES ('4036', '22', 'Primavera de Rondônia', 'RO');
-            INSERT INTO `cidades` VALUES ('4037', '11', 'Primavera do Leste', 'MT');
-            INSERT INTO `cidades` VALUES ('4038', '10', 'Primeira Cruz', 'MA');
-            INSERT INTO `cidades` VALUES ('4039', '16', 'Primeiro de Maio', 'PR');
-            INSERT INTO `cidades` VALUES ('4040', '24', 'Princesa', 'SC');
-            INSERT INTO `cidades` VALUES ('4041', '15', 'Princesa Isabel', 'PB');
-            INSERT INTO `cidades` VALUES ('4042', '9', 'Professor Jamil', 'GO');
-            INSERT INTO `cidades` VALUES ('4043', '21', 'Progresso', 'RS');
-            INSERT INTO `cidades` VALUES ('4044', '25', 'Promissão', 'SP');
-            INSERT INTO `cidades` VALUES ('4045', '26', 'Propriá', 'SE');
-            INSERT INTO `cidades` VALUES ('4046', '21', 'Protásio Alves', 'RS');
-            INSERT INTO `cidades` VALUES ('4047', '13', 'Prudente de Morais', 'MG');
-            INSERT INTO `cidades` VALUES ('4048', '16', 'Prudentópolis', 'PR');
-            INSERT INTO `cidades` VALUES ('4049', '27', 'Pugmil', 'TO');
-            INSERT INTO `cidades` VALUES ('4050', '20', 'Pureza', 'RN');
-            INSERT INTO `cidades` VALUES ('4051', '21', 'Putinga', 'RS');
-            INSERT INTO `cidades` VALUES ('4052', '15', 'Puxinanã', 'PB');
-            INSERT INTO `cidades` VALUES ('4053', '25', 'Quadra', 'SP');
-            INSERT INTO `cidades` VALUES ('4054', '21', 'Quaraí', 'RS');
-            INSERT INTO `cidades` VALUES ('4055', '13', 'Quartel Geral', 'MG');
-            INSERT INTO `cidades` VALUES ('4056', '16', 'Quarto Centenário', 'PR');
-            INSERT INTO `cidades` VALUES ('4057', '25', 'Quatá', 'SP');
-            INSERT INTO `cidades` VALUES ('4058', '16', 'Quatiguá', 'PR');
-            INSERT INTO `cidades` VALUES ('4059', '14', 'Quatipuru', 'PA');
-            INSERT INTO `cidades` VALUES ('4060', '19', 'Quatis', 'RJ');
-            INSERT INTO `cidades` VALUES ('4061', '16', 'Quatro Barras', 'PR');
-            INSERT INTO `cidades` VALUES ('4062', '21', 'Quatro Irmãos', 'RS');
-            INSERT INTO `cidades` VALUES ('4063', '16', 'Quatro Pontes', 'PR');
-            INSERT INTO `cidades` VALUES ('4064', '2', 'Quebrangulo', 'AL');
-            INSERT INTO `cidades` VALUES ('4065', '16', 'Quedas do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('4066', '18', 'Queimada Nova', 'PI');
-            INSERT INTO `cidades` VALUES ('4067', '5', 'Queimadas', 'BA');
-            INSERT INTO `cidades` VALUES ('4068', '15', 'Queimadas', 'PB');
-            INSERT INTO `cidades` VALUES ('4069', '19', 'Queimados', 'RJ');
-            INSERT INTO `cidades` VALUES ('4070', '25', 'Queiroz', 'SP');
-            INSERT INTO `cidades` VALUES ('4071', '25', 'Queluz', 'SP');
-            INSERT INTO `cidades` VALUES ('4072', '13', 'Queluzito', 'MG');
-            INSERT INTO `cidades` VALUES ('4073', '11', 'Querência', 'MT');
-            INSERT INTO `cidades` VALUES ('4074', '16', 'Querência do Norte', 'PR');
-            INSERT INTO `cidades` VALUES ('4075', '21', 'Quevedos', 'RS');
-            INSERT INTO `cidades` VALUES ('4076', '5', 'Quijingue', 'BA');
-            INSERT INTO `cidades` VALUES ('4077', '24', 'Quilombo', 'SC');
-            INSERT INTO `cidades` VALUES ('4078', '16', 'Quinta do Sol', 'PR');
-            INSERT INTO `cidades` VALUES ('4079', '25', 'Quintana', 'SP');
-            INSERT INTO `cidades` VALUES ('4080', '21', 'Quinze de Novembro', 'RS');
-            INSERT INTO `cidades` VALUES ('4081', '17', 'Quipapá', 'PE');
-            INSERT INTO `cidades` VALUES ('4082', '9', 'Quirinópolis', 'GO');
-            INSERT INTO `cidades` VALUES ('4083', '19', 'Quissamã', 'RJ');
-            INSERT INTO `cidades` VALUES ('4084', '16', 'Quitandinha', 'PR');
-            INSERT INTO `cidades` VALUES ('4085', '6', 'Quiterianópolis', 'CE');
-            INSERT INTO `cidades` VALUES ('4086', '17', 'Quixaba', 'PE');
-            INSERT INTO `cidades` VALUES ('4087', '15', 'Quixabá', 'PB');
-            INSERT INTO `cidades` VALUES ('4088', '5', 'Quixabeira', 'BA');
-            INSERT INTO `cidades` VALUES ('4089', '6', 'Quixadá', 'CE');
-            INSERT INTO `cidades` VALUES ('4090', '6', 'Quixelô', 'CE');
-            INSERT INTO `cidades` VALUES ('4091', '6', 'Quixeramobim', 'CE');
-            INSERT INTO `cidades` VALUES ('4092', '6', 'Quixeré', 'CE');
-            INSERT INTO `cidades` VALUES ('4093', '20', 'Rafael Fernandes', 'RN');
-            INSERT INTO `cidades` VALUES ('4094', '20', 'Rafael Godeiro', 'RN');
-            INSERT INTO `cidades` VALUES ('4095', '5', 'Rafael Jambeiro', 'BA');
-            INSERT INTO `cidades` VALUES ('4096', '25', 'Rafard', 'SP');
-            INSERT INTO `cidades` VALUES ('4097', '16', 'Ramilândia', 'PR');
-            INSERT INTO `cidades` VALUES ('4098', '25', 'Rancharia', 'SP');
-            INSERT INTO `cidades` VALUES ('4099', '16', 'Rancho Alegre', 'PR');
-            INSERT INTO `cidades` VALUES ('4100', '16', 'Rancho Alegre D\'Oeste', 'PR');
-            INSERT INTO `cidades` VALUES ('4101', '24', 'Rancho Queimado', 'SC');
-            INSERT INTO `cidades` VALUES ('4102', '10', 'Raposa', 'MA');
-            INSERT INTO `cidades` VALUES ('4103', '13', 'Raposos', 'MG');
-            INSERT INTO `cidades` VALUES ('4104', '13', 'Raul Soares', 'MG');
-            INSERT INTO `cidades` VALUES ('4105', '16', 'Realeza', 'PR');
-            INSERT INTO `cidades` VALUES ('4106', '16', 'Rebouças', 'PR');
-            INSERT INTO `cidades` VALUES ('4107', '17', 'Recife', 'PE');
-            INSERT INTO `cidades` VALUES ('4108', '13', 'Recreio', 'MG');
-            INSERT INTO `cidades` VALUES ('4109', '27', 'Recursolândia', 'TO');
-            INSERT INTO `cidades` VALUES ('4110', '6', 'Redenção', 'CE');
-            INSERT INTO `cidades` VALUES ('4111', '14', 'Redenção', 'PA');
-            INSERT INTO `cidades` VALUES ('4112', '25', 'Redenção da Serra', 'SP');
-            INSERT INTO `cidades` VALUES ('4113', '18', 'Redenção do Gurguéia', 'PI');
-            INSERT INTO `cidades` VALUES ('4114', '21', 'Redentora', 'RS');
-            INSERT INTO `cidades` VALUES ('4115', '13', 'Reduto', 'MG');
-            INSERT INTO `cidades` VALUES ('4116', '18', 'Regeneração', 'PI');
-            INSERT INTO `cidades` VALUES ('4117', '25', 'Regente Feijó', 'SP');
-            INSERT INTO `cidades` VALUES ('4118', '25', 'Reginópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('4119', '25', 'Registro', 'SP');
-            INSERT INTO `cidades` VALUES ('4120', '21', 'Relvado', 'RS');
-            INSERT INTO `cidades` VALUES ('4121', '5', 'Remanso', 'BA');
-            INSERT INTO `cidades` VALUES ('4122', '15', 'Remígio', 'PB');
-            INSERT INTO `cidades` VALUES ('4123', '16', 'Renascença', 'PR');
-            INSERT INTO `cidades` VALUES ('4124', '6', 'Reriutaba', 'CE');
-            INSERT INTO `cidades` VALUES ('4125', '19', 'Resende', 'RJ');
-            INSERT INTO `cidades` VALUES ('4126', '13', 'Resende Costa', 'MG');
-            INSERT INTO `cidades` VALUES ('4127', '16', 'Reserva', 'PR');
-            INSERT INTO `cidades` VALUES ('4128', '11', 'Reserva do Cabaçal', 'MT');
-            INSERT INTO `cidades` VALUES ('4129', '16', 'Reserva do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('4130', '13', 'Resplendor', 'MG');
-            INSERT INTO `cidades` VALUES ('4131', '13', 'Ressaquinha', 'MG');
-            INSERT INTO `cidades` VALUES ('4132', '25', 'Restinga', 'SP');
-            INSERT INTO `cidades` VALUES ('4133', '21', 'Restinga Seca', 'RS');
-            INSERT INTO `cidades` VALUES ('4134', '5', 'Retirolândia', 'BA');
-            INSERT INTO `cidades` VALUES ('4135', '10', 'Riachão', 'MA');
-            INSERT INTO `cidades` VALUES ('4136', '15', 'Riachão', 'PB');
-            INSERT INTO `cidades` VALUES ('4137', '5', 'Riachão das Neves', 'BA');
-            INSERT INTO `cidades` VALUES ('4138', '15', 'Riachão do Bacamarte', 'PB');
-            INSERT INTO `cidades` VALUES ('4139', '26', 'Riachão do Dantas', 'SE');
-            INSERT INTO `cidades` VALUES ('4140', '5', 'Riachão do Jacuípe', 'BA');
-            INSERT INTO `cidades` VALUES ('4141', '15', 'Riachão do Poço', 'PB');
-            INSERT INTO `cidades` VALUES ('4142', '13', 'Riachinho', 'MG');
-            INSERT INTO `cidades` VALUES ('4143', '27', 'Riachinho', 'TO');
-            INSERT INTO `cidades` VALUES ('4144', '20', 'Riacho da Cruz', 'RN');
-            INSERT INTO `cidades` VALUES ('4145', '17', 'Riacho das Almas', 'PE');
-            INSERT INTO `cidades` VALUES ('4146', '5', 'Riacho de Santana', 'BA');
-            INSERT INTO `cidades` VALUES ('4147', '20', 'Riacho de Santana', 'RN');
-            INSERT INTO `cidades` VALUES ('4148', '15', 'Riacho de Santo Antônio', 'PB');
-            INSERT INTO `cidades` VALUES ('4149', '15', 'Riacho dos Cavalos', 'PB');
-            INSERT INTO `cidades` VALUES ('4150', '13', 'Riacho dos Machados', 'MG');
-            INSERT INTO `cidades` VALUES ('4151', '18', 'Riacho Frio', 'PI');
-            INSERT INTO `cidades` VALUES ('4152', '20', 'Riachuelo', 'RN');
-            INSERT INTO `cidades` VALUES ('4153', '26', 'Riachuelo', 'SE');
-            INSERT INTO `cidades` VALUES ('4154', '9', 'Rialma', 'GO');
-            INSERT INTO `cidades` VALUES ('4155', '9', 'Rianápolis', 'GO');
-            INSERT INTO `cidades` VALUES ('4156', '10', 'Ribamar Fiquene', 'MA');
-            INSERT INTO `cidades` VALUES ('4157', '12', 'Ribas do Rio Pardo', 'MS');
-            INSERT INTO `cidades` VALUES ('4158', '25', 'Ribeira', 'SP');
-            INSERT INTO `cidades` VALUES ('4159', '5', 'Ribeira do Amparo', 'BA');
-            INSERT INTO `cidades` VALUES ('4160', '18', 'Ribeira do Piauí', 'PI');
-            INSERT INTO `cidades` VALUES ('4161', '5', 'Ribeira do Pombal', 'BA');
-            INSERT INTO `cidades` VALUES ('4162', '17', 'Ribeirão', 'PE');
-            INSERT INTO `cidades` VALUES ('4163', '25', 'Ribeirão Bonito', 'SP');
-            INSERT INTO `cidades` VALUES ('4164', '25', 'Ribeirão Branco', 'SP');
-            INSERT INTO `cidades` VALUES ('4165', '11', 'Ribeirão Cascalheira', 'MT');
-            INSERT INTO `cidades` VALUES ('4166', '16', 'Ribeirão Claro', 'PR');
-            INSERT INTO `cidades` VALUES ('4167', '25', 'Ribeirão Corrente', 'SP');
-            INSERT INTO `cidades` VALUES ('4168', '13', 'Ribeirão das Neves', 'MG');
-            INSERT INTO `cidades` VALUES ('4169', '5', 'Ribeirão do Largo', 'BA');
-            INSERT INTO `cidades` VALUES ('4170', '16', 'Ribeirão do Pinhal', 'PR');
-            INSERT INTO `cidades` VALUES ('4171', '25', 'Ribeirão do Sul', 'SP');
-            INSERT INTO `cidades` VALUES ('4172', '25', 'Ribeirão dos Índios', 'SP');
-            INSERT INTO `cidades` VALUES ('4173', '25', 'Ribeirão Grande', 'SP');
-            INSERT INTO `cidades` VALUES ('4174', '25', 'Ribeirão Pires', 'SP');
-            INSERT INTO `cidades` VALUES ('4175', '25', 'Ribeirão Preto', 'SP');
-            INSERT INTO `cidades` VALUES ('4176', '13', 'Ribeirão Vermelho', 'MG');
-            INSERT INTO `cidades` VALUES ('4177', '11', 'Ribeirãozinho', 'MT');
-            INSERT INTO `cidades` VALUES ('4178', '18', 'Ribeiro Gonçalves', 'PI');
-            INSERT INTO `cidades` VALUES ('4179', '26', 'Ribeirópolis', 'SE');
-            INSERT INTO `cidades` VALUES ('4180', '25', 'Rifaina', 'SP');
-            INSERT INTO `cidades` VALUES ('4181', '25', 'Rincão', 'SP');
-            INSERT INTO `cidades` VALUES ('4182', '25', 'Rinópolis', 'SP');
-            INSERT INTO `cidades` VALUES ('4183', '13', 'Rio Acima', 'MG');
-            INSERT INTO `cidades` VALUES ('4184', '16', 'Rio Azul', 'PR');
-            INSERT INTO `cidades` VALUES ('4185', '8', 'Rio Bananal', 'ES');
-            INSERT INTO `cidades` VALUES ('4186', '16', 'Rio Bom', 'PR');
-            INSERT INTO `cidades` VALUES ('4187', '19', 'Rio Bonito', 'RJ');
-            INSERT INTO `cidades` VALUES ('4188', '16', 'Rio Bonito do Iguaçu', 'PR');
-            INSERT INTO `cidades` VALUES ('4189', '1', 'Rio Branco', 'AC');
-            INSERT INTO `cidades` VALUES ('4190', '11', 'Rio Branco', 'MT');
-            INSERT INTO `cidades` VALUES ('4191', '16', 'Rio Branco do Ivaí', 'PR');
-            INSERT INTO `cidades` VALUES ('4192', '16', 'Rio Branco do Sul', 'PR');
-            INSERT INTO `cidades` VALUES ('4193', '12', 'Rio Brilhante', 'MS');
-            INSERT INTO `cidades` VALUES ('4194', '13', 'Rio Casca', 'MG');
-            INSERT INTO `cidades` VALUES ('4195', '19', 'Rio Claro', 'RJ');
-            INSERT INTO `cidades` VALUES ('4196', '25', 'Rio Claro', 'SP');
-            INSERT INTO `cidades` VALUES ('4197', '22', 'Rio Crespo', 'RO');
-            INSERT INTO `cidades` VALUES ('4198', '27', 'Rio da Conceição', 'TO');
-            INSERT INTO `cidades` VALUES ('4199', '24', 'Rio das Antas', 'SC');
-            INSERT INTO `cidades` VALUES ('4200', '19', 'Rio das Flores', 'RJ');
+            ['cidade_id' => 3508, 'estado_id' => 13, 'cidade_nome' => 'Pai Pedro', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3509, 'estado_id' => 24, 'cidade_nome' => 'Paial', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3510, 'estado_id' => 16, 'cidade_nome' => 'Paiçandu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3511, 'estado_id' => 21, 'cidade_nome' => 'Paim Filho', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3512, 'estado_id' => 13, 'cidade_nome' => 'Paineiras', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3513, 'estado_id' => 24, 'cidade_nome' => 'Painel', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3514, 'estado_id' => 13, 'cidade_nome' => 'Pains', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3515, 'estado_id' => 13, 'cidade_nome' => 'Paiva', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3516, 'estado_id' => 18, 'cidade_nome' => 'Pajeú do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3517, 'estado_id' => 2, 'cidade_nome' => 'Palestina', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3518, 'estado_id' => 25, 'cidade_nome' => 'Palestina', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3519, 'estado_id' => 9, 'cidade_nome' => 'Palestina de Goiás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3520, 'estado_id' => 14, 'cidade_nome' => 'Palestina do Pará', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3521, 'estado_id' => 6, 'cidade_nome' => 'Palhano', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3522, 'estado_id' => 24, 'cidade_nome' => 'Palhoça', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3523, 'estado_id' => 13, 'cidade_nome' => 'Palma', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3524, 'estado_id' => 24, 'cidade_nome' => 'Palma Sola', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3525, 'estado_id' => 6, 'cidade_nome' => 'Palmácia', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3526, 'estado_id' => 17, 'cidade_nome' => 'Palmares', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3527, 'estado_id' => 21, 'cidade_nome' => 'Palmares do Sul', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3528, 'estado_id' => 25, 'cidade_nome' => 'Palmares Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3529, 'estado_id' => 16, 'cidade_nome' => 'Palmas', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3530, 'estado_id' => 27, 'cidade_nome' => 'Palmas', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3531, 'estado_id' => 5, 'cidade_nome' => 'Palmas de Monte Alto', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3532, 'estado_id' => 16, 'cidade_nome' => 'Palmeira', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3533, 'estado_id' => 24, 'cidade_nome' => 'Palmeira', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3534, 'estado_id' => 21, 'cidade_nome' => 'Palmeira das Missões', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3535, 'estado_id' => 18, 'cidade_nome' => 'Palmeira do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3536, 'estado_id' => 25, 'cidade_nome' => 'Palmeira d\'Oeste', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3537, 'estado_id' => 2, 'cidade_nome' => 'Palmeira dos Índios', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3538, 'estado_id' => 18, 'cidade_nome' => 'Palmeirais', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3539, 'estado_id' => 10, 'cidade_nome' => 'Palmeirândia', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3540, 'estado_id' => 27, 'cidade_nome' => 'Palmeirante', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3541, 'estado_id' => 5, 'cidade_nome' => 'Palmeiras', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3542, 'estado_id' => 9, 'cidade_nome' => 'Palmeiras de Goiás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3543, 'estado_id' => 27, 'cidade_nome' => 'Palmeiras do Tocantins', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3544, 'estado_id' => 17, 'cidade_nome' => 'Palmeirina', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3545, 'estado_id' => 27, 'cidade_nome' => 'Palmeirópolis', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3546, 'estado_id' => 9, 'cidade_nome' => 'Palmelo', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3547, 'estado_id' => 9, 'cidade_nome' => 'Palminópolis', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3548, 'estado_id' => 16, 'cidade_nome' => 'Palmital', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3549, 'estado_id' => 25, 'cidade_nome' => 'Palmital', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3550, 'estado_id' => 21, 'cidade_nome' => 'Palmitinho', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3551, 'estado_id' => 24, 'cidade_nome' => 'Palmitos', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3552, 'estado_id' => 13, 'cidade_nome' => 'Palmópolis', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3553, 'estado_id' => 16, 'cidade_nome' => 'Palotina', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3554, 'estado_id' => 9, 'cidade_nome' => 'Panamá', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3555, 'estado_id' => 21, 'cidade_nome' => 'Panambi', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3556, 'estado_id' => 8, 'cidade_nome' => 'Pancas', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3557, 'estado_id' => 17, 'cidade_nome' => 'Panelas', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3558, 'estado_id' => 25, 'cidade_nome' => 'Panorama', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3559, 'estado_id' => 21, 'cidade_nome' => 'Pantano Grande', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3560, 'estado_id' => 2, 'cidade_nome' => 'Pão de Açúcar', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3561, 'estado_id' => 13, 'cidade_nome' => 'Papagaios', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3562, 'estado_id' => 24, 'cidade_nome' => 'Papanduva', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3563, 'estado_id' => 18, 'cidade_nome' => 'Paquetá', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3564, 'estado_id' => 13, 'cidade_nome' => 'Pará de Minas', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3565, 'estado_id' => 19, 'cidade_nome' => 'Paracambi', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3566, 'estado_id' => 13, 'cidade_nome' => 'Paracatu', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3567, 'estado_id' => 6, 'cidade_nome' => 'Paracuru', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3568, 'estado_id' => 14, 'cidade_nome' => 'Paragominas', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3569, 'estado_id' => 13, 'cidade_nome' => 'Paraguaçu', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3570, 'estado_id' => 25, 'cidade_nome' => 'Paraguaçu Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3571, 'estado_id' => 21, 'cidade_nome' => 'Paraí', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3572, 'estado_id' => 19, 'cidade_nome' => 'Paraíba do Sul', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3573, 'estado_id' => 10, 'cidade_nome' => 'Paraibano', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3574, 'estado_id' => 25, 'cidade_nome' => 'Paraibuna', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3575, 'estado_id' => 6, 'cidade_nome' => 'Paraipaba', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3576, 'estado_id' => 24, 'cidade_nome' => 'Paraíso', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3577, 'estado_id' => 25, 'cidade_nome' => 'Paraíso', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3578, 'estado_id' => 16, 'cidade_nome' => 'Paraíso do Norte', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3579, 'estado_id' => 21, 'cidade_nome' => 'Paraíso do Sul', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3580, 'estado_id' => 27, 'cidade_nome' => 'Paraíso do Tocantins', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3581, 'estado_id' => 13, 'cidade_nome' => 'Paraisópolis', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3582, 'estado_id' => 6, 'cidade_nome' => 'Parambu', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3583, 'estado_id' => 5, 'cidade_nome' => 'Paramirim', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3584, 'estado_id' => 6, 'cidade_nome' => 'Paramoti', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3585, 'estado_id' => 20, 'cidade_nome' => 'Paraná', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3586, 'estado_id' => 27, 'cidade_nome' => 'Paranã', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3587, 'estado_id' => 16, 'cidade_nome' => 'Paranacity', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3588, 'estado_id' => 16, 'cidade_nome' => 'Paranaguá', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3589, 'estado_id' => 12, 'cidade_nome' => 'Paranaíba', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3590, 'estado_id' => 9, 'cidade_nome' => 'Paranaiguara', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3591, 'estado_id' => 11, 'cidade_nome' => 'Paranaíta', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3592, 'estado_id' => 25, 'cidade_nome' => 'Paranapanema', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3593, 'estado_id' => 16, 'cidade_nome' => 'Paranapoema', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3594, 'estado_id' => 25, 'cidade_nome' => 'Paranapuã', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3595, 'estado_id' => 17, 'cidade_nome' => 'Paranatama', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3596, 'estado_id' => 11, 'cidade_nome' => 'Paranatinga', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3597, 'estado_id' => 16, 'cidade_nome' => 'Paranavaí', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3598, 'estado_id' => 12, 'cidade_nome' => 'Paranhos', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3599, 'estado_id' => 13, 'cidade_nome' => 'Paraopeba', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3600, 'estado_id' => 25, 'cidade_nome' => 'Parapuã', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3601, 'estado_id' => 15, 'cidade_nome' => 'Parari', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3602, 'estado_id' => 5, 'cidade_nome' => 'Paratinga', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3603, 'estado_id' => 19, 'cidade_nome' => 'Paraty', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3604, 'estado_id' => 20, 'cidade_nome' => 'Paraú', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3605, 'estado_id' => 14, 'cidade_nome' => 'Parauapebas', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3606, 'estado_id' => 9, 'cidade_nome' => 'Paraúna', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3607, 'estado_id' => 20, 'cidade_nome' => 'Parazinho', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3608, 'estado_id' => 25, 'cidade_nome' => 'Pardinho', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3609, 'estado_id' => 21, 'cidade_nome' => 'Pareci Novo', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3610, 'estado_id' => 22, 'cidade_nome' => 'Parecis', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3611, 'estado_id' => 20, 'cidade_nome' => 'Parelhas', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3612, 'estado_id' => 2, 'cidade_nome' => 'Pariconha', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3613, 'estado_id' => 4, 'cidade_nome' => 'Parintins', 'cidade_uf' => 'AM',
+            ['cidade_id' => 3614, 'estado_id' => 5, 'cidade_nome' => 'Paripiranga', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3615, 'estado_id' => 2, 'cidade_nome' => 'Paripueira', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3616, 'estado_id' => 25, 'cidade_nome' => 'Pariquera-Açu', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3617, 'estado_id' => 25, 'cidade_nome' => 'Parisi', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3618, 'estado_id' => 18, 'cidade_nome' => 'Parnaguá', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3619, 'estado_id' => 18, 'cidade_nome' => 'Parnaíba', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3620, 'estado_id' => 17, 'cidade_nome' => 'Parnamirim', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3621, 'estado_id' => 20, 'cidade_nome' => 'Parnamirim', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3622, 'estado_id' => 10, 'cidade_nome' => 'Parnarama', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3623, 'estado_id' => 21, 'cidade_nome' => 'Parobé', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3624, 'estado_id' => 20, 'cidade_nome' => 'Passa e Fica', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3625, 'estado_id' => 13, 'cidade_nome' => 'Passa Quatro', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3626, 'estado_id' => 21, 'cidade_nome' => 'Passa Sete', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3627, 'estado_id' => 13, 'cidade_nome' => 'Passa Tempo', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3628, 'estado_id' => 13, 'cidade_nome' => 'Passabém', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3629, 'estado_id' => 15, 'cidade_nome' => 'Passagem', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3630, 'estado_id' => 20, 'cidade_nome' => 'Passagem', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3631, 'estado_id' => 10, 'cidade_nome' => 'Passagem Franca', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3632, 'estado_id' => 18, 'cidade_nome' => 'Passagem Franca do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3633, 'estado_id' => 13, 'cidade_nome' => 'Passa-Vinte', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3634, 'estado_id' => 17, 'cidade_nome' => 'Passira', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3635, 'estado_id' => 2, 'cidade_nome' => 'Passo de Camaragibe', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3636, 'estado_id' => 24, 'cidade_nome' => 'Passo de Torres', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3637, 'estado_id' => 21, 'cidade_nome' => 'Passo do Sobrado', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3638, 'estado_id' => 21, 'cidade_nome' => 'Passo Fundo', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3639, 'estado_id' => 13, 'cidade_nome' => 'Passos', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3640, 'estado_id' => 24, 'cidade_nome' => 'Passos Maia', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3641, 'estado_id' => 10, 'cidade_nome' => 'Pastos Bons', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3642, 'estado_id' => 13, 'cidade_nome' => 'Patis', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3643, 'estado_id' => 16, 'cidade_nome' => 'Pato Bragado', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3644, 'estado_id' => 16, 'cidade_nome' => 'Pato Branco', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3645, 'estado_id' => 15, 'cidade_nome' => 'Patos', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3646, 'estado_id' => 13, 'cidade_nome' => 'Patos de Minas', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3647, 'estado_id' => 18, 'cidade_nome' => 'Patos do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3648, 'estado_id' => 13, 'cidade_nome' => 'Patrocínio', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3649, 'estado_id' => 13, 'cidade_nome' => 'Patrocínio do Muriaé', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3650, 'estado_id' => 25, 'cidade_nome' => 'Patrocínio Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3651, 'estado_id' => 20, 'cidade_nome' => 'Patu', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3652, 'estado_id' => 19, 'cidade_nome' => 'Paty do Alferes', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3653, 'estado_id' => 5, 'cidade_nome' => 'Pau Brasil', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3654, 'estado_id' => 14, 'cidade_nome' => 'Pau D\'Arco', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3655, 'estado_id' => 27, 'cidade_nome' => 'Pau D\'Arco', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3656, 'estado_id' => 18, 'cidade_nome' => 'Pau D\'Arco do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3657, 'estado_id' => 20, 'cidade_nome' => 'Pau dos Ferros', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3658, 'estado_id' => 17, 'cidade_nome' => 'Paudalho', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3659, 'estado_id' => 4, 'cidade_nome' => 'Pauini', 'cidade_uf' => 'AM',
+            ['cidade_id' => 3660, 'estado_id' => 13, 'cidade_nome' => 'Paula Cândido', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3661, 'estado_id' => 16, 'cidade_nome' => 'Paula Freitas', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3662, 'estado_id' => 25, 'cidade_nome' => 'Paulicéia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3663, 'estado_id' => 25, 'cidade_nome' => 'Paulínia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3664, 'estado_id' => 10, 'cidade_nome' => 'Paulino Neves', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3665, 'estado_id' => 15, 'cidade_nome' => 'Paulista', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3666, 'estado_id' => 17, 'cidade_nome' => 'Paulista', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3667, 'estado_id' => 18, 'cidade_nome' => 'Paulistana', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3668, 'estado_id' => 25, 'cidade_nome' => 'Paulistânia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3669, 'estado_id' => 13, 'cidade_nome' => 'Paulistas', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3670, 'estado_id' => 5, 'cidade_nome' => 'Paulo Afonso', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3671, 'estado_id' => 21, 'cidade_nome' => 'Paulo Bento', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3672, 'estado_id' => 25, 'cidade_nome' => 'Paulo de Faria', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3673, 'estado_id' => 16, 'cidade_nome' => 'Paulo Frontin', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3674, 'estado_id' => 2, 'cidade_nome' => 'Paulo Jacinto', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3675, 'estado_id' => 24, 'cidade_nome' => 'Paulo Lopes', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3676, 'estado_id' => 10, 'cidade_nome' => 'Paulo Ramos', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3677, 'estado_id' => 13, 'cidade_nome' => 'Pavão', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3678, 'estado_id' => 21, 'cidade_nome' => 'Paverama', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3679, 'estado_id' => 18, 'cidade_nome' => 'Pavussu', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3680, 'estado_id' => 5, 'cidade_nome' => 'Pé de Serra', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3681, 'estado_id' => 16, 'cidade_nome' => 'Peabiru', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3682, 'estado_id' => 13, 'cidade_nome' => 'Peçanha', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3683, 'estado_id' => 25, 'cidade_nome' => 'Pederneiras', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3684, 'estado_id' => 17, 'cidade_nome' => 'Pedra', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3685, 'estado_id' => 13, 'cidade_nome' => 'Pedra Azul', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3686, 'estado_id' => 25, 'cidade_nome' => 'Pedra Bela', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3687, 'estado_id' => 13, 'cidade_nome' => 'Pedra Bonita', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3688, 'estado_id' => 6, 'cidade_nome' => 'Pedra Branca', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3689, 'estado_id' => 15, 'cidade_nome' => 'Pedra Branca', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3690, 'estado_id' => 3, 'cidade_nome' => 'Pedra Branca do Amapari', 'cidade_uf' => 'AP',
+            ['cidade_id' => 3691, 'estado_id' => 13, 'cidade_nome' => 'Pedra do Anta', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3692, 'estado_id' => 13, 'cidade_nome' => 'Pedra do Indaiá', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3693, 'estado_id' => 13, 'cidade_nome' => 'Pedra Dourada', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3694, 'estado_id' => 20, 'cidade_nome' => 'Pedra Grande', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3695, 'estado_id' => 15, 'cidade_nome' => 'Pedra Lavrada', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3696, 'estado_id' => 26, 'cidade_nome' => 'Pedra Mole', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3697, 'estado_id' => 11, 'cidade_nome' => 'Pedra Preta', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3698, 'estado_id' => 20, 'cidade_nome' => 'Pedra Preta', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3699, 'estado_id' => 13, 'cidade_nome' => 'Pedralva', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3700, 'estado_id' => 25, 'cidade_nome' => 'Pedranópolis', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3701, 'estado_id' => 5, 'cidade_nome' => 'Pedrão', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3702, 'estado_id' => 21, 'cidade_nome' => 'Pedras Altas', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3703, 'estado_id' => 15, 'cidade_nome' => 'Pedras de Fogo', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3704, 'estado_id' => 13, 'cidade_nome' => 'Pedras de Maria da Cruz', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3705, 'estado_id' => 24, 'cidade_nome' => 'Pedras Grandes', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3706, 'estado_id' => 25, 'cidade_nome' => 'Pedregulho', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3707, 'estado_id' => 25, 'cidade_nome' => 'Pedreira', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3708, 'estado_id' => 10, 'cidade_nome' => 'Pedreiras', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3709, 'estado_id' => 26, 'cidade_nome' => 'Pedrinhas', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3710, 'estado_id' => 25, 'cidade_nome' => 'Pedrinhas Paulista', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3711, 'estado_id' => 13, 'cidade_nome' => 'Pedrinópolis', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3712, 'estado_id' => 27, 'cidade_nome' => 'Pedro Afonso', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3713, 'estado_id' => 5, 'cidade_nome' => 'Pedro Alexandre', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3714, 'estado_id' => 20, 'cidade_nome' => 'Pedro Avelino', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3715, 'estado_id' => 8, 'cidade_nome' => 'Pedro Canário', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3716, 'estado_id' => 25, 'cidade_nome' => 'Pedro de Toledo', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3717, 'estado_id' => 10, 'cidade_nome' => 'Pedro do Rosário', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3718, 'estado_id' => 12, 'cidade_nome' => 'Pedro Gomes', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3719, 'estado_id' => 18, 'cidade_nome' => 'Pedro II', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3720, 'estado_id' => 18, 'cidade_nome' => 'Pedro Laurentino', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3721, 'estado_id' => 13, 'cidade_nome' => 'Pedro Leopoldo', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3722, 'estado_id' => 21, 'cidade_nome' => 'Pedro Osório', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3723, 'estado_id' => 15, 'cidade_nome' => 'Pedro Régis', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3724, 'estado_id' => 13, 'cidade_nome' => 'Pedro Teixeira', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3725, 'estado_id' => 20, 'cidade_nome' => 'Pedro Velho', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3726, 'estado_id' => 27, 'cidade_nome' => 'Peixe', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3727, 'estado_id' => 14, 'cidade_nome' => 'Peixe-Boi', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3728, 'estado_id' => 11, 'cidade_nome' => 'Peixoto de Azevedo', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3729, 'estado_id' => 21, 'cidade_nome' => 'Pejuçara', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3730, 'estado_id' => 21, 'cidade_nome' => 'Pelotas', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3731, 'estado_id' => 6, 'cidade_nome' => 'Penaforte', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3732, 'estado_id' => 10, 'cidade_nome' => 'Penalva', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3733, 'estado_id' => 25, 'cidade_nome' => 'Penápolis', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3734, 'estado_id' => 20, 'cidade_nome' => 'Pendências', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3735, 'estado_id' => 2, 'cidade_nome' => 'Penedo', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3736, 'estado_id' => 24, 'cidade_nome' => 'Penha', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3737, 'estado_id' => 6, 'cidade_nome' => 'Pentecoste', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3738, 'estado_id' => 13, 'cidade_nome' => 'Pequeri', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3739, 'estado_id' => 13, 'cidade_nome' => 'Pequi', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3740, 'estado_id' => 27, 'cidade_nome' => 'Pequizeiro', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3741, 'estado_id' => 13, 'cidade_nome' => 'Perdigão', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3742, 'estado_id' => 13, 'cidade_nome' => 'Perdizes', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3743, 'estado_id' => 13, 'cidade_nome' => 'Perdões', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3744, 'estado_id' => 25, 'cidade_nome' => 'Pereira Barreto', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3745, 'estado_id' => 25, 'cidade_nome' => 'Pereiras', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3746, 'estado_id' => 6, 'cidade_nome' => 'Pereiro', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3747, 'estado_id' => 10, 'cidade_nome' => 'Peri Mirim', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3748, 'estado_id' => 13, 'cidade_nome' => 'Periquito', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3749, 'estado_id' => 24, 'cidade_nome' => 'Peritiba', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3750, 'estado_id' => 10, 'cidade_nome' => 'Peritoró', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3751, 'estado_id' => 16, 'cidade_nome' => 'Perobal', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3752, 'estado_id' => 16, 'cidade_nome' => 'Pérola', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3753, 'estado_id' => 16, 'cidade_nome' => 'Pérola d\'Oeste', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3754, 'estado_id' => 9, 'cidade_nome' => 'Perolândia', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3755, 'estado_id' => 25, 'cidade_nome' => 'Peruíbe', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3756, 'estado_id' => 13, 'cidade_nome' => 'Pescador', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3757, 'estado_id' => 17, 'cidade_nome' => 'Pesqueira', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3758, 'estado_id' => 17, 'cidade_nome' => 'Petrolândia', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3759, 'estado_id' => 24, 'cidade_nome' => 'Petrolândia', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3760, 'estado_id' => 17, 'cidade_nome' => 'Petrolina', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3761, 'estado_id' => 9, 'cidade_nome' => 'Petrolina de Goiás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3762, 'estado_id' => 19, 'cidade_nome' => 'Petrópolis', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3763, 'estado_id' => 2, 'cidade_nome' => 'Piaçabuçu', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3764, 'estado_id' => 25, 'cidade_nome' => 'Piacatu', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3765, 'estado_id' => 15, 'cidade_nome' => 'Piancó', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3766, 'estado_id' => 5, 'cidade_nome' => 'Piatã', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3767, 'estado_id' => 13, 'cidade_nome' => 'Piau', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3768, 'estado_id' => 21, 'cidade_nome' => 'Picada Café', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3769, 'estado_id' => 14, 'cidade_nome' => 'Piçarra', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3770, 'estado_id' => 18, 'cidade_nome' => 'Picos', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3771, 'estado_id' => 15, 'cidade_nome' => 'Picuí', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3772, 'estado_id' => 25, 'cidade_nome' => 'Piedade', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3773, 'estado_id' => 13, 'cidade_nome' => 'Piedade de Caratinga', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3774, 'estado_id' => 13, 'cidade_nome' => 'Piedade de Ponte Nova', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3775, 'estado_id' => 13, 'cidade_nome' => 'Piedade do Rio Grande', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3776, 'estado_id' => 13, 'cidade_nome' => 'Piedade dos Gerais', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3777, 'estado_id' => 16, 'cidade_nome' => 'Piên', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3778, 'estado_id' => 5, 'cidade_nome' => 'Pilão Arcado', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3779, 'estado_id' => 2, 'cidade_nome' => 'Pilar', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3780, 'estado_id' => 15, 'cidade_nome' => 'Pilar', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3781, 'estado_id' => 9, 'cidade_nome' => 'Pilar de Goiás', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3782, 'estado_id' => 25, 'cidade_nome' => 'Pilar do Sul', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3783, 'estado_id' => 15, 'cidade_nome' => 'Pilões', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3784, 'estado_id' => 20, 'cidade_nome' => 'Pilões', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3785, 'estado_id' => 15, 'cidade_nome' => 'Pilõezinhos', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3786, 'estado_id' => 13, 'cidade_nome' => 'Pimenta', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3787, 'estado_id' => 22, 'cidade_nome' => 'Pimenta Bueno', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3788, 'estado_id' => 18, 'cidade_nome' => 'Pimenteiras', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3789, 'estado_id' => 22, 'cidade_nome' => 'Pimenteiras do Oeste', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3790, 'estado_id' => 5, 'cidade_nome' => 'Pindaí', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3791, 'estado_id' => 25, 'cidade_nome' => 'Pindamonhangaba', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3792, 'estado_id' => 10, 'cidade_nome' => 'Pindaré-Mirim', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3793, 'estado_id' => 2, 'cidade_nome' => 'Pindoba', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3794, 'estado_id' => 5, 'cidade_nome' => 'Pindobaçu', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3795, 'estado_id' => 25, 'cidade_nome' => 'Pindorama', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3796, 'estado_id' => 27, 'cidade_nome' => 'Pindorama do Tocantins', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3797, 'estado_id' => 6, 'cidade_nome' => 'Pindoretama', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3798, 'estado_id' => 13, 'cidade_nome' => 'Pingo-d\'Água', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3799, 'estado_id' => 16, 'cidade_nome' => 'Pinhais', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3800, 'estado_id' => 21, 'cidade_nome' => 'Pinhal', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3801, 'estado_id' => 21, 'cidade_nome' => 'Pinhal da Serra', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3802, 'estado_id' => 16, 'cidade_nome' => 'Pinhal de São Bento', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3803, 'estado_id' => 21, 'cidade_nome' => 'Pinhal Grande', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3804, 'estado_id' => 16, 'cidade_nome' => 'Pinhalão', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3805, 'estado_id' => 24, 'cidade_nome' => 'Pinhalzinho', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3806, 'estado_id' => 25, 'cidade_nome' => 'Pinhalzinho', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3807, 'estado_id' => 16, 'cidade_nome' => 'Pinhão', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3808, 'estado_id' => 26, 'cidade_nome' => 'Pinhão', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3809, 'estado_id' => 19, 'cidade_nome' => 'Pinheiral', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3810, 'estado_id' => 21, 'cidade_nome' => 'Pinheirinho do Vale', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3811, 'estado_id' => 10, 'cidade_nome' => 'Pinheiro', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3812, 'estado_id' => 21, 'cidade_nome' => 'Pinheiro Machado', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3813, 'estado_id' => 24, 'cidade_nome' => 'Pinheiro Preto', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3814, 'estado_id' => 8, 'cidade_nome' => 'Pinheiros', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3815, 'estado_id' => 5, 'cidade_nome' => 'Pintadas', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3816, 'estado_id' => 13, 'cidade_nome' => 'Pintópolis', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3817, 'estado_id' => 18, 'cidade_nome' => 'Pio IX', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3818, 'estado_id' => 10, 'cidade_nome' => 'Pio XII', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3819, 'estado_id' => 25, 'cidade_nome' => 'Piquerobi', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3820, 'estado_id' => 6, 'cidade_nome' => 'Piquet Carneiro', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3821, 'estado_id' => 25, 'cidade_nome' => 'Piquete', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3822, 'estado_id' => 25, 'cidade_nome' => 'Piracaia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3823, 'estado_id' => 9, 'cidade_nome' => 'Piracanjuba', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3824, 'estado_id' => 13, 'cidade_nome' => 'Piracema', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3825, 'estado_id' => 25, 'cidade_nome' => 'Piracicaba', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3826, 'estado_id' => 18, 'cidade_nome' => 'Piracuruca', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3827, 'estado_id' => 19, 'cidade_nome' => 'Piraí', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3828, 'estado_id' => 5, 'cidade_nome' => 'Piraí do Norte', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3829, 'estado_id' => 16, 'cidade_nome' => 'Piraí do Sul', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3830, 'estado_id' => 25, 'cidade_nome' => 'Piraju', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3831, 'estado_id' => 13, 'cidade_nome' => 'Pirajuba', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3832, 'estado_id' => 25, 'cidade_nome' => 'Pirajuí', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3833, 'estado_id' => 26, 'cidade_nome' => 'Pirambu', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3834, 'estado_id' => 13, 'cidade_nome' => 'Piranga', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3835, 'estado_id' => 25, 'cidade_nome' => 'Pirangi', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3836, 'estado_id' => 13, 'cidade_nome' => 'Piranguçu', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3837, 'estado_id' => 13, 'cidade_nome' => 'Piranguinho', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3838, 'estado_id' => 2, 'cidade_nome' => 'Piranhas', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3839, 'estado_id' => 9, 'cidade_nome' => 'Piranhas', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3840, 'estado_id' => 10, 'cidade_nome' => 'Pirapemas', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3841, 'estado_id' => 13, 'cidade_nome' => 'Pirapetinga', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3842, 'estado_id' => 21, 'cidade_nome' => 'Pirapó', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3843, 'estado_id' => 13, 'cidade_nome' => 'Pirapora', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3844, 'estado_id' => 25, 'cidade_nome' => 'Pirapora do Bom Jesus', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3845, 'estado_id' => 25, 'cidade_nome' => 'Pirapozinho', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3846, 'estado_id' => 16, 'cidade_nome' => 'Piraquara', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3847, 'estado_id' => 27, 'cidade_nome' => 'Piraquê', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3848, 'estado_id' => 25, 'cidade_nome' => 'Pirassununga', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3849, 'estado_id' => 21, 'cidade_nome' => 'Piratini', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3850, 'estado_id' => 25, 'cidade_nome' => 'Piratininga', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3851, 'estado_id' => 24, 'cidade_nome' => 'Piratuba', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3852, 'estado_id' => 13, 'cidade_nome' => 'Piraúba', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3853, 'estado_id' => 9, 'cidade_nome' => 'Pirenópolis', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3854, 'estado_id' => 9, 'cidade_nome' => 'Pires do Rio', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3855, 'estado_id' => 6, 'cidade_nome' => 'Pires Ferreira', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3856, 'estado_id' => 5, 'cidade_nome' => 'Piripá', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3857, 'estado_id' => 18,  'cidade_nome' =>'Piripiri', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3858, 'estado_id' => 5, 'cidade_nome' => 'Piritiba', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3859, 'estado_id' => 15, 'cidade_nome' => 'Pirpirituba', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3860, 'estado_id' => 16, 'cidade_nome' => 'Pitanga', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3861, 'estado_id' => 16, 'cidade_nome' => 'Pitangueiras', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3862, 'estado_id' => 25, 'cidade_nome' => 'Pitangueiras', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3863, 'estado_id' => 13, 'cidade_nome' => 'Pitangui', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3864, 'estado_id' => 15, 'cidade_nome' => 'Pitimbu', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3865, 'estado_id' => 27, 'cidade_nome' => 'Pium', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3866, 'estado_id' => 8, 'cidade_nome' => 'Piúma', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3867, 'estado_id' => 13, 'cidade_nome' => 'Piumhi', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3868, 'estado_id' => 14, 'cidade_nome' => 'Placas', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3869, 'estado_id' => 1, 'cidade_nome' => 'Plácido de Castro', 'cidade_uf' => 'AC',
+            ['cidade_id' => 3870, 'estado_id' => 9, 'cidade_nome' => 'Planaltina', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3871, 'estado_id' => 16, 'cidade_nome' => 'Planaltina do Paraná', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3872, 'estado_id' => 5, 'cidade_nome' => 'Planaltino', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3873, 'estado_id' => 5, 'cidade_nome' => 'Planalto', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3874, 'estado_id' => 16, 'cidade_nome' => 'Planalto', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3875, 'estado_id' => 21, 'cidade_nome' => 'Planalto', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3876, 'estado_id' => 25, 'cidade_nome' => 'Planalto', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3877, 'estado_id' => 24, 'cidade_nome' => 'Planalto Alegre', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3878, 'estado_id' => 11, 'cidade_nome' => 'Planalto da Serra', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3879, 'estado_id' => 13, 'cidade_nome' => 'Planura', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3880, 'estado_id' => 25, 'cidade_nome' => 'Platina', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3881, 'estado_id' => 25, 'cidade_nome' => 'Poá', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3882, 'estado_id' => 17, 'cidade_nome' => 'Poção', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3883, 'estado_id' => 10, 'cidade_nome' => 'Poção de Pedras', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3884, 'estado_id' => 15, 'cidade_nome' => 'Pocinhos', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3885, 'estado_id' => 20, 'cidade_nome' => 'Poço Branco', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3886, 'estado_id' => 15, 'cidade_nome' => 'Poço Dantas', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3887, 'estado_id' => 21, 'cidade_nome' => 'Poço das Antas', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3888, 'estado_id' => 2, 'cidade_nome' => 'Poço das Trincheiras', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3889, 'estado_id' => 15, 'cidade_nome' => 'Poço de José de Moura', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3890, 'estado_id' => 13, 'cidade_nome' => 'Poço Fundo', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3891, 'estado_id' => 26, 'cidade_nome' => 'Poço Redondo', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3892, 'estado_id' => 26, 'cidade_nome' => 'Poço Verde', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3893, 'estado_id' => 5, 'cidade_nome' => 'Poções', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3894, 'estado_id' => 11, 'cidade_nome' => 'Poconé', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3895, 'estado_id' => 13, 'cidade_nome' => 'Poços de Caldas', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3896, 'estado_id' => 13, 'cidade_nome' => 'Pocrane', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3897, 'estado_id' => 5, 'cidade_nome' => 'Pojuca', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3898, 'estado_id' => 25, 'cidade_nome' => 'Poloni', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3899, 'estado_id' => 15, 'cidade_nome' => 'Pombal', 'cidade_uf' => 'PB',
+            ['cidade_id' => 3900, 'estado_id' => 17, 'cidade_nome' => 'Pombos', 'cidade_uf' => 'PE',
+            ['cidade_id' => 3901, 'estado_id' => 24, 'cidade_nome' => 'Pomerode', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3902, 'estado_id' => 25, 'cidade_nome' => 'Pompéia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3903, 'estado_id' => 13, 'cidade_nome' => 'Pompéu', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3904, 'estado_id' => 25, 'cidade_nome' => 'Pongaí', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3905, 'estado_id' => 14, 'cidade_nome' => 'Ponta de Pedras', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3906, 'estado_id' => 16, 'cidade_nome' => 'Ponta Grossa', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3907, 'estado_id' => 12, 'cidade_nome' => 'Ponta Porã', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3908, 'estado_id' => 25, 'cidade_nome' => 'Pontal', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3909, 'estado_id' => 11, 'cidade_nome' => 'Pontal do Araguaia', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3910, 'estado_id' => 16, 'cidade_nome' => 'Pontal do Paraná', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3911, 'estado_id' => 9, 'cidade_nome' => 'Pontalina', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3912, 'estado_id' => 25, 'cidade_nome' => 'Pontalinda', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3913, 'estado_id' => 21, 'cidade_nome' => 'Pontão', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3914, 'estado_id' => 24, 'cidade_nome' => 'Ponte Alta', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3915, 'estado_id' => 27, 'cidade_nome' => 'Ponte Alta do Bom Jesus', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3916, 'estado_id' => 24, 'cidade_nome' => 'Ponte Alta do Norte', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3917, 'estado_id' => 27, 'cidade_nome' => 'Ponte Alta do Tocantins', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3918, 'estado_id' => 11, 'cidade_nome' => 'Ponte Branca', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3919, 'estado_id' => 13, 'cidade_nome' => 'Ponte Nova', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3920, 'estado_id' => 21, 'cidade_nome' => 'Ponte Preta', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3921, 'estado_id' => 24, 'cidade_nome' => 'Ponte Serrada', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3922, 'estado_id' => 11, 'cidade_nome' => 'Pontes e Lacerda', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3923, 'estado_id' => 25, 'cidade_nome' => 'Pontes Gestal', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3924, 'estado_id' => 8, 'cidade_nome' => 'Ponto Belo', 'cidade_uf' => 'ES',
+            ['cidade_id' => 3925, 'estado_id' => 13, 'cidade_nome' => 'Ponto Chique', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3926, 'estado_id' => 13, 'cidade_nome' => 'Ponto dos Volantes', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3927, 'estado_id' => 5, 'cidade_nome' => 'Ponto Novo', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3928, 'estado_id' => 25, 'cidade_nome' => 'Populina', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3929, 'estado_id' => 6, 'cidade_nome' => 'Poranga', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3930, 'estado_id' => 25, 'cidade_nome' => 'Porangaba', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3931, 'estado_id' => 9, 'cidade_nome' => 'Porangatu', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3932, 'estado_id' => 19, 'cidade_nome' => 'Porciúncula', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3933, 'estado_id' => 16, 'cidade_nome' => 'Porecatu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3934, 'estado_id' => 20, 'cidade_nome' => 'Portalegre', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3935, 'estado_id' => 21, 'cidade_nome' => 'Portão', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3936, 'estado_id' => 9, 'cidade_nome' => 'Porteirão', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3937, 'estado_id' => 6, 'cidade_nome' => 'Porteiras', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3938, 'estado_id' => 13, 'cidade_nome' => 'Porteirinha', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3939, 'estado_id' => 14, 'cidade_nome' => 'Portel', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3940, 'estado_id' => 9, 'cidade_nome' => 'Portelândia', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3941, 'estado_id' => 18, 'cidade_nome' => 'Porto', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3942, 'estado_id' => 1, 'cidade_nome' => 'Porto Acre', 'cidade_uf' => 'AC',
+            ['cidade_id' => 3943, 'estado_id' => 21, 'cidade_nome' => 'Porto Alegre', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3944, 'estado_id' => 11, 'cidade_nome' => 'Porto Alegre do Norte', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3945, 'estado_id' => 18, 'cidade_nome' => 'Porto Alegre do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 3946, 'estado_id' => 27, 'cidade_nome' => 'Porto Alegre do Tocantins', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3947, 'estado_id' => 16, 'cidade_nome' => 'Porto Amazonas', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3948, 'estado_id' => 16, 'cidade_nome' => 'Porto Barreiro', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3949, 'estado_id' => 24, 'cidade_nome' => 'Porto Belo', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3950, 'estado_id' => 2, 'cidade_nome' => 'Porto Calvo', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3951, 'estado_id' => 26, 'cidade_nome' => 'Porto da Folha', 'cidade_uf' => 'SE',
+            ['cidade_id' => 3952, 'estado_id' => 14, 'cidade_nome' => 'Porto de Moz', 'cidade_uf' => 'PA',
+            ['cidade_id' => 3953, 'estado_id' => 2, 'cidade_nome' => 'Porto de Pedras', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3954, 'estado_id' => 20, 'cidade_nome' => 'Porto do Mangue', 'cidade_uf' => 'RN',
+            ['cidade_id' => 3955, 'estado_id' => 11, 'cidade_nome' => 'Porto dos Gaúchos', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3956, 'estado_id' => 11, 'cidade_nome' => 'Porto Esperidião', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3957, 'estado_id' => 11, 'cidade_nome' => 'Porto Estrela', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3958, 'estado_id' => 25, 'cidade_nome' => 'Porto Feliz', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3959, 'estado_id' => 25, 'cidade_nome' => 'Porto Ferreira', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3960, 'estado_id' => 13, 'cidade_nome' => 'Porto Firme', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3961, 'estado_id' => 10, 'cidade_nome' => 'Porto Franco', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3962, 'estado_id' => 3, 'cidade_nome' => 'Porto Grande', 'cidade_uf' => 'AP',
+            ['cidade_id' => 3963, 'estado_id' => 21, 'cidade_nome' => 'Porto Lucena', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3964, 'estado_id' => 21, 'cidade_nome' => 'Porto Mauá', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3965, 'estado_id' => 12, 'cidade_nome' => 'Porto Murtinho', 'cidade_uf' => 'MS',
+            ['cidade_id' => 3966, 'estado_id' => 27, 'cidade_nome' => 'Porto Nacional', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3967, 'estado_id' => 19, 'cidade_nome' => 'Porto Real', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 3968, 'estado_id' => 2, 'cidade_nome' => 'Porto Real do Colégio', 'cidade_uf' => 'AL',
+            ['cidade_id' => 3969, 'estado_id' => 16, 'cidade_nome' => 'Porto Rico', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3970, 'estado_id' => 10, 'cidade_nome' => 'Porto Rico do Maranhão', 'cidade_uf' => 'MA',
+            ['cidade_id' => 3971, 'estado_id' => 5, 'cidade_nome' => 'Porto Seguro', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3972, 'estado_id' => 24, 'cidade_nome' => 'Porto União', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3973, 'estado_id' => 22, 'cidade_nome' => 'Porto Velho', 'cidade_uf' => 'RO',
+            ['cidade_id' => 3974, 'estado_id' => 21, 'cidade_nome' => 'Porto Vera Cruz', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3975, 'estado_id' => 16, 'cidade_nome' => 'Porto Vitória', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3976, 'estado_id' => 1, 'cidade_nome' => 'Porto Walter', 'cidade_uf' => 'AC',
+            ['cidade_id' => 3977, 'estado_id' => 21, 'cidade_nome' => 'Porto Xavier', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3978, 'estado_id' => 9, 'cidade_nome' => 'Posse', 'cidade_uf' => 'GO',
+            ['cidade_id' => 3979, 'estado_id' => 13, 'cidade_nome' => 'Poté', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3980, 'estado_id' => 6, 'cidade_nome' => 'Potengi', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3981, 'estado_id' => 25, 'cidade_nome' => 'Potim', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3982, 'estado_id' => 5, 'cidade_nome' => 'Potiraguá', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3983, 'estado_id' => 25, 'cidade_nome' => 'Potirendaba', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3984, 'estado_id' => 6, 'cidade_nome' => 'Potiretama', 'cidade_uf' => 'CE',
+            ['cidade_id' => 3985, 'estado_id' => 13, 'cidade_nome' => 'Pouso Alegre', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3986, 'estado_id' => 13, 'cidade_nome' => 'Pouso Alto', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3987, 'estado_id' => 21, 'cidade_nome' => 'Pouso Novo', 'cidade_uf' => 'RS',
+            ['cidade_id' => 3988, 'estado_id' => 24, 'cidade_nome' => 'Pouso Redondo', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3989, 'estado_id' => 11, 'cidade_nome' => 'Poxoréo', 'cidade_uf' => 'MT',
+            ['cidade_id' => 3990, 'estado_id' => 25, 'cidade_nome' => 'Pracinha', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3991, 'estado_id' => 3, 'cidade_nome' => 'Pracuúba', 'cidade_uf' => 'AP',
+            ['cidade_id' => 3992, 'estado_id' => 5, 'cidade_nome' => 'Prado', 'cidade_uf' => 'BA',
+            ['cidade_id' => 3993, 'estado_id' => 16, 'cidade_nome' => 'Prado Ferreira', 'cidade_uf' => 'PR',
+            ['cidade_id' => 3994, 'estado_id' => 25, 'cidade_nome' => 'Pradópolis', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3995, 'estado_id' => 13, 'cidade_nome' => 'Prados', 'cidade_uf' => 'MG',
+            ['cidade_id' => 3996, 'estado_id' => 24, 'cidade_nome' => 'Praia Grande', 'cidade_uf' => 'SC',
+            ['cidade_id' => 3997, 'estado_id' => 25, 'cidade_nome' => 'Praia Grande', 'cidade_uf' => 'SP',
+            ['cidade_id' => 3998, 'estado_id' => 27, 'cidade_nome' => 'Praia Norte', 'cidade_uf' => 'TO',
+            ['cidade_id' => 3999, 'estado_id' => 14, 'cidade_nome' => 'Prainha', 'cidade_uf' => 'PA',
+            ['cidade_id' => 4000, 'estado_id' => 16, 'cidade_nome' => 'Pranchita', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4001, 'estado_id' => 13, 'cidade_nome' => 'Prata', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4002, 'estado_id' => 15, 'cidade_nome' => 'Prata', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4003, 'estado_id' => 18, 'cidade_nome' => 'Prata do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4004, 'estado_id' => 25, 'cidade_nome' => 'Pratânia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4005, 'estado_id' => 13, 'cidade_nome' => 'Pratápolis', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4006, 'estado_id' => 13, 'cidade_nome' => 'Pratinha', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4007, 'estado_id' => 25, 'cidade_nome' => 'Presidente Alves', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4008, 'estado_id' => 13, 'cidade_nome' => 'Presidente Bernardes', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4009, 'estado_id' => 25, 'cidade_nome' => 'Presidente Bernardes', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4010, 'estado_id' => 24, 'cidade_nome' => 'Presidente Castello Branco', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4011, 'estado_id' => 16, 'cidade_nome' => 'Presidente Castelo Branco', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4012, 'estado_id' => 5, 'cidade_nome' => 'Presidente Dutra', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4013, 'estado_id' => 10, 'cidade_nome' => 'Presidente Dutra', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4014, 'estado_id' => 25, 'cidade_nome' => 'Presidente Epitácio', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4015, 'estado_id' => 4, 'cidade_nome' => 'Presidente Figueiredo', 'cidade_uf' => 'AM',
+            ['cidade_id' => 4016, 'estado_id' => 24, 'cidade_nome' => 'Presidente Getúlio', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4017, 'estado_id' => 5, 'cidade_nome' => 'Presidente Jânio Quadros', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4018, 'estado_id' => 10, 'cidade_nome' => 'Presidente Juscelino', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4019, 'estado_id' => 13, 'cidade_nome' => 'Presidente Juscelino', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4020, 'estado_id' => 20, 'cidade_nome' => 'Presidente Juscelino', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4021, 'estado_id' => 8, 'cidade_nome' => 'Presidente Kennedy', 'cidade_uf' => 'ES',
+            ['cidade_id' => 4022, 'estado_id' => 27, 'cidade_nome' => 'Presidente Kennedy', 'cidade_uf' => 'TO',
+            ['cidade_id' => 4023, 'estado_id' => 13, 'cidade_nome' => 'Presidente Kubitschek', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4024, 'estado_id' => 21, 'cidade_nome' => 'Presidente Lucena', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4025, 'estado_id' => 10, 'cidade_nome' => 'Presidente Médici', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4026, 'estado_id' => 22, 'cidade_nome' => 'Presidente Médici', 'cidade_uf' => 'RO',
+            ['cidade_id' => 4027, 'estado_id' => 24, 'cidade_nome' => 'Presidente Nereu', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4028, 'estado_id' => 13, 'cidade_nome' => 'Presidente Olegário', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4029, 'estado_id' => 25, 'cidade_nome' => 'Presidente Prudente', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4030, 'estado_id' => 10, 'cidade_nome' => 'Presidente Sarney', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4031, 'estado_id' => 5, 'cidade_nome' => 'Presidente Tancredo Neves', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4032, 'estado_id' => 10, 'cidade_nome' => 'Presidente Vargas', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4033, 'estado_id' => 25, 'cidade_nome' => 'Presidente Venceslau', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4034, 'estado_id' => 14, 'cidade_nome' => 'Primavera', 'cidade_uf' => 'PA',
+            ['cidade_id' => 4035, 'estado_id' => 17, 'cidade_nome' => 'Primavera', 'cidade_uf' => 'PE',
+            ['cidade_id' => 4036, 'estado_id' => 22, 'cidade_nome' => 'Primavera de Rondônia', 'cidade_uf' => 'RO',
+            ['cidade_id' => 4037, 'estado_id' => 11, 'cidade_nome' => 'Primavera do Leste', 'cidade_uf' => 'MT',
+            ['cidade_id' => 4038, 'estado_id' => 10, 'cidade_nome' => 'Primeira Cruz', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4039, 'estado_id' => 16, 'cidade_nome' => 'Primeiro de Maio', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4040, 'estado_id' => 24, 'cidade_nome' => 'Princesa', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4041, 'estado_id' => 15, 'cidade_nome' => 'Princesa Isabel', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4042, 'estado_id' => 9, 'cidade_nome' => 'Professor Jamil', 'cidade_uf' => 'GO',
+            ['cidade_id' => 4043, 'estado_id' => 21, 'cidade_nome' => 'Progresso', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4044, 'estado_id' => 25, 'cidade_nome' => 'Promissão', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4045, 'estado_id' => 26, 'cidade_nome' => 'Propriá', 'cidade_uf' => 'SE',
+            ['cidade_id' => 4046, 'estado_id' => 21, 'cidade_nome' => 'Protásio Alves', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4047, 'estado_id' => 13, 'cidade_nome' => 'Prudente de Morais', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4048, 'estado_id' => 16, 'cidade_nome' => 'Prudentópolis', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4049, 'estado_id' => 27, 'cidade_nome' => 'Pugmil', 'cidade_uf' => 'TO',
+            ['cidade_id' => 4050, 'estado_id' => 20, 'cidade_nome' => 'Pureza', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4051, 'estado_id' => 21, 'cidade_nome' => 'Putinga', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4052, 'estado_id' => 15, 'cidade_nome' => 'Puxinanã', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4053, 'estado_id' => 25, 'cidade_nome' => 'Quadra', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4054, 'estado_id' => 21, 'cidade_nome' => 'Quaraí', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4055, 'estado_id' => 13, 'cidade_nome' => 'Quartel Geral', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4056, 'estado_id' => 16, 'cidade_nome' => 'Quarto Centenário', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4057, 'estado_id' => 25, 'cidade_nome' => 'Quatá', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4058, 'estado_id' => 16, 'cidade_nome' => 'Quatiguá', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4059, 'estado_id' => 14, 'cidade_nome' => 'Quatipuru', 'cidade_uf' => 'PA',
+            ['cidade_id' => 4060, 'estado_id' => 19, 'cidade_nome' => 'Quatis', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 4061, 'estado_id' => 16, 'cidade_nome' => 'Quatro Barras', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4062, 'estado_id' => 21, 'cidade_nome' => 'Quatro Irmãos', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4063, 'estado_id' => 16, 'cidade_nome' => 'Quatro Pontes', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4064, 'estado_id' => 2, 'cidade_nome' => 'Quebrangulo', 'cidade_uf' => 'AL',
+            ['cidade_id' => 4065, 'estado_id' => 16, 'cidade_nome' => 'Quedas do Iguaçu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4066, 'estado_id' => 18, 'cidade_nome' => 'Queimada Nova', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4067, 'estado_id' => 5, 'cidade_nome' => 'Queimadas', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4068, 'estado_id' => 15, 'cidade_nome' => 'Queimadas', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4069, 'estado_id' => 19, 'cidade_nome' => 'Queimados', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 4070, 'estado_id' => 25, 'cidade_nome' => 'Queiroz', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4071, 'estado_id' => 25, 'cidade_nome' => 'Queluz', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4072, 'estado_id' => 13, 'cidade_nome' => 'Queluzito', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4073, 'estado_id' => 11, 'cidade_nome' => 'Querência', 'cidade_uf' => 'MT',
+            ['cidade_id' => 4074, 'estado_id' => 16, 'cidade_nome' => 'Querência do Norte', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4075, 'estado_id' => 21, 'cidade_nome' => 'Quevedos', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4076, 'estado_id' => 5, 'cidade_nome' => 'Quijingue', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4077, 'estado_id' => 24, 'cidade_nome' => 'Quilombo', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4078, 'estado_id' => 16, 'cidade_nome' => 'Quinta do Sol', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4079, 'estado_id' => 25, 'cidade_nome' => 'Quintana', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4080, 'estado_id' => 21, 'cidade_nome' => 'Quinze de Novembro', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4081, 'estado_id' => 17, 'cidade_nome' => 'Quipapá', 'cidade_uf' => 'PE',
+            ['cidade_id' => 4082, 'estado_id' => 9, 'cidade_nome' => 'Quirinópolis', 'cidade_uf' => 'GO',
+            ['cidade_id' => 4083, 'estado_id' => 19, 'cidade_nome' => 'Quissamã', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 4084, 'estado_id' => 16, 'cidade_nome' => 'Quitandinha', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4085, 'estado_id' => 6, 'cidade_nome' => 'Quiterianópolis', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4086, 'estado_id' => 17, 'cidade_nome' => 'Quixaba', 'cidade_uf' => 'PE',
+            ['cidade_id' => 4087, 'estado_id' => 15, 'cidade_nome' => 'Quixabá', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4088, 'estado_id' => 5, 'cidade_nome' => 'Quixabeira', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4089, 'estado_id' => 6, 'cidade_nome' => 'Quixadá', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4090, 'estado_id' => 6, 'cidade_nome' => 'Quixelô', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4091, 'estado_id' => 6, 'cidade_nome' => 'Quixeramobim', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4092, 'estado_id' => 6, 'cidade_nome' => 'Quixeré', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4093, 'estado_id' => 20, 'cidade_nome' => 'Rafael Fernandes', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4094, 'estado_id' => 20, 'cidade_nome' => 'Rafael Godeiro', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4095, 'estado_id' => 5, 'cidade_nome' => 'Rafael Jambeiro', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4096, 'estado_id' => 25, 'cidade_nome' => 'Rafard', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4097, 'estado_id' => 16, 'cidade_nome' => 'Ramilândia', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4098, 'estado_id' => 25, 'cidade_nome' => 'Rancharia', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4099, 'estado_id' => 16, 'cidade_nome' => 'Rancho Alegre', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4100, 'estado_id' => 16, 'cidade_nome' => 'Rancho Alegre D\'Oeste', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4101, 'estado_id' => 24, 'cidade_nome' => 'Rancho Queimado', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4102, 'estado_id' => 10, 'cidade_nome' => 'Raposa', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4103, 'estado_id' => 13, 'cidade_nome' => 'Raposos', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4104, 'estado_id' => 13, 'cidade_nome' => 'Raul Soares', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4105, 'estado_id' => 16, 'cidade_nome' => 'Realeza', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4106, 'estado_id' => 16, 'cidade_nome' => 'Rebouças', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4107, 'estado_id' => 17, 'cidade_nome' => 'Recife', 'cidade_uf' => 'PE',
+            ['cidade_id' => 4108, 'estado_id' => 13, 'cidade_nome' => 'Recreio', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4109, 'estado_id' => 27, 'cidade_nome' => 'Recursolândia', 'cidade_uf' => 'TO',
+            ['cidade_id' => 4110, 'estado_id' => 6, 'cidade_nome' => 'Redenção', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4111, 'estado_id' => 14, 'cidade_nome' => 'Redenção', 'cidade_uf' => 'PA',
+            ['cidade_id' => 4112, 'estado_id' => 25, 'cidade_nome' => 'Redenção da Serra', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4113, 'estado_id' => 18, 'cidade_nome' => 'Redenção do Gurguéia', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4114, 'estado_id' => 21, 'cidade_nome' => 'Redentora', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4115, 'estado_id' => 13, 'cidade_nome' => 'Reduto', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4116, 'estado_id' => 18, 'cidade_nome' => 'Regeneração', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4117, 'estado_id' => 25, 'cidade_nome' => 'Regente Feijó', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4118, 'estado_id' => 25, 'cidade_nome' => 'Reginópolis', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4119, 'estado_id' => 25, 'cidade_nome' => 'Registro', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4120, 'estado_id' => 21, 'cidade_nome' => 'Relvado', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4121, 'estado_id' => 5, 'cidade_nome' => 'Remanso', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4122, 'estado_id' => 15, 'cidade_nome' => 'Remígio', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4123, 'estado_id' => 16, 'cidade_nome' => 'Renascença', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4124, 'estado_id' => 6, 'cidade_nome' => 'Reriutaba', 'cidade_uf' => 'CE',
+            ['cidade_id' => 4125, 'estado_id' => 19, 'cidade_nome' => 'Resende', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 4126, 'estado_id' => 13, 'cidade_nome' => 'Resende Costa', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4127, 'estado_id' => 16, 'cidade_nome' => 'Reserva', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4128, 'estado_id' => 11, 'cidade_nome' => 'Reserva do Cabaçal', 'cidade_uf' => 'MT',
+            ['cidade_id' => 4129, 'estado_id' => 16, 'cidade_nome' => 'Reserva do Iguaçu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4130, 'estado_id' => 13, 'cidade_nome' => 'Resplendor', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4131, 'estado_id' => 13, 'cidade_nome' => 'Ressaquinha', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4132, 'estado_id' => 25, 'cidade_nome' => 'Restinga', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4133, 'estado_id' => 21, 'cidade_nome' => 'Restinga Seca', 'cidade_uf' => 'RS',
+            ['cidade_id' => 4134, 'estado_id' => 5, 'cidade_nome' => 'Retirolândia', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4135, 'estado_id' => 10, 'cidade_nome' => 'Riachão', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4136, 'estado_id' => 15, 'cidade_nome' => 'Riachão', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4137, 'estado_id' => 5, 'cidade_nome' => 'Riachão das Neves', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4138, 'estado_id' => 15, 'cidade_nome' => 'Riachão do Bacamarte', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4139, 'estado_id' => 26, 'cidade_nome' => 'Riachão do Dantas', 'cidade_uf' => 'SE',
+            ['cidade_id' => 4140, 'estado_id' => 5, 'cidade_nome' => 'Riachão do Jacuípe', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4141, 'estado_id' => 15, 'cidade_nome' => 'Riachão do Poço', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4142, 'estado_id' => 13, 'cidade_nome' => 'Riachinho', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4143, 'estado_id' => 27, 'cidade_nome' => 'Riachinho', 'cidade_uf' => 'TO',
+            ['cidade_id' => 4144, 'estado_id' => 20, 'cidade_nome' => 'Riacho da Cruz', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4145, 'estado_id' => 17, 'cidade_nome' => 'Riacho das Almas', 'cidade_uf' => 'PE',
+            ['cidade_id' => 4146, 'estado_id' => 5, 'cidade_nome' => 'Riacho de Santana', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4147, 'estado_id' => 20, 'cidade_nome' => 'Riacho de Santana', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4148, 'estado_id' => 15, 'cidade_nome' => 'Riacho de Santo Antônio', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4149, 'estado_id' => 15, 'cidade_nome' => 'Riacho dos Cavalos', 'cidade_uf' => 'PB',
+            ['cidade_id' => 4150, 'estado_id' => 13, 'cidade_nome' => 'Riacho dos Machados', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4151, 'estado_id' => 18, 'cidade_nome' => 'Riacho Frio', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4152, 'estado_id' => 20, 'cidade_nome' => 'Riachuelo', 'cidade_uf' => 'RN',
+            ['cidade_id' => 4153, 'estado_id' => 26, 'cidade_nome' => 'Riachuelo', 'cidade_uf' => 'SE',
+            ['cidade_id' => 4154, 'estado_id' => 9, 'cidade_nome' => 'Rialma', 'cidade_uf' => 'GO',
+            ['cidade_id' => 4155, 'estado_id' => 9, 'cidade_nome' => 'Rianápolis', 'cidade_uf' => 'GO',
+            ['cidade_id' => 4156, 'estado_id' => 10, 'cidade_nome' => 'Ribamar Fiquene', 'cidade_uf' => 'MA',
+            ['cidade_id' => 4157, 'estado_id' => 12, 'cidade_nome' => 'Ribas do Rio Pardo', 'cidade_uf' => 'MS',
+            ['cidade_id' => 4158, 'estado_id' => 25, 'cidade_nome' => 'Ribeira', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4159, 'estado_id' => 5, 'cidade_nome' => 'Ribeira do Amparo', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4160, 'estado_id' => 18, 'cidade_nome' => 'Ribeira do Piauí', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4161, 'estado_id' => 5, 'cidade_nome' => 'Ribeira do Pombal', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4162, 'estado_id' => 17, 'cidade_nome' => 'Ribeirão', 'cidade_uf' => 'PE',
+            ['cidade_id' => 4163, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão Bonito', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4164, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão Branco', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4165, 'estado_id' => 11, 'cidade_nome' => 'Ribeirão Cascalheira', 'cidade_uf' => 'MT',
+            ['cidade_id' => 4166, 'estado_id' => 16, 'cidade_nome' => 'Ribeirão Claro', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4167, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão Corrente', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4168, 'estado_id' => 13, 'cidade_nome' => 'Ribeirão das Neves', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4169, 'estado_id' => 5, 'cidade_nome' => 'Ribeirão do Largo', 'cidade_uf' => 'BA',
+            ['cidade_id' => 4170, 'estado_id' => 16, 'cidade_nome' => 'Ribeirão do Pinhal', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4171, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão do Sul', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4172, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão dos Índios', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4173, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão Grande', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4174, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão Pires', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4175, 'estado_id' => 25, 'cidade_nome' => 'Ribeirão Preto', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4176, 'estado_id' => 13, 'cidade_nome' => 'Ribeirão Vermelho', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4177, 'estado_id' => 11, 'cidade_nome' => 'Ribeirãozinho', 'cidade_uf' => 'MT',
+            ['cidade_id' => 4178, 'estado_id' => 18, 'cidade_nome' => 'Ribeiro Gonçalves', 'cidade_uf' => 'PI',
+            ['cidade_id' => 4179, 'estado_id' => 26, 'cidade_nome' => 'Ribeirópolis', 'cidade_uf' => 'SE',
+            ['cidade_id' => 4180, 'estado_id' => 25, 'cidade_nome' => 'Rifaina', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4181, 'estado_id' => 25, 'cidade_nome' => 'Rincão', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4182, 'estado_id' => 25, 'cidade_nome' => 'Rinópolis', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4183, 'estado_id' => 13, 'cidade_nome' => 'Rio Acima', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4184, 'estado_id' => 16, 'cidade_nome' => 'Rio Azul', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4185, 'estado_id' => 8, 'cidade_nome' => 'Rio Bananal', 'cidade_uf' => 'ES',
+            ['cidade_id' => 4186, 'estado_id' => 16, 'cidade_nome' => 'Rio Bom', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4187, 'estado_id' => 19, 'cidade_nome' => 'Rio Bonito', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 4188, 'estado_id' => 16, 'cidade_nome' => 'Rio Bonito do Iguaçu', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4189, 'estado_id' => 1, 'cidade_nome' => 'Rio Branco', 'cidade_uf' => 'AC',
+            ['cidade_id' => 4190, 'estado_id' => 11, 'cidade_nome' => 'Rio Branco', 'cidade_uf' => 'MT',
+            ['cidade_id' => 4191, 'estado_id' => 16, 'cidade_nome' => 'Rio Branco do Ivaí', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4192, 'estado_id' => 16, 'cidade_nome' => 'Rio Branco do Sul', 'cidade_uf' => 'PR',
+            ['cidade_id' => 4193, 'estado_id' => 12, 'cidade_nome' => 'Rio Brilhante', 'cidade_uf' => 'MS',
+            ['cidade_id' => 4194, 'estado_id' => 13, 'cidade_nome' => 'Rio Casca', 'cidade_uf' => 'MG',
+            ['cidade_id' => 4195, 'estado_id' => 19, 'cidade_nome' => 'Rio Claro', 'cidade_uf' => 'RJ',
+            ['cidade_id' => 4196, 'estado_id' => 25, 'cidade_nome' => 'Rio Claro', 'cidade_uf' => 'SP',
+            ['cidade_id' => 4197, 'estado_id' => 22, 'cidade_nome' => 'Rio Crespo', 'cidade_uf' => 'RO',
+            ['cidade_id' => 4198, 'estado_id' => 27, 'cidade_nome' => 'Rio da Conceição', 'cidade_uf' => 'TO',
+            ['cidade_id' => 4199, 'estado_id' => 24, 'cidade_nome' => 'Rio das Antas', 'cidade_uf' => 'SC',
+            ['cidade_id' => 4200, 'estado_id' => 19, 'cidade_nome' => 'Rio das Flores', 'cidade_uf' => 'RJ',
             INSERT INTO `cidades` VALUES ('4201', '19', 'Rio das Ostras', 'RJ');
             INSERT INTO `cidades` VALUES ('4202', '25', 'Rio das Pedras', 'SP');
             INSERT INTO `cidades` VALUES ('4203', '5', 'Rio de Contas', 'BA');
